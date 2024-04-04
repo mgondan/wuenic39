@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+out/???.txt
+warn39.txt
+wuenic39.Rproj
