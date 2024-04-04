@@ -1,0 +1,272 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	1997	98	98	2		98	98			39808	39808	98	gov		R: AP	Legacy estimate.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	1998	99	99	2		99	99			39054	39054	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	1999	99	99	2	99	99	99			38357	38357	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2000	99	99	1	99	99	99	31410	31700	35951	35951	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2001	99	99	2	99	99	99	30003	30215	32674	32674	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2002	99	99	2	99	99	99	29941	30153	31010	31010	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2003	99	99	2	99	99	99	30332	30516	31055	31055	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2004	99	99	1	99	99	99	26921	27211	30729	30729	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2005	99	99	1	99	99	99	26147	26299	30556	30556	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2006	99	99	1	99	99	99	26415	26570	30621	30621	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2007	99	99	1	99	99	99	26535	26724	30808	30808	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2008	99	99	2	99	99	99	29194	29407	31900	31900	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2009	99	99	2	99	99	99	29317	29506	32220	32220	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2010	99	99	2	99	99	99	29145	29461	31469	31469	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2011	98	98	1	98	98	98	26849	27453	31715	31715	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2012	98	98	1	98	98	98	25964	26525	31961	31961	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2013	98	98	1	98	98	98	25434	25899	31224	31224	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2014	98	98	1	98	98	98	26399	27020	31360	31360	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2015	97	97	1	97	97	97	26346	27110	32015	32015	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2016	98	98	1	98	98	98	26415	27027	31174	31174	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2017	97	97	1	97	97	97	24728	25407	29600	29600	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2018	96	96	1	96	96	96	23628	24505	29026	29026	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2019	97	97	1	97	97	97	22658	23465	28075	28075	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2020	96	96	1	96	96	96	21222	22155	27494	27494	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2021	93	93	1	93	93	93	20449	21914	26862	26862	93	gov		R:	Estimate informed by reported data.  Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	bcg	2022	93		1	93	93	93	19132	20631	26206	26206	93	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	1997	96	96	1						39808	39808	99	extrapolated		W: AP	Estimate of 96 percent assigned by working group. Legacy estimate.   GoC=No accepted empirical data	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	1998	97	97	1						39054	39054	99	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	1999	98	98	1						38357	38357	99	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2000	99	99	2	99	99	99	34649	35146	35951	35951	99	gov		R: AP	 Estimate is based on the reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2001	98	98	2	98	98	98	32291	32797	32674	32674	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2002	98	98	2	98	98	98	30043	30626	31010	31010	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2003	98	98	2	98	98	98	28558	29011	31055	31055	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2004	94	94	2	94	94	94	27490	29251	30729	30729	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2005	98	98	2	98	98	98	28195	28833	30556	30556	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2006	98	98	2	98	98	98	28149	28740	30621	30621	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2007	99	99	2	99	99	99	28369	28669	30808	30808	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2008	96	96	2	96	96	96	28344	29604	31900	31900	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2009	98	98	2	99	98	98	30779	31108	32220	32220	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2010	98	98	2	98	98	98	32307	32859	31469	31469	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2011	95	95	2	95	95	95	29258	30875	31715	31715	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2012	97	97	2	97	97	97	28522	29383	31961	31961	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2013	97	97	2	97	97	97	28331	29078	31224	31224	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2014	97	97	2	97	97	97	27334	28195	31360	31360	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2015	97	97	2	97	97	97	28184	28928	32015	32015	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2016	97	97	2	96	97	97	28312	29338	31174	31174	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2017	97	97	2	97	97	97	28120	28974	29600	29600	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2018	95	95	2	95	95	95	26503	27798	29026	29026	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2019	96	96	2	96	96	96	25424	26613	28075	28075	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2020	95	95	2	95	95	95	24091	25230	27494	27494	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2021	93	93	1	93	93	93	22095	23773	26862	26862	93	gov		R:	Estimate informed by reported data.  Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp1	2022	93		2	93	93	93	22323	23952	26206	26206	93	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	1997	90	90	2		90	90			39808	39808	90	gov		R: AP	Legacy estimate.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	1998	93	93	2		93	93			39054	39054	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	1999	93	93	2	93	93	93			38357	38357	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2000	94	94	2	94	94	94	33034	35146	35951	35951	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2001	95	95	2	95	95	95	30992	32797	32674	32674	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2002	95	95	2	95	95	95	29030	30626	31010	31010	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2003	94	94	2	94	94	94	27330	29011	31055	31055	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2004	94	94	2	94	94	94	27474	29251	30729	30729	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2005	94	94	2	94	94	94	27102	28833	30556	30556	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2006	94	94	2	94	94	94	27038	28740	30621	30621	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2007	95	95	2	95	95	95	27208	28669	30808	30808	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2008	96	96	2	96	96	96	28344	29604	31900	31900	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2009	98	98	2	97	98	98	30299	31108	32220	32220	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2010	95	95	2	95	95	95	31154	32859	31469	31469	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2011	92	92	2	92	92	92	28515	30875	31715	31715	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2012	93	93	2	93	93	93	27259	29383	31961	31961	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2013	93	93	2	93	93	93	27105	29078	31224	31224	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2014	93	93	2	93	93	93	26192	28195	31360	31360	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2015	93	93	2	93	93	93	27041	28928	32015	32015	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2016	94	94	2	94	94	94	27599	29338	31174	31174	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2017	94	94	2	94	94	94	27155	28974	29600	29600	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2018	92	92	2	92	92	92	25661	27798	29026	29026	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2019	92	92	2	92	92	92	24516	26613	28075	28075	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2020	91	91	2	91	91	91	23048	25230	27494	27494	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2021	90	90	1	90	90	90	21407	23773	26862	26862	90	gov		R:	Estimate informed by reported data.  Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	dtp3	2022	90		2	90	90	90	21553	23952	26206	26206	90	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	1998	73	73	2		73	73			39054	39054	73	gov		R:	Estimate informed by reported data.   HepB vaccine introduced in 1998 Vaccine presentation is HepB .  GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	1999	96	96	2	96	96	96			38357	38357	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2000	98	98	2	98	98	98	34688	35146	35951	35951	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2001	95	95	2	95	95	95	31096	32797	32674	32674	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2002	94	94	2	94	94	94	28875	30626	31010	31010	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2003	95	95	2	95	95	95			31055	31055	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2004	94	94	2	94	94	94	27576	29251	30729	30729	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2005	95	95	2	95	95	95	27425	28833	30556	30556	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2006	95	95	2	95	95	95	27191	28740	30621	30621	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2007	96	96	2	96	96	96	27435	28669	30808	30808	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2008	96	96	2	96	96	96	28550	29604	31900	31900	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2009	95	95	2	96	95	95	29773	31108	32220	32220	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2010	94	94	2	94	94	94	31058	32859	31469	31469	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2011	95	95	2	95	95	95	29214	30875	31715	31715	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2012	93	93	2	93	93	93	27396	29381	31961	31961	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2013	93	93	2	93	93	93	27146	29078	31224	31224	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2014	94	94	2	94	94	94	26498	28195	31360	31360	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2015	94	94	2	94	94	94	27130	28928	32015	32015	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2016	95	95	2	95	95	95	27739	29338	31174	31174	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2017	94	94	2	94	94	94	27170	28974	29600	29600	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2018	93	93	2	93	93	93	25765	27798	29026	29026	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2019	92	92	2	92	92	92	24493	26613	28075	28075	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2020	91	91	2	91	91	91	23066	25230	27494	27494	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2021	90	90	1	90	90	90	21407	23773	26862	26862	90	gov		R:	Estimate informed by reported data.   Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepb3	2022	90		2	90	90	90	21553	23952	26206	26206	90	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2000	99	99	1	99	99	99	31404	31700	35951	35951	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2001	99	99	2	99	99	99	29973	30215	32674	32674	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2002	99	99	2	100	100	100	30032	30153	31010	31010	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2003	99	99	2	99	99	99	30324	30516	31055	31055	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2004	99	99	1	99	99	99	26835	27211	30729	30729	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2005	99	99	1	99	99	99	26037	26299	30556	30556	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2006	99	99	1	99	99	99	26402	26570	30621	30621	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2007	99	99	1	99	99	99	26447	26724	30808	30808	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2008	92	92	2	99	92	92	29145	29407	31900	31900	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2009	98	98	2	99	98	98	29144	29506	32220	32220	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2010	98	98	2	98	98	98	28972	29461	31469	31469	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2011	96	96	1	96	96	96	26278	27453	31715	31715	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2012	96	96	2	96	96	96			31961	31961	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2013	98	98	1	98	98	98	25311	25899	31224	31224	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2014	97	97	1	97	97	97	26319	27028	31360	31360	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2015	97	97	1						32015	32015	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2016	97	97	2		97	97			31174	31174	97	gov		R:	Estimate informed by reported data.    GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2017	97	97	1						29600	29600	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2018	96	96	1						29026	29026	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2019	96	96	1						28075	28075	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2020	95	95	1	95	95	95	21105	22155	27494	27494	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2021	93	93	1	93	93	93	20275	21914	26862	26862	93	gov		R:	Estimate informed by reported data.   Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hepbb	2022	95		1	95	95	95	19504	20631	26206	26206	95	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	1999	2	2	2	2	2	2			38357	38357	2	gov		R:	Estimate informed by reported data.   Hib vaccine introduced nationally in 2004 reporting started in 1999  GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2000	2	2	2	2		2	877	35146	35951	35951	2	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2001	4	4	2	4		4	1253	32797	32674	32674	4	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2002	5	5	2		5	5			31010	31010	5	gov		R:	Estimate informed by reported data.    GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2003	10	10	2		10	10			31055	31055	10	gov		R:	Estimate informed by reported data.    GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2004	35	35	2	35	35	35	10199	29251	30729	30729	35	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2005	61	61	2	61	61	61	17676	28833	30556	30556	61	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2006	94	94	2	94	94	94	27038	28740	30621	30621	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2007	95	95	2	95	95	95	27208	28669	30808	30808	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2008	96	96	2	96	96	96	28344	29604	31900	31900	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2009	98	98	2	97	98	98	30299	31108	32220	32220	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2010	95	95	2	95	95	95	31154	32859	31469	31469	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2011	92	92	2	92	92	92	28515	30875	31715	31715	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2012	93	93	2	93	93	93	27259	29383	31961	31961	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2013	93	93	2	93	93	93	27105	29078	31224	31224	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2014	93	93	2	93	93	93	26192	28195	31360	31360	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2015	93	93	2	93	93	93	27041	28928	32015	32015	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2016	94	94	2	94	94	94	27599	29338	31174	31174	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2017	94	94	2	94	94	94	27155	28974	29600	29600	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2018	92	92	2	92	92	92	25661	27798	29026	29026	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2019	92	92	2	92	92	92	24516	26613	28075	28075	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2020	91	91	2	91	91	91	23048	25230	27494	27494	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2021	90	90	1	90	90	90	21407	23773	26862	26862	90	gov		R:	Estimate informed by reported data.   Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	hib3	2022	90		2	90	90	90	21553	23952	26206	26206	90	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	ipv1	2015	97	97	2	97	97	97	28184	28928	32015	32015	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	ipv1	2016	97	97	2	96	97	97	28312	29338	31174	31174	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	ipv1	2017	97	97	2	97	97	97	28120	28974	29600	29600	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	ipv1	2018	95	95	2	95	95	95	26503	27798	29026	29026	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	ipv1	2019	96	96	2	96	96	96	25424	26613	28075	28075	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	ipv1	2020	95	95	2	95	95	95	24091	25230	27494	27494	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	ipv1	2021	93	93	1	93	93	93	22095	23773	26862	26862	93	gov		R:	Estimate informed by reported data.   Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	ipv1	2022	93		2	93	93	93	22323	23952	26206	26206	93	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	1997	96	96	2		96	96			39808	39808	96	gov		R: AP	Legacy estimate.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	1998	97	97	2		97	97			39054	39054	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	1999	97	97	2	97	97	97			38357	38357	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2000	97	97	2	97	97	97	34880	36003	35951	35951	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2001	97	97	2	97	97	97	34122	35048	32674	32674	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2002	98	98	2	98	98	98	32387	33073	31010	31010	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2003	98	98	2	98	98	98	30161	30874	31055	31055	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2004	98	98	2	98	98	98	28542	29224	30729	30729	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2005	97	97	2	97	97	97	28394	29199	30556	30556	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2006	97	97	2	97	97	97	28081	29057	30621	30621	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2007	97	97	2	97	97	97	27987	28892	30808	30808	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2008	97	97	2	97	97	97	28700	29602	31900	31900	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2009	96	96	2	97	96	96	28808	29724	32220	32220	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2010	96	96	2	96	96	96	30710	31954	31469	31469	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2011	94	94	2	94	94	94	30365	32393	31715	31715	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2012	93	93	2	93	93	93	28995	31029	31961	31961	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2013	93	93	2	93	93	93	27639	29640	31224	31224	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2014	93	93	2	93	93	93	27422	29373	31360	31360	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2015	94	94	2	94	94	94	27035	28714	32015	32015	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2016	94	94	2	94	94	94	27216	29039	31174	31174	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2017	94	94	2	94	94	94	27709	29647	29600	29600	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2018	92	92	2	92	92	92	27047	29352	29026	29026	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2019	93	93	2	93	93	93	25698	27713	28075	28075	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2020	90	90	2	90	90	90	24136	26792	27494	27494	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2021	88	88	2	88	88	88	22358	25290	26862	26862	88	gov		R:	Estimate informed by reported data.  Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv1	2022	87		1	87	87	87	26652	30801	26206	26206	87	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Unexplained year-to-year increase of 21 percent from 2021 to 2022 in the reported target population for MCV1.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2000	97	97	1	97	97	97	54322	55924	35951	35951	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2001	96	96	1	96	96	96	51062	53210	32674	32674	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2002	95	95	1	95	95	95	50416	52878	31010	31010	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2003	93	93	1	93	93	93	35725	38564	31055	31055	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2004	93	93	1	93	93	93	34471	36924	30729	30729	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2005	95	95	1	95	95	95	34055	35858	30556	30556	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2006	94	94	1	94	94	94	33055	35312	30621	30621	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2007	96	96	1	96	96	96	38865	40404	30808	30808	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2008	96	96	1	96	96	96	38145	39561	31900	31900	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2009	94	94	2	94	94	94	27375	29074	32220	32220	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2010	95	95	2	95	95	95	28060	29636	31469	31469	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2011	94	94	1	94		94	26387	28160	31715	31715	94	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2012	93	93	2	93	93	93	26546	28595	31961	31961	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2013	92	92	2	92	92	92	26430	28581	31224	31224	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2014	92	92	2	92	92	92	26489	28857	31360	31360	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2015	92	92	2	92	92	92	27896	30488	32015	32015	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2016	92	92	2	92	92	92	28828	31259	31174	31174	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2017	92	92	2	92	92	92	28215	30581	29600	29600	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2018	92	92	2	92	92	92	26733	29198	29026	29026	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2019	93	93	2	93	93	93	26867	28826	28075	28075	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2020	91	91	2	91	91	91	25437	28099	27494	27494	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2021	88	88	2	88	88	88	25433	28779	26862	26862	88	gov		R:	Estimate informed by reported data.   Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	mcv2	2022	87		1	87	87	87	26652	30801	26206	26206	87	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pcv3	2016	82	82	2	82	82	82	23927	29338	31174	31174	82	gov		R:	Estimate informed by reported data.   Pneumococcal conjugate vaccine introduced during October 2014 and reporting began in 2016.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pcv3	2017	82	82	2	82	82	82	23893	28974	29600	29600	82	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pcv3	2018	82	82	2	82	82	82	22778	27798	29026	29026	82	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pcv3	2019	82	82	2	82	82	82	21723	26613	28075	28075	82	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pcv3	2020	83	83	2	83	83	83	21056	25230	27494	27494	83	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pcv3	2021	82	82	2	82	82	82	19563	23773	26862	26862	82	gov		R:	Estimate informed by reported data.   Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pcv3	2022	81		2	81	81	81	19353	23952	26206	26206	81	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	1997	95	95	2		95	95			39808	39808	95	gov		R: AP	Legacy estimate.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	1998	88	88	2		88	88			39054	39054	88	gov		R:	Estimate informed by reported data.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	1999	88	88	2	88	88	88			38357	38357	88	gov		R:	Estimate informed by reported data.   GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2000	92	92	2	90	92	92	32412	36003	35951	35951	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2001	97	97	2	97	97	97	31964	32797	32674	32674	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2002	97	97	2	97	97	97	29707	30626	31010	31010	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2003	91	91	2	91	91	91	28168	29011	31055	31055	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2004	90	90	2	97	90	90	28360	29224	30729	30729	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2005	93	93	2	93	93	93	26999	29199	30556	30556	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2006	94	94	2	94	94	94	27038		30621	30621	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2007	95	95	2	95	95	95	27208		30808	30808	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2008	96	96	2	96	96	96	28344	29604	31900	31900	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2009	98	98	2	97	98	98	30299	31108	32220	32220	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2010	95	95	2	95	95	95	31154	32859	31469	31469	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2011	92	92	2	92	92	92	28515	30875	31715	31715	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2012	93	93	2	93	93	93	27259	29383	31961	31961	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2013	93	93	2	93	93	93	27105	29078	31224	31224	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2014	93	93	2	93	93	93	26192	28195	31360	31360	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2015	93	93	2	93	93	93	27041	28928	32015	32015	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2016	94	94	2	94	94	94	27599	29338	31174	31174	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2017	94	94	2	94	94	94	27155	28974	29600	29600	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2018	92	92	2	92	92	92	25661	27798	29026	29026	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2019	92	92	2	92	92	92	24516	26613	28075	28075	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2020	91	91	2	91	91	91	23048	25230	27494	27494	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2021	90	90	1	90	90	90	21407	23773	26862	26862	90	gov		R:	Estimate informed by reported data.  Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	pol3	2022	90		2	90	90	90	21553	23952	26206	26206	90	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	1997	96	96	2						39808	39808				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	1998	97	97	2						39054	39054				R:	Estimate based on estimated MCV1.    GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	1999	97	97	2						38357	38357				R:	Estimate based on estimated MCV1.    GoC=R+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2000	97	97	2						35951	35951				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2001	97	97	2						32674	32674				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2002	98	98	2						31010	31010				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2003	98	98	2						31055	31055				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2004	98	98	2						30729	30729				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2005	97	97	2						30556	30556				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2006	97	97	2						30621	30621				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2007	97	97	2						30808	30808				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2008	97	97	2						31900	31900				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2009	96	96	2						32220	32220				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2010	96	96	2						31469	31469				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2011	94	94	2						31715	31715				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2012	93	93	2						31961	31961				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2013	93	93	2						31224	31224				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2014	93	93	2						31360	31360				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2015	94	94	2						32015	32015				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2016	94	94	2				27216	29039	31174	31174				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2017	94	94	2				27709	29647	29600	29600				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2018	92	92	2						29026	29026				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2019	93	93	2						28075	28075				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2020	90	90	2						27494	27494				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2021	88	88	2						26862	26862				R:	Estimate based on estimated MCV1.   Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rcv1	2022	87		1						26206	26206				R:	Estimate based on estimated MCV1.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rotac	2018	1	1	2	1	1	1	270	24505	29026	29026	1	gov		R:	Estimate informed by reported data.   Rotavirus vaccine introduced during September 2018.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rotac	2019	45	45	2	45	45	45	10508	23465	28075	28075	45	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rotac	2020	48	48	2	48	48	48	10541	22155	27494	27494	48	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rotac	2021	48	48	2	48	48	48	10572	21914	26862	26862	48	gov		R:	Estimate informed by reported data.   Numerator and denominator have declined over 10 percent since 2019, and almost 16 percent decline in the target population since 2016.  GoC=R+ D+	
+Lithuania	Wed Sep 06 18:55:22 2023	ltu	rotac	2022	49		1	49	49	49	10118	20631	26206	26206	49	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	

@@ -1,0 +1,280 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	1997	91	91	2	91	91	91			575713	575713	91	gov		R: AP	Legacy estimate.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	1998	92	92	2	91	92	92			582075	582075	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	1999	92	92	2	92	92	92			588360	588360	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2000	94	94	2	94	94	94			595746	595746	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2001	94	94	2	94	94	94			592858	592858	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2002	98	98	2	98	98	98			585563	585563	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2003	94	94	2	94	94	94			573744	573744	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2004	95	95	2	95	95	95			562975	562975	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2005	96	96	2	96	96	96			556955	556955	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2006	95	95	2	95	95	95			581232	581232	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2007	96	96	2	96	96	96			608075	608075	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2008	98	98	2	98	98	98			618625	618625	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2009	98	98	2	98	98	98			629970	629970	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2010	98	98	2	98	98	98			641461	641461	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2011	98	98	2	98	98	98			651336	651336	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2012	99	99	2	99	99	99			653880	653880	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2013	99	99	2	99	99	99			652558	652558	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2014	98	98	2	98	98	98			646971	646971	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2015	98	98	2	98	98	98			638755	638755	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2016	98	98	2	98	98	98		521200	632305	632305	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2017	97	97	1	97	97	97	527308	543616	643748	643748	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2018	98	98	1	98	98	98	541853	556395	652649	652649	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2019	52	52	1	52	52	52	239659	456931	658884	658884	52	gov		R:	Estimate informed by reported data.  Programme notes that the dose of BCG vaccine at birth was stopped as of August 2019 alongside a new recommendation of BCG administration at 6 months of age.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2020	95	95	1	95	95	95	446899	469925	665930	665930	95	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2021	94	94	1	94	94	94	456748	485386	629339	629339	94	gov		R:	Estimate informed by reported data.  Programme notes a change in source of information for newborns from forecasted value to data from electronic registration. Programme reports a one month vaccine stockout at both national and subnational levels.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	bcg	2022	98		1	98	98	98	445620	456564	615690	615690	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	1997	94	94	2	94		94			575713	575713	94	admin		R: AP	Legacy estimate.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	1998	95	95	2	95		95			582075	582075	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	1999	94	94	2	94		94			588360	588360	94	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2000	95	95	2	95		95			595746	595746	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2001	99	99	2	99	99	99			592858	592858	99	gov		R: AP	 Estimate is based on the reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2002	97	97	2	97	97	97			585563	585563	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2003	96	96	2	96	96	96			573744	573744	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2004	96	96	2	96	96	96			562975	562975	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2005	97	97	2	97	97	97			556955	556955	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2006	97	97	2	97	97	97			581232	581232	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2007	97	97	2	97	97	97			608075	608075	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2008	98	98	2	98	98	98			618625	618625	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2009	98	98	2	98	98	98			629970	629970	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2010	98	98	2	98	98	98			641461	641461	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2011	99	99	2	99	99	99			651336	651336	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2012	98	98	2	98	98	98			653880	653880	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2013	98	98	2	98	98	98			652558	652558	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2014	99	99	2	99	99	99			646971	646971	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2015	98	98	2	98	98	98			638755	638755	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2016	98	98	2	98	98	98		521200	632305	632305	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2017	99	99	1	99	99	99	535599	541009	643748	643748	99	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 99 less than 300.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2018	96	96	1	96	96	96	530795	552911	652649	652649	96	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 93 less than 300.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2019	96	96	1	96	96	96	443737	459810	658884	658884	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2020	96	96	1	96	96	96	448892	469925	665930	665930	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2021	97	97	1	97	97	97	472281	485386	629339	629339	97	gov		R:	Estimate informed by reported data.  Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp1	2022	98		1	98	98	98	446980	456564	615690	615690	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	1997	92	92	2	92	92	92			575713	575713	92	gov		R: AP	Legacy estimate.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	1998	94	94	2	94	94	94			582075	582075	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	1999	93	93	2	93	93	93			588360	588360	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2000	95	95	2	95	95	95			595746	595746	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2001	97	97	2	97	97	97			592858	592858	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2002	95	95	2	95	95	95			585563	585563	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2003	95	95	2	95	95	95			573744	573744	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2004	96	96	2	96	96	96			562975	562975	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2005	96	96	2	96	96	96			556955	556955	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2006	96	96	2	96	96	96			581232	581232	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2007	96	96	2	96	96	96			608075	608075	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2008	98	98	2	98	98	98			618625	618625	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2009	98	98	2	98	98	98			629970	629970	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2010	98	98	2	98	98	98			641461	641461	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2011	98	98	2	98	98	98			651336	651336	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2012	98	98	2	98	98	98			653880	653880	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2013	98	98	2	98	98	98			652558	652558	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2014	98	98	2	98	98	98			646971	646971	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2015	98	98	2	98	98	98			638755	638755	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2016	98	98	2	98	98	98		521200	632305	632305	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2017	98	98	1	98	98	98	530189	541009	643748	643748	98	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 99 less than 300. The 2019 Kingdom of Saudi Arabia World Health Survey (KSAWHS 2019) card or history results of 74 percent modifed for recall bias to 96 percent based on 1st dose card or history coverage of 96 percent, 1st dose card only coverage of 100 percent and 3rd dose card only coverage of 100 percent.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2018	96	96	1	96	96	96	530795	552911	652649	652649	96	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 93 less than 300. The 2019 Kingdom of Saudi Arabia World Health Survey (KSAWHS 2019) card or history results of 68 percent modifed for recall bias to 89 percent based on 1st dose card or history coverage of 89 percent, 1st dose card only coverage of 100 percent and 3rd dose card only coverage of 100 percent.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2019	96	96	1	96	96	96	440164	459810	658884	658884	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2020	95	95	1	95	95	95	448308	469925	665930	665930	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2021	97	97	1	97	97	97	472679	485386	629339	629339	97	gov		R:	Estimate informed by reported data.  Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	dtp3	2022	98		1	98	98	98	446976	456564	615690	615690	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	1997	91	91	2	91	91	91			575713	575713	91	gov		R: AP	Legacy estimate.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	1998	95	95	2	95	95	95			582075	582075	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	1999	92	92	2	92	92	92			588360	588360	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2000	93	93	2	93	93	93			595746	595746	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2001	95	95	2	95	95	95			592858	592858	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2002	97	97	2	97	97	97			585563	585563	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2003	95	95	2	95	95	95			573744	573744	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2004	96	96	2	96	96	96			562975	562975	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2005	97	97	2	97	97	97			556955	556955	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2006	96	96	2	96	96	96			581232	581232	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2007	96	96	2	96	96	96			608075	608075	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2008	98	98	2	98	98	98			618625	618625	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2009	98	98	2	98	98	98			629970	629970	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2010	98	98	2	98	98	98			641461	641461	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2011	98	98	2	98	98	98			651336	651336	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2012	98	98	2	98	98	98			653880	653880	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2013	98	98	2	98	98	98			652558	652558	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2014	98	98	2	98	98	98			646971	646971	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2015	98	98	2	98	98	98			638755	638755	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2016	98	98	2	98	98	98		521200	632305	632305	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2017	98	98	1	98	98	98	530189	541009	643748	643748	98	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 99 less than 300. The 2019 Kingdom of Saudi Arabia World Health Survey (KSAWHS 2019) card or history results of 74 percent modifed for recall bias to 96 percent based on 1st dose card or history coverage of 96 percent, 1st dose card only coverage of 100 percent and 3rd dose card only coverage of 100 percent.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2018	97	97	1	97		97	536324	552911	652649	652649	97	admin		R:	Estimate informed by reported administrative data.  Survey results ignored. Sample size 93 less than 300. The 2019 Kingdom of Saudi Arabia World Health Survey (KSAWHS 2019) card or history results of 68 percent modifed for recall bias to 89 percent based on 1st dose card or history coverage of 89 percent, 1st dose card only coverage of 100 percent and 3rd dose card only coverage of 100 percent.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2019	96	96	1						658884	658884	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2020	95	95	1	95	95	95	448308	469925	665930	665930	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2021	97	97	1	97	97	97	472281	485386	629339	629339	97	gov		R:	Estimate informed by reported data.  Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepb3	2022	98		1	98	98	98	446976	456564	615690	615690	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2001	94	94	2	94	94	94			592858	592858	94	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2002	98	98	2	98	98	98			585563	585563	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2003	94	94	2	94	94	94			573744	573744	94	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2004	95	95	2		95	95			562975	562975	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2005	96	96	2	96	96	96			556955	556955	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2006	95	95	2	95	95	95			581232	581232	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2007	96	96	2	96	96	96			608075	608075	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2008	98	98	2	98	98	98			618625	618625	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2009	98	98	2	98	98	98			629970	629970	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2010	98	98	2	98	98	98			641461	641461	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2011	98	98	2	98	98	98			651336	651336	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2012	99	99	2	98	99	99			653880	653880	99	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2013	99	99	2	99	99	99			652558	652558	99	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2014	98	98	2	98	98	98			646971	646971	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2015	98	98	2	98	98	98			638755	638755	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2016	98	98	2	98	98	98		521200	632305	632305	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2017	96	96	1	96	96	96	521871	543616	643748	643748	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2018	98	98	1	98	98	98	541853	556395	652649	652649	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2019	96	96	1	96	96	96	437376	456931	658884	658884	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2020	96	96	1	96	96	96	456179	472725	665930	665930	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2021	98	98	1	98	98	98	479162	488443	629339	629339	98	gov		R:	Estimate informed by reported data.   Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hepbb	2022	98		1	98	98	98	449791	459439	615690	615690	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2002	95	95	2	95	95	95			585563	585563	95	gov		R:	Estimate informed by reported data.   Hib vaccine introduced in 2002.  GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2003	95	95	2	95	95	95			573744	573744	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2004	96	96	2	96	96	96			562975	562975	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2005	96	96	2	96	96	96			556955	556955	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2006	96	96	2	96	96	96			581232	581232	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2007	96	96	2	96	96	96			608075	608075	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2008	98	98	2	98	98	98			618625	618625	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2009	98	98	2	98	98	98			629970	629970	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2010	98	98	2	98	98	98			641461	641461	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2011	98	98	2	98	98	98			651336	651336	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2012	98	98	2	98	98	98			653880	653880	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2013	98	98	2	98	98	98			652558	652558	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2014	98	98	2	98	98	98			646971	646971	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2015	98	98	2	98	98	98			638755	638755	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2016	98	98	2	98	98	98			632305	632305	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2017	98	98	1	98	98	98	530189	541009	643748	643748	98	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 99 less than 300. The 2019 Kingdom of Saudi Arabia World Health Survey (KSAWHS 2019) card or history results of 74 percent modifed for recall bias to 96 percent based on 1st dose card or history coverage of 96 percent, 1st dose card only coverage of 100 percent and 3rd dose card only coverage of 100 percent.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2018	96	96	1	96		96	530795	552911	652649	652649	96	admin		R:	Estimate informed by reported administrative data.  Survey results ignored. Sample size 93 less than 300. The 2019 Kingdom of Saudi Arabia World Health Survey (KSAWHS 2019) card or history results of 68 percent modifed for recall bias to 89 percent based on 1st dose card or history coverage of 89 percent, 1st dose card only coverage of 100 percent and 3rd dose card only coverage of 100 percent.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2019	96	96	1						658884	658884	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2020	95	95	1	95	95	95	448308	469925	665930	665930	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2021	97	97	1	97	97	97	472281	485386	629339	629339	97	gov		R:	Estimate informed by reported data.   Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	hib3	2022	98		1	98	98	98	446976	456564	615690	615690	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	ipv1	2015	98	98	2	98	98	98			638755	638755	98	gov		R:	Estimate informed by reported data.   Inactivated polio vaccine during 2008.  GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	ipv1	2016	98	98	2	98	98	98		521200	632305	632305	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	ipv1	2017	99	99	1	99	99	99	535599	541009	643748	643748	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	ipv1	2018	96	96	1	96	96	96	530795	552911	652649	652649	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	ipv1	2019	96	96	1	96	96	96	443737	459810	658884	658884	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	ipv1	2020	95	95	1	95	95	95	445892	469925	665930	665930	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	ipv1	2021	97	97	1	97	97	97	472281	485386	629339	629339	97	gov		R:	Estimate informed by reported data.   Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	ipv1	2022	98		1	98	98	98	446980	456564	615690	615690	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	1997	92	92	2	92	92	92			575713	575713	92	gov		R: AP	Legacy estimate.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	1998	93	93	2	93	93	93			582075	582075	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	1999	92	92	2	92	92	92			588360	588360	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2000	94	94	2	94	94	94			595746	595746	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2001	94	94	2	94	94	94			592858	592858	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2002	97	97	2	97	97	97			585563	585563	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2003	96	96	2	96	96	96			573744	573744	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2004	97	97	2	97	97	97			562975	562975	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2005	97	97	2	97	97	97			556955	556955	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2006	95	95	2	95	95	95			581232	581232	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2007	96	96	2	96	96	96			608075	608075	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2008	97	97	2	97	97	97			618625	618625	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2009	98	98	2		98	98			629970	629970	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2010	98	98	2	98	98	98			641461	641461	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2011	98	98	2	98	98	98			651336	651336	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2012	98	98	2	98	98	98			653880	653880	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2013	98	98	2	98	98	98			652558	652558	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2014	98	98	2	98	98	98			646971	646971	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2015	98	98	2	98	98	98			638755	638755	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2016	98	98	2	98	98	98		521200	632305	632305	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2017	96	96	1	96	96	96	519369	541009	643748	643748	96	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 101 less than 300.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2018	98	98	1	98	98	98	541853	552911	652649	652649	98	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 94 less than 300.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2019	95	95	1	95	95	95	438950	459810	658884	658884	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2020	96	96	1	96	96	96	450658	469925	665930	665930	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2021	98	98	1	98	98	98	475743	485386	629339	629339	98	gov		R:	Estimate informed by reported data.  Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv1	2022	98		1	98	98	98	447494	456564	615690	615690	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2001	96	96	2	96	96	96			592858	592858	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2002	96	96	1						585563	585563	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2003	97	97	1						573744	573744	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2004	97	97	1						562975	562975	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2005	97	97	1						556955	556955	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2006	97	97	1						581232	581232	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2007	98	98	1						608075	608075	98	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2008	98	98	2	98	98	98			618625	618625	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2009	98	98	1						629970	629970	98	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2010	98	98	2	98	98	98			641461	641461	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2011	97	97	2	97	97	97			651336	651336	97	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2012	98	98	2	98	98	98			653880	653880	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2013	99	99	2	98	99	99			652558	652558	99	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2014	98	98	2	98	98	98			646971	646971	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2015	96	96	2	96	96	96			638755	638755	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2016	96	96	2	96	96	96		521200	632305	632305	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2017	96	96	1	96	96	96	526001	551060	643748	643748	96	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 101 less than 300.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2018	97	97	1	97	97	97	536324	552911	652649	652649	97	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 94 less than 300.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2019	96	96	1	96	96	96	441947	459810	658884	658884	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2020	96	96	1	96	96	96	453007	469925	665930	665930	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2021	97	97	1	97	97	97	470824	485386	629339	629339	97	gov		R:	Estimate informed by reported data.   Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	mcv2	2022	98		1	98	98	98	445335	456564	615690	615690	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2009	98	98	2	98	98	98			629970	629970	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2010	98	98	2	98	98	98			641461	641461	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2011	98	98	2	98	98	98			651336	651336	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2012	98	98	2	98	98	98			653880	653880	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2013	98	98	2	98	98	98			652558	652558	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2014	98	98	2	98	98	98			646971	646971	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2015	98	98	2	98	98	98			638755	638755	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2016	98	98	2	98	98	98		521200	632305	632305	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2017	98	98	1	98	98	98	530189	541009	643748	643748	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2018	98	98	1	98	98	98	541853	552911	652649	652649	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2019	96	96	1	96	96	96	440164	459810	658884	658884	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2020	95	95	1	95	95	95	448308	469925	665930	665930	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2021	97	97	1	97	97	97	472281	485386	629339	629339	97	gov		R:	Estimate informed by reported data.   Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pcv3	2022	98		1	98	98	98	445625	456564	615690	615690	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	1997	92	92	2	92	92	92			575713	575713	92	gov		R: AP	Legacy estimate.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	1998	94	94	2	94	94	94			582075	582075	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	1999	93	93	2	93	93	93			588360	588360	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2000	95	95	2	95	95	95			595746	595746	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2001	97	97	2	97	97	97			592858	592858	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2002	95	95	2	95	95	95			585563	585563	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2003	95	95	2	95	95	95			573744	573744	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2004	96	96	2	96	96	96			562975	562975	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2005	96	96	2	96	96	96			556955	556955	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2006	96	96	2	96	96	96			581232	581232	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2007	96	96	2	96	96	96			608075	608075	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2008	98	98	2	98	98	98			618625	618625	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2009	98	98	2	98	98	98			629970	629970	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2010	98	98	2	98	98	98			641461	641461	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2011	98	98	2	98	98	98			651336	651336	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2012	98	98	2	98	98	98			653880	653880	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2013	98	98	2	98	98	98			652558	652558	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2014	98	98	2	98	98	98			646971	646971	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2015	97	97	2	97	97	97			638755	638755	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2016	97	97	2	97	97	97		521200	632305	632305	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2017	97	97	1	97	97	97	524779	541009	643748	643748	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2018	98	98	1	98	98	98	541853	552911	652649	652649	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2019	97	97	1	97	97	97	445461	459810	658884	658884	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2020	95	95	1	95	95	95	448308	469925	665930	665930	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2021	97	97	1	97	97	97	472679	485386	629339	629339	97	gov		R:	Estimate informed by reported data.  Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	pol3	2022	98		1	98	98	98	446976	456564	615690	615690	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	1997	92	92	2						575713	575713				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	1998	93	93	2						582075	582075				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	1999	92	92	2						588360	588360				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2000	94	94	2						595746	595746				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2001	94	94	2						592858	592858				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2002	97	97	2						585563	585563				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2003	96	96	2						573744	573744				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2004	97	97	2						562975	562975				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2005	97	97	2						556955	556955				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2006	95	95	2						581232	581232				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2007	96	96	2						608075	608075				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2008	97	97	2						618625	618625				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2009	98	98	2						629970	629970				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2010	98	98	2						641461	641461				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2011	98	98	2						651336	651336				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2012	98	98	2						653880	653880				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2013	98	98	2						652558	652558				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2014	98	98	2						646971	646971				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2015	98	98	2						638755	638755				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2016	98	98	2						632305	632305				R:	Estimate based on estimated MCV1.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2017	96	96	1				519369	541009	643748	643748				R:	Estimate based on estimated MCV1.  Survey results ignored. Sample size 101 less than 300.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2018	98	98	1						652649	652649				R:	Estimate based on estimated MCV1.  Survey results ignored. Sample size 94 less than 300.   Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2019	95	95	1						658884	658884				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2020	96	96	1						665930	665930				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2021	98	98	1						629339	629339				R:	Estimate based on estimated MCV1.   Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rcv1	2022	98		1						615690	615690				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rotac	2013	84	84	2	84	84	84			652558	652558	84	gov		R:	Estimate informed by reported data.   Rota vaccine introduced in January 2013.  GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rotac	2014	94	94	2	94	94	94			646971	646971	94	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rotac	2015	95	95	2	95	95	95			638755	638755	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rotac	2016	95	95	2	95	95	95		521200	632305	632305	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rotac	2017	97	97	1	97	97	97	524779	541009	643748	643748	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rotac	2018	97	97	1	97	97	97	536324	552911	652649	652649	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rotac	2019	95	95	1	95	95	95	438038	459810	658884	658884	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rotac	2020	96	96	1	96	96	96	449248	469925	665930	665930	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rotac	2021	97	97	1	97	97	97	472679	485386	629339	629339	97	gov		R:	Estimate informed by reported data.   Programme notes a change in source of information for newborns from forecasted value to data from electronic registration.  Estimate challenged by: D-	
+Saudi Arabia	Wed Sep 06 19:04:17 2023	sau	rotac	2022	97		1	97	97	97	443242	456564	615690	615690	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	

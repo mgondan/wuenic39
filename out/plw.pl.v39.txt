@@ -1,0 +1,266 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	1997	97	97	1						317	317	95	extrapolated		W: AP	Estimate of 97 percent assigned by working group. Legacy estimate.   GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	1998	96	96	1						294	294	95	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	1999	96	96	1						282	282	95	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2000	98	98	1	92	95	95	245	265	270	270	95	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 96.    Estimate challenged by: R-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2001	98	98	1						275	275	98	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2002	99	99	1	100		100	312	312	277	277	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2003	99	99	1						279	279	100	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2004	99	99	2	98	100	100	255	260	279	279	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2005	98	98	1	98	98	98	332	339	280	280	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2006	98	98	2	100	98	98	281	281	275	275	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2007	99	99	2	100	100	100	279	279	271	271	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2008	99	99	2	100	100	100	293	293	268	268	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2009	99	99	1	100		100	297	297	265	265	100	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2010	99	99	1	99	99	99	568	573	262	262	99	gov		R:	Estimate informed by reported data.  Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2011	99	99	2	100		100	280	280	260	260	100	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2012	99	99	2	100	100	100	266	266	259	259	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2013	99	99	1	99	100	100	220	223	258	258	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2014	99	99	2	100	100	100	241	241	252	252	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2015	99	99	1	100	100	100	301	301	240	240	100	gov		R:	Estimate informed by reported data.  Reported official estimate is based on data from the Palau national immunization registry.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2016	99	99	1	95	95	95	278	292	245	245	95	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 98.    Estimate challenged by: D-R-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2017	99	99	1	100	100	100	360	360	237	237	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2018	99	99	1	99	99	99	327	328	275	275	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2019	99	99	1	99	99	99	328	329	279	279	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2020	99	99	1	99	99	99	367	369	277	277	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2021	99	99	1	99	99	99	591	595	273	273	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp1	2022	99		1	99	99	99	308	310	270	270	99	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	1997	91	91	2		91	91			317	317	91	gov		R: AP	Legacy estimate.   GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	1998	96	96	2		96	96			294	294	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	1999	96	96	1	96	96	96	319	332	282	282	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2000	96	96	2	96	96	96	245	254	270	270	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2001	98	98	1						275	275	98	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2002	99	99	1	99		99	308	312	277	277	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2003	99	99	1						279	279	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2004	98	98	2	98	98	98	255	260	279	279	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2005	98	98	1	98	98	98	320	327	280	280	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2006	98	98	2	96	98	98	266	273	275	275	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2007	94	94	2	94	94	94	263	279	271	271	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2008	92	92	2	92	92	92	271	293	268	268	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2009	49	49	2	49		49	147	297	265	265	49	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2010	69	69	1	69	69	69	394	573	262	262	69	gov		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2011	84	84	2	84		84	236	280	260	260	84	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2012	89	89	3	89	89	89	236	266	259	259	89	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2013	99	99	1	99	99	99	220	223	258	258	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2014	95	95	3	95	95	95	230	241	252	252	95	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).  .  GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2015	90	90	1	90	90	90	276	301	240	240	90	gov		R:	Estimate informed by reported data.  Reported official estimate is based on data from the Palau national immunization registry.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2016	98	98	1	98	98	98	388	395	245	245	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2017	97	97	1	97	97	97	348	360	237	237	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2018	95	95	1	95	95	95	314	328	275	275	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2019	97	97	1	97	97	97	322	329	279	279	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2020	96	96	1	96	96	96	354	369	277	277	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2021	95	95	1	95	95	95	567	595	273	273	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	dtp3	2022	94		1	94	94	94	291	310	270	270	94	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	1997	90	90	2		90	90			317	317	90	gov		R: AP	Legacy estimate.   GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	1998	96	96	2		96	96			294	294	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	1999	96	96	1	96	96	96	319	332	282	282	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2000	96	96	2	96	96	96	245	254	270	270	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2001	98	98	1						275	275	98	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2002	99	99	1	99		99	308	312	277	277	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2003	99	99	1						279	279	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2004	98	98	2	98	98	98	255	260	279	279	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2005	98	98	1	98	98	98	320	327	280	280	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2006	98	98	2	96	98	98	266	273	275	275	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2007	91	91	2	91	91	91	255	279	271	271	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2008	92	92	2	92	92	92	271	293	268	268	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2009	69	69	2	69		69	204	297	265	265	69	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2010	80	80	1	80	80	80	456	573	262	262	80	gov		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2011	91	91	2	91		91	255	280	260	260	91	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2012	89	89	3	89	89	89	236	266	259	259	89	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2013	99	99	1	99	99	99	220	223	258	258	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2014	99	99	3	100	100	100	241	241	252	252	100	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).  .  GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2015	90	90	1	90	90	90	270	301	240	240	90	gov		R:	Estimate informed by reported data.  Reported official estimate is based on data from the Palau national immunization registry. Consistency with other vaccines.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2016	98	98	1	98	98	98	290	297	245	245	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2017	98	98	1	98	98	98	353	360	237	237	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2018	98	98	1	98	98	98	322	328	275	275	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2019	98	98	1	98	98	98	323	329	279	279	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2020	93	93	1	96	93	93	356	369	277	277	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2021	96	96	1	96	96	96	572	595	273	273	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepb3	2022	95		1	95	95	95	295	310	270	270	95	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2000	99	99	2	100	100	100	278	278	270	270	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2001	99	99	1						275	275	100	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2002	99	99	1	100		100	28	28	277	277	100	admin		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2003	99	99	1						279	279	100	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2004	99	99	1	100	100	100	3	3	279	279	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2005	99	99	1	100	100	100	7	7	280	280	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2006	98	98	1	100	98	98	13	13	275	275	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2007	99	99	1	100	100	100	14	14	271	271	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2008	67	67	2	67	67	67	197	293	268	268	67	gov		R:	Estimate informed by reported data.   Estimate follows official government estimate.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2009	99	99	1	100		100	297	297	265	265	100	admin		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2010	99	99	2	100	100	100	245	245	262	262	100	gov		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2011	99	99	2	100		100	280	280	260	260	100	admin		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2012	99	99	1	100	100	100	266	266	259	259	100	gov		R:	Estimate informed by reported data.    GoC=Assigned by working group.  Consistency with other antigens given available information.	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2013	99	99	1	100	100	100	223	223	258	258	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2014	99	99	3	100	100	100	241	241	252	252	100	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).  .  GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2015	99	99	1	100	100	100	305	305	240	240	100	gov		R:	Estimate informed by reported data.  Reported official estimate is based on data from the Palau national immunization registry.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2016	99	99	1	100	100	100	211	211	245	245	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2017	99	99	1	100	100	100	360	360	237	237	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2018	99	99	1	100	100	100	328	328	275	275	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2019	99	99	1	100	100	100	329	329	279	279	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2020	99	99	1	100	100	100	369	369	277	277	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2021	99	99	1	100	100	100	593	595	273	273	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hepbb	2022	98		1	98	98	98	305	310	270	270	98	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	1998	74	74	2	74		74			294	294	74	admin		R:	Estimate informed by reported data.   Hib vaccine introduced in 1998 Vaccine presentation is Hib mono.  GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	1999	96	96	1	96	96	96	319	332	282	282	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2000	96	96	2	96	96	96	245	254	270	270	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2001	93	93	1						275	275	93	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2002	90	90	1	90		90	280	312	277	277	90	admin		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2003	94	94	1						279	279	94	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2004	98	98	2	98	98	98	255	260	279	279	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2005	98	98	1	98	98	98	320	327	280	280	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2006	98	98	2	96	98	98	266	273	275	275	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2007	95	95	2	95	95	95	265	279	271	271	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2008	92	92	2	92	92	92	271	293	268	268	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2009	48	48	2	48		48	142	297	265	265	48	admin		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2010	66	66	1	66	66	66	379	573	262	262	66	gov		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2011	85	85	2	85		85	237	280	260	260	85	admin		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2012	89	89	3	89	89	89	236	266	259	259	89	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2013	99	99	1	99	99	99	221	223	258	258	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2014	99	99	3	100	100	100	241	241	252	252	100	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).  .  GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2015	89	89	1	89	89	89	269	301	240	240	89	gov		R:	Estimate informed by reported data.  Reported official estimate is based on data from the Palau national immunization registry. Consistency with other vaccines.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2016	98	98	1	98	98	98	290	297	245	245	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2017	95	95	1	95	95	95	341	360	237	237	95	gov		R:	Estimate informed by reported data.  Programme reports a 1-month vaccine stockout.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2018	92	92	1	92	92	92	305	328	275	275	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2019	93	93	1	93	93	93	308	329	279	279	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2020	89	89	1	89	89	89	328	369	277	277	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2021	89	89	1	89	89	89	530	595	273	273	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	hib3	2022	86		1	85	86	86	265	310	270	270	86	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	ipv1	2015	99	99	1	100	100	100	301	301	240	240	100	gov		R:	Estimate informed by reported data.   Reported official estimate is based on data from the Palau national immunization registry.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	ipv1	2016	95	95	1	95	95	95	278	292	245	245	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	ipv1	2017	99	99	1	100	100	100	360	360	237	237	100	gov		R:	Estimate informed by reported data.   Programme reports a 1-month vaccine stockout.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	ipv1	2018	99	99	1	99	99	99	327	328	275	275	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	ipv1	2019	99	99	1	99	99	99	328	329	279	279	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	ipv1	2020	99	99	1	99	99	99	367	369	277	277	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	ipv1	2021	99	99	1	99	99	99	591	595	273	273	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	ipv1	2022	99		1	99	99	99	308	310	270	270	99	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	1997	83	83	2		83	83			317	317	83	gov		R: AP	Legacy estimate.   GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	1998	74	74	2		74	74			294	294	74	gov		R:	Estimate informed by reported data.    GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	1999	96	96	1	96	96	96	319	332	282	282	96	gov		R:	Estimate informed by reported data.   Estimate based on nationally reported data  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2000	83	83	2	83	83	83	208	250	270	270	83	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2001	91	91	1						275	275	91	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2002	99	99	1	99		99	308	312	277	277	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2003	99	99	1						279	279	100	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2004	99	99	2	98	100	100	255	260	279	279	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2005	98	98	1	98	98	98	317	323	280	280	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2006	98	98	2	97	98	98	266	273	275	275	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2007	91	91	2	91	91	91	254	279	271	271	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2008	97	97	2	97	97	97	283	293	268	268	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2009	75	75	1	75		75	487	653	265	265	75	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2010	39	39	1	39	39	39	224	573	262	262	39	gov		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2011	85	85	2	85		85	238	280	260	260	85	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2012	91	91	3	91	91	91	242	266	259	259	91	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2013	99	99	1	99	99	99	220	223	258	258	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-S-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2014	83	83	3	83	83	83	200	241	252	252	83	gov	86	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 86 percent based on 1 survey(s).  . Estimate is based on reported data to maintain consistency with other vaccines.  GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2015	95	95	1	95	95	95	287	301	240	240	95	gov		R:	Estimate informed by reported data.  Reported official estimate is based on data from the Palau national immunization registry. Estimate is based on reported data to maintain consistency with other vaccines.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2016	96	96	1	96	96	96	287	298	245	245	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2017	93	93	1	85	85	85	305	360	237	237	93	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded.  Unexplained 21 percent increase in reported target population.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2018	90	90	1	90	90	90	297	328	275	275	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2019	97	97	1	97	97	97	320	329	279	279	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2020	93	93	1	93	93	93	344	369	277	277	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2021	93	93	1	93	93	93	553	595	273	273	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv1	2022	96		1	97	96	96	300	310	270	270	96	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	1999	94	94	1	94	94	94	319	332	282	282	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2000	75	75	2	75	75	75	228	305	270	270	75	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2001	83	83	1						275	275	83	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2002	90	90	1	90		90	280	312	277	277	90	admin		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2003	94	94	1						279	279	94	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2004	98	98	2		98	98			279	279	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2005	95	95	1	95	95	95	303	319	280	280	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2006	98	98	2	96	98	98	255	275	275	275	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2007	83	83	2	83	83	83		279	271	271	83	gov		R:	Estimate informed by reported data.    GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2008	77	77	2	77	77	77	226	293	268	268	77	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2009	79	79	1					653	265	265	79	interpolated		R:	Estimate informed by interpolation between reported data.   Reported data accepted despite sudden decline.  GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2010	39	39	1						262	262	81	interpolated		W:	 Estimate follows MCV first dose coverage level.  Reported data accepted despite sudden decline.  GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2011	83	83	2	83		83	232	280	260	260	83	admin		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2012	86	86	3	86	86	86	229	266	259	259	86	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2013	98	98	1	98	98	98	219	223	258	258	98	gov		R:	Estimate informed by reported data.   Estimate is based on reported data to maintain consistency with other vaccines.  Estimate challenged by: D-S-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2014	81	81	3	81	81	81	195	241	252	252	81	gov	77	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 77 percent based on 1 survey(s).  . Estimate is based on reported to maintain consistency with other antigens.  GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2015	82	82	1	82	82	82	395	479	240	240	82	gov		R:	Estimate informed by reported data.  Reported official estimate is based on data from the Palau national immunization registry.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2016	95	95	1	95	95	95	272	285	245	245	95	gov		R:	Estimate informed by reported data.  Consistency with other vaccines alongside small target population.  Estimate challenged by: D-S-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2017	77	77	1	77	77	77	260	360	237	237	77	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2018	75	75	2	75	75	75	187	281	275	275	75	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2019	88	88	1	88	88	88	292	329	279	279	88	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2020	83	83	1	83	83	83	308	369	277	277	83	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2021	84	84	1	84	84	84	499	595	273	273	84	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	mcv2	2022	85		1	85	85	85	265	310	270	270	85	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2008	7	7	2	7	7	7	20	293	268	268	7	gov		R:	Estimate informed by reported data.   Pneumococcal conjugate vaccine introduced in 2008  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2009	18	18	2	18		18	53	297	265	265	18	admin		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2010	45	45	1	45	45	45	255	573	262	262	45	gov		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2011	61	61	2	61		61			260	260	61	admin		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2012	82	82	3	82	82	82	219	266	259	259	82	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2013	93	93	1	93	93	93	207	223	258	258	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2014	93	93	3	93	93	93	225	241	252	252	93	gov	87	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 87 percent based on 1 survey(s).  .  GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2015	95	95	1	95	95	95	285	301	240	240	95	gov		R:	Estimate informed by reported data.  Reported official estimate is based on data from the Palau national immunization registry. Consistency with other vaccines.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2016	98	98	1	98	98	98	292	297	245	245	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-S-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2017	89	89	1	89	89	89	322	360	237	237	89	gov		R:	Estimate informed by reported data.  Programme reports a 1-month vaccine stockout.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2018	82	82	1						275	275	82	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2019	74	74	1	74	74	74	294	329	279	279	74	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2020	75	75	1	75	75	75	275	387	277	277	75	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2021	77	77	1	77	77	77	456	595	273	273	77	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pcv3	2022	82		1	82	92	82	253	310	270	270	82	admin		R:	Estimate informed by reported administrative data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Difference between official and administrative coverage is unexplained. Estimate is informed by reported administrative coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	1997	90	90	2		90	90			317	317	90	gov		R: AP	Legacy estimate.   GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	1998	96	96	2		96	96			294	294	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	1999	96	96	1	96	96	96	319	332	282	282	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2000	96	96	2	96	96	96	245	254	270	270	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2001	98	98	1						275	275	98	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2002	99	99	1	99		99	308	312	277	277	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2003	99	99	1						279	279	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2004	98	98	2	98	98	98	255	260	279	279	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2005	98	98	1	98	98	98	320	327	280	280	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2006	98	98	2	96	98	98	266		275	275	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2007	94	94	2	94	94	94	263		271	271	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2008	92	92	2	92	92	92	271	293	268	268	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2009	48	48	2	48		48	142	297	265	265	48	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2010	68	68	1	68	68	68	391	573	262	262	68	gov		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2011	98	98	2	98		98	274	280	260	260	98	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2012	89	89	3	89	89	89	236	266	259	259	89	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2013	99	99	1	99	99	99	220	223	258	258	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2014	95	95	3	95	95	95	230	241	252	252	95	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).  .  GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2015	89	89	1	89	89	89	269	301	240	240	89	gov		R:	Estimate informed by reported data.  Reported official estimate is based on data from the Palau national immunization registry.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2016	98	98	1	98	98	98	290	297	245	245	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2017	97	97	1	97	97	97	350	360	237	237	97	gov		R:	Estimate informed by reported data.  Programme reports a 1-month vaccine stockout.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2018	98	98	1	98	98	98	322	328	275	275	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2019	97	97	1	97	97	97	320	329	279	279	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2020	96	96	1	96	96	96	367	369	277	277	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2021	95	95	1	95	95	95	565	595	273	273	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	pol3	2022	94		1	94	94	94	292	310	270	270	94	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	1997	83	83	2						317	317				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	1998	74	74	2						294	294				R:	Estimate based on estimated MCV1.    GoC=R+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	1999	96	96	1						282	282				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2000	83	83	2						270	270				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2001	91	91	1						275	275				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2002	99	99	1						277	277				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2003	99	99	1						279	279				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2004	99	99	2						279	279				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2005	98	98	1						280	280				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2006	98	98	2						275	275				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2007	91	91	2						271	271				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2008	97	97	2						268	268				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2009	75	75	1						265	265				R:	Estimate based on estimated MCV1.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2010	39	39	1						262	262				R:	Estimate based on estimated MCV1.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2011	85	85	2						260	260				R:	Estimate based on estimated MCV1.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2012	91	91	3						259	259				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2013	99	99	1						258	258				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-S-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2014	83	83	3						252	252				R: AP	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2015	95	95	1				287	301	240	240				R:	Estimate based on estimated MCV1.   Reported official estimate is based on data from the Palau national immunization registry.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2016	96	96	1				287	298	245	245				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2017	93	93	1				305	360	237	237				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2018	90	90	1						275	275				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2019	97	97	1						279	279				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2020	93	93	1						277	277				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2021	93	93	1						273	273				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rcv1	2022	96		1						270	270				R:	Estimate based on estimated MCV1.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2009	15	15	2	15		15	46	297	265	265	15	admin		R:	Estimate informed by reported administrative data.   Rotavirus vaccine introduced in 2008 reporting started in 2009. Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2010	76	76	1	76	76	76	436	573	262	262	76	gov		R:	Estimate informed by reported data.   Reported data accepted despite sudden decline.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2011	89	89	2	89		89	250	280	260	260	89	admin		R:	Estimate informed by reported administrative data.   Reported data accepted despite sudden decline.  GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2012	89	89	2	89	89	89	236	266	259	259	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2013	99	99	1	99	99	99	221	223	258	258	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2014	99	99	2	100	100	100	241	241	252	252	100	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 259 less than 300.   GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2015	97	97	1	97	97	97	291	301	240	240	97	gov		R:	Estimate informed by reported data.   Reported official estimate is based on data from the Palau national immunization registry.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2016	98	98	1	98	98	98	290	297	245	245	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2017	95	95	1	95	95	95	342	360	237	237	95	gov		R:	Estimate informed by reported data.   Programme reports a 1-month vaccine stockout.  Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2018	93	93	1	93	93	93	308	328	275	275	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2019	92	92	1	91	92	92	302	329	279	279	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2020	82	82	2	82	82	82	207	257	277	277	82	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2021	82	82	1	82	82	82	489	595	273	273	82	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Palau	Wed Sep 06 19:02:21 2023	plw	rotac	2022	83		1	83	93	83	257	310	270	270	83	admin		R:	Estimate informed by reported administrative data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Difference between official and administrative coverage is unexplained. Estimate is informed by reported administrative coverage.  Estimate challenged by: D-	

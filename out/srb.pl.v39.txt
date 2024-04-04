@@ -1,0 +1,249 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	1997	96	96	2		96	96			94306	94306	96	gov		R: AP	Legacy estimate.   GoC=R+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	1998	89	89	1						74526	74526	89	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	1999	82	82	2	95	82	82	68851	72783	77993	77993	82	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2000	85	85	1	98	100	100	50336	51103	85487	85487	85	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded due to an increase from 82 percent to 100 percent with decrease 67 percent.   Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2001	88	88	1	70	67	67	48388	69284	91628	91628	88	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded due to decline in reported coverage from 100 percent to 67 percent with increase to 95 percent.   Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2002	91	91	1	93	95	95	117051	126051	91239	91239	91	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded due to an increase from 67 percent to 95 percent with decrease 74 percent.   Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2003	94	94	1	94	74	74	52657	56319	89941	89941	94	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded due to decline in reported coverage from 95 percent to 74 percent with increase to 97 percent.   Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2004	97	97	1	97		97	109598	11303	80946	80946	97	admin		R:	Estimate informed by reported administrative data.  Serbia Multiple Indicator Cluster Survey 2005 results ignored by working group.  Survey results for BCG not consistent with results from other antigens.  Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2005	98	98	2	98	98	98	69106	70667	76735	76735	98	gov		R:	Estimate informed by reported data.   Estimates do not include Montenegro and Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2006	99	99	2	99	99	99	68935	69736	64881	64881	99	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2007	98	98	2	98	98	98	67616	68871	65618	65618	98	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2008	99	99	2	99	99	99	66075	67076	68476	68476	99	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2009	98	98	2	98	98	98	66204	67370	69032	69032	98	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2010	99	99	2	99		99	66514	67339	71262	71262	99	admin		R:	Estimate informed by reported administrative data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2011	99	99	3	99		99	64403	65290	70960	70960	99	admin		R:	Estimate informed by reported administrative data.   Estimates do not include Kosovo.  GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2012	98	98	3	98		98	65096	66478	72305	72305	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2013	97	97	3	97		97	63372	65021	70820	70820	97	admin	98	R: AP	Estimate informed by reported administrative data supported by survey. Survey evidence of 98 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2014	98	98	3	98		98	64257	65840	71558	71558	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2015	98	98	3	98		98	63343	64450	70873	70873	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2016	98	98	3	98		98	63194	64495	70071	70071	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2017	97	97	3	97	97	97	62051	63723	70179	70179	97	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2018	98	98	3	98	98	98	62144	63333	69380	69380	98	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2019	98	98	3	98	98	98	61440	62571	69672	69672	98	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2020	98	98	1	98	98	98	59409	60815	68556	68556	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2021	98	98	1	98	98	98	58531	59589	67609	67609	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	bcg	2022	96		2	96	96	96	60030	62619	66557	66557	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	1997	97	97	1						94306	94306	98	extrapolated		W: AP	Estimate of 97 percent assigned by working group. Legacy estimate.   GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	1998	97	97	1						74526	74526	98	extrapolated		C:	Reported data calibrated to 1997 and 2004 levels.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	1999	97	97	1						77993	77993	98	extrapolated		C:	Reported data calibrated to 1997 and 2004 levels.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2000	97	97	1		98	98			85487	85487	98	gov		C:	Reported data calibrated to 1997 and 2004 levels.    Estimate challenged by: R-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2001	95	95	1						91628	91628	95	interpolated		C:	Reported data calibrated to 1997 and 2004 levels.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2002	98	98	1	91		91	35406	38790	91239	91239	91	admin		RMF:	DTP1 coverage estimated based on DTP3 coverage of 95.    Estimate challenged by: D-R-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2003	91	91	2						89941	89941	91	extrapolated		C:	Reported data calibrated to 1997 and 2004 levels.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2004	91	91	1				37109	38716	80946	80946	91	extrapolated	98	R: AP	Estimate based on extrapolation from data reported by national government supported by survey. Survey evidence of 98 percent based on 1 survey(s).    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2005	99	99	2						76735	76735	91	extrapolated		RMF	Estimate based on DTP3 coverage of 98.   Estimates do not include Montenegro and Kosovo.  GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2006	97	97	2						64881	64881	91	extrapolated		RMF	Estimate based on DTP3 coverage of 92.   Estimates do not include Kosovo.  GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2007	98	98	1						65618	65618	91	extrapolated		RMF	Estimate based on DTP3 coverage of 94.   Estimates do not include Kosovo.  GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2008	98	98	1						68476	68476	91	extrapolated		RMF	Estimate based on DTP3 coverage of 95.   Estimates do not include Kosovo.  GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2009	98	98	1						69032	69032	91	extrapolated		RMF	Estimate based on DTP3 coverage of 95.   Estimates do not include Kosovo.  GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2010	97	97	1						71262	71262	91	extrapolated		RMF	Estimate based on DTP3 coverage of 91.   Estimates do not include Kosovo.  GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2011	98	98	2						70960	70960	91	extrapolated		RMF	Estimate based on DTP3 coverage of 94.   Estimates do not include Kosovo.  GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2012	97	97	2						72305	72305	91	extrapolated		RMF	Estimate based on DTP3 coverage of 91.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2013	98	98	2						70820	70820	91	extrapolated	93	RMF:	DTP1 coverage estimated based on DTP3 coverage of 95.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2014	97	97	2						71558	71558	91	extrapolated		RMF	Estimate based on DTP3 coverage of 93.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2015	98	98	2						70873	70873	91	extrapolated		RMF	Estimate based on DTP3 coverage of 95.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2016	97	97	2						70071	70071	91	extrapolated		RMF	Estimate based on DTP3 coverage of 92.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2017	98	98	2						70179	70179	91	extrapolated	96	RMF:	DTP1 coverage estimated based on DTP3 coverage of 95.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2018	98	98	2						69380	69380	91	extrapolated	96	RMF:	DTP1 coverage estimated based on DTP3 coverage of 96.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2019	99	99	2						69672	69672	91	extrapolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 97.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2020	97	97	2						68556	68556	91	extrapolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 92.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2021	96	97	1						67609	67609	91	extrapolated		W:	 Estimate is assigned for consistency with neighbouring years.  Estimate of 96 percent changed from previous revision value of 97 percent.  GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp1	2022	97		1						66557	66557	91	extrapolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 92.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	1997	94	94	2		94	94			94306	94306	94	gov		R: AP	Legacy estimate.   GoC=R+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	1998	93	93	1						74526	74526	93	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	1999	92	92	2	97	92	92	77721	80469	77993	77993	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2000	95	95	2	97	95	95	74473	76661	85487	85487	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2001	93	93	1	98	93	93	67640	69168	91628	91628	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2002	95	95	1	87	95	95	109309	126051	91239	91239	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2003	89	89	1	98	89	89	69484	71080	89941	89941	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2004	88	88	1	97	88	88	106050	109276	80946	80946	88	gov	99	R: AP	 Estimate based on reported data. Serbia Multiple Indicator Cluster Survey 2005 card or history results of 96 percent modifed for recall bias to 99 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 73 percent and 3rd dose card only coverage of 78 percent.   Estimate challenged by: D-S-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2005	98	98	3	98	98	98	68828	70418	76735	76735	98	gov		R:	Estimate informed by reported data.   Estimates do not include Montenegro and Kosovo.  GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2006	92	92	3	97	92	92	66107	68316	64881	64881	92	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2007	94	94	2	98	94	94	66460	67843	65618	65618	94	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2008	95	95	2	98	95	95	64680	66350	68476	68476	95	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2009	95	95	2	97	95	95	65313	67066	69032	69032	95	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2010	91	91	2	97	91	91	63962	65825	71262	71262	91	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2011	94	94	3	98	94	94	64211	65834	70960	70960	94	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2012	91	91	3	96	91	91	62166	64798	72305	72305	91	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2013	95	95	3	97	95	95	62325	64307	70820	70820	95	gov	90	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 90 percent based on 1 survey(s).  Serbia Multiple Indicator Cluster Survey 2014 card or history results of 89 percent modifed for recall bias to 90 percent based on 1st dose card or history coverage of 93 percent, 1st dose card only coverage of 87 percent and 3rd dose card only coverage of 84 percent.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2014	93	93	3	95	93	93	60655	63830	71558	71558	93	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2015	95	95	3	95	95	95	63268	66632	70873	70873	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2016	92	92	3	94	92	92	60761	64543	70071	70071	92	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2017	95	95	3	95	95	95	61702	64860	70179	70179	95	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2018	96	96	3	95	96	96	62623	66102	69380	69380	96	gov	92	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 92 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2019	97	97	3	95	97	97	61770	64967	69672	69672	97	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2020	92	92	3	92	92	92	58238	63517	68556	68556	92	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2021	91	92	2	91	91	91	56449	62138	67609	67609	91	gov		R:	Estimate informed by reported data.  Estimate of 91 percent changed from previous revision value of 92 percent.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	dtp3	2022	92		2	92	92	92	57836	62950	66557	66557	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2004	89	89	1	89		89	34679	38864	80946	80946	89	admin		R:	Estimate informed by reported data.   HepB partially introduced in 2002. Reporting started in 2004.  Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2005	65	65	2	65	65	65	45910	70418	76735	76735	65	gov		R:	Estimate informed by reported data.   Estimates do not include Montenegro and Kosovo. HepB partially introduced.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2006	93	93	1	92	93	93	67371	73122	64881	64881	93	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2007	99	99	2	94	100	100	71710	76434	65618	65618	100	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2008	93	93	2	94	93	93	63349	67614	68476	68476	93	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2009	93	93	2	95	93	93	64384	67629	69032	69032	93	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2010	89	89	2	95	89	89	62799	66206	71262	71262	89	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2011	94	94	3	96	94	94	64207	66576	70960	70960	94	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2012	97	97	3	93	97	97	63924	68659	72305	72305	97	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2013	91	91	3	93	91	91	61106	65398	70820	70820	91	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2014	92	92	3	94	92	92	60225	64113	71558	71558	92	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2015	94	94	3	92	94	94	62574	68406	70873	70873	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2016	91	91	2	90	91	91	59707	66009	70071	70071	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2017	93	93	2	92	93	93	60372	65331	70179	70179	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2018	91	91	2	90	91	91	58762	65058	69380	69380	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2019	94	94	2	91	94	94	59932	65904	69672	69672	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2020	87	87	2	87	87	87	55781	64357	68556	68556	87	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2021	89	87	2	89	89	89	55332	62138	67609	67609	89	gov		R:	Estimate informed by reported data.  Estimate of 89 percent changed from previous revision value of 87 percent.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepb3	2022	92		2	92	92	92	55794	60923	66557	66557	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2004	98	98	1	98		98	38179	38864	80946	80946	98	admin		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2005	98	98	1						76735	76735	98	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2006	98	98	1						64881	64881	98	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2007	99	99	1						65618	65618	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2008	99	99	1						68476	68476	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2009	99	99	1						69032	69032	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2010	99	99	2		99	99			71262	71262	99	gov		R:	Estimate informed by reported data.    GoC=R+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2011	99	99	2						70960	70960	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2012	99	99	2						72305	72305	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2013	99	99	2						70820	70820	99	extrapolated	98	R: AP	Estimate based on extrapolation from data reported by national government supported by survey. Survey evidence of 98 percent based on 1 survey(s).    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2014	99	99	2						71558	71558	99	extrapolated		W:	.   GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2015	99	99	2						70873	70873	99	extrapolated		W:	.   GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2016	99	99	2						70071	70071	99	extrapolated		W:	.   GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2017	99	99	2						70179	70179	99	extrapolated	97	R: AP	Estimate based on extrapolation from data reported by national government supported by survey. Survey evidence of 97 percent based on 1 survey(s).    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2018	99	99	2						69380	69380	99	extrapolated	98	R: AP	Estimate based on extrapolation from data reported by national government supported by survey. Survey evidence of 98 percent based on 1 survey(s).    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2019	99	99	2						69672	69672	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2020	99	99	2						68556	68556	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2021	99	99	1						67609	67609	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hepbb	2022	99		1						66557	66557	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2006	42	42	2	45	42	42	30640	68399	64881	64881	42	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2007	89	89	2	91	89	89	63357	69777	65618	65618	89	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2008	98	98	2	97	98	98	66798	68757	68476	68476	98	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2009	94	94	2	96	94	94	64629	67092	69032	69032	94	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2010	91	91	2	97	91	91	64047	66157	71262	71262	91	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2011	93	93	3	96	93	93	63391	65709	70960	70960	93	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2012	90	90	3	91	90	90	59185	64809	72305	72305	90	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2013	92	92	3	95	92	92	61586	65001	70820	70820	92	gov	83	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 83 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2014	94	94	1	95	94	94	61363	64460	71558	71558	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: S-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2015	95	95	1	94	95	95	62896	66826	70873	70873	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: S-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2016	92	92	3	94	92	92	60621	64704	70071	70071	92	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2017	95	95	3	95	95	95	61752	64883	70179	70179	95	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2018	96	96	3	95	96	96	62623	66102	69380	69380	96	gov	92	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 92 percent based on 1 survey(s).  Serbia Multiple Indicator Cluster Survey 2019 card or history results of 91 percent modifed for recall bias to 92 percent based on 1st dose card or history coverage of 96 percent, 1st dose card only coverage of 80 percent and 3rd dose card only coverage of 77 percent.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2019	97	97	3	95	97	97	61770	64967	69672	69672	97	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2020	92	92	3	92	92	92	58238	63517	68556	68556	92	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2021	91	92	2	91	91	91	56449	62138	67609	67609	91	gov		R:	Estimate informed by reported data.  Estimate of 91 percent changed from previous revision value of 92 percent.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	hib3	2022	92		2	92	92	92	57836	62950	66557	66557	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	ipv1	2015	98	98	2						70873	70873				W:	 Estimate is based on estimated DTP1 coverage level.   GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	ipv1	2016	97	97	2						70071	70071				W:	 Estimate is based on estimated DTP1 coverage level.   GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	ipv1	2017	98	98	2						70179	70179			96	W:	 Estimate based on estimated DTP1 coverage.   GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	ipv1	2018	98	98	2						69380	69380			97	W:	 Estimate based on estimated DTP1 coverage.   GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	ipv1	2019	99	99	2						69672	69672				W:	 Estimate based on estimated DTP1 coverage.   GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	ipv1	2020	97	97	2						68556	68556				W:	 Estimate based on estimated DTP1 coverage.   GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	ipv1	2021	96	97	1						67609	67609				W:	 Estimate based on extrapolation from prior year.  Estimate of 96 percent changed from previous revision value of 97 percent.  GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	ipv1	2022	97		1						66557	66557				W:	 Estimate informed by extrapolation from prior year.   GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	1997	92	92	2		92	92			94306	94306	92	gov		R: AP	Legacy estimate.   GoC=R+ S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	1998	88	88	2						74526	74526	88	interpolated	89	R: AP	Estimate informed by interpolation between reported data supported by survey. Survey evidence of 89 percent based on 1 survey(s).    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	1999	84	84	1	92	84	84	74849	81009	77993	77993	84	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2000	89	89	1	92	89	89	8020	8696	85487	85487	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2001	90	90	1	95	90	90	69102	72197	91628	91628	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2002	92	92	1	93	92	92	111214	119663	91239	91239	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2003	87	87	1	96	87	87	68938	71905	89941	89941	87	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2004	89	89	1	96	89	89	107109	11938	80946	80946	89	gov	87	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 87 percent based on 1 survey(s).    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2005	96	96	3	96	96	96	68855	72050	76735	76735	96	gov		R:	Estimate informed by reported data.   Estimates do not include Montenegro and Kosovo.  GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2006	88	88	1	96	88	88	68808	71781	64881	64881	88	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2007	95	95	2	97	95	95	68872	71202	65618	65618	95	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2008	92	92	2	96	92	92	65188	67628	68476	68476	92	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2009	95	95	2	96	95	95	64387	67151	69032	69032	95	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2010	95	95	2	96	95	95	65573	68485	71262	71262	95	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2011	93	93	3	96	93	93	65065	67412	70960	70960	93	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2012	87	87	3	90	87	87	59171	65524	72305	72305	87	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2013	92	92	3	93	92	92	60131	64944	70820	70820	92	gov	94	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 94 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2014	86	86	3	86	86	86	57545	67085	71558	71558	86	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2015	86	86	3	84	86	86	56733	67557	70873	70873	86	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2016	82	82	3	81	82	82	54613	67412	70071	70071	82	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2017	86	86	3	85	86	86	56467	66256	70179	70179	86	gov	87	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 87 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2018	92	92	3	93	92	92	59911	64175	69380	69380	92	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2019	87	87	3	88	87	87	56195	63871	69672	69672	87	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2020	78	78	2	78	78	78	50501	64633	68556	68556	78	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2021	75	78	2	75	75	75	48459	64789	67609	67609	75	gov		R:	Estimate informed by reported data.  Estimate of 75 percent changed from previous revision value of 78 percent.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv1	2022	81		2	81	81	81	48926	60176	66557	66557	81	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	1999	81	81	1	85	81	81	87387	103226	77993	77993	81	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2000	78	78	1						85487	85487	78	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2001	74	74	2	76	74	74	72467	95246	91628	91628	74	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2002	75	75	1	76	75	75	102149	135394	91239	91239	75	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2003	96	96	2	93	96	96	86445	93103	89941	89941	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2004	96	96	1	96		96	129777	134584	80946	80946	96	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2005	98	98	1	98	98	98	89035	90778	76735	76735	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2006	90	90	2	94	90	90	64821	68741	64881	64881	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2007	96	96	1	94	96	96	79817	72593	65618	65618	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2008	97	97	2	97	97	97	69976	72092	68476	68476	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2009	87	87	1	95	87	87	67799	71108	69032	69032	87	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2010	91	91	2	98	91	91	71489	72865	71262	71262	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2011	90	90	2	98	90	90	70369	71798	70960	70960	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2012	90	90	2	94	90	90	64584	68619	72305	72305	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2013	82	82	2	84	82	82	57965	68908	70820	70820	82	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2014	91	91	2	89	91	91	61960	69441	71558	71558	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2015	86	86	2	88	86	86	59781	68341	70873	70873	86	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2016	90	90	2	91	90	90	62900	69068	70071	70071	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2017	91	91	2	92	91	91	62083	67770	70179	70179	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2018	90	90	2	92	90	90	58928	64357	69380	69380	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2019	91	91	2	92	91	91	61205	66604	69672	69672	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2020	84	84	2	84	84	84	53759	63924	68556	68556	84	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2021	86	84	2	86	86	86	56223	65503	67609	67609	86	gov		R:	Estimate informed by reported data.   Estimate of 86 percent changed from previous revision value of 84 percent.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	mcv2	2022	89		2	89	89	89	56850	63531	66557	66557	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pcv3	2018	67	67	1	48		48			69380	69380	48	admin	67	S: AP	Survey evidence does not support reported data. Estimate based on survey results. Survey evidence of 67 percent based on 1 survey(s).   Serbia Multiple Indicator Cluster Survey 2019 card or history results of 65 percent modifed for recall bias to 67 percent based on 1st dose card or history coverage of 71 percent, 1st dose card only coverage of 60 percent and 3rd dose card only coverage of 57 percent.  Pneumococcal conjugate vaccine introduced in April 2018  Estimate challenged by: R-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pcv3	2019	92	92	1	92	93	93	59294	64777	69672	69672	93	gov		W: AP	Estimate of 92 percent assigned by working group.  Estimate based on reported administrative data.   Estimate challenged by: R-S-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pcv3	2020	87	87	1	88	88	88	56598	63999	68556	68556	88	gov		C:	Reported data calibrated to 2019 levels.   Estimate challenged by: R-S-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pcv3	2021	88	87	1	89	89	89	55612	62397	67609	67609	89	gov		C:	Reported data calibrated to 2019 levels.  Estimate of 88 percent changed from previous revision value of 87 percent.  Estimate challenged by: R-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pcv3	2022	89		1	90	90	90	56728	62950	66557	66557	90	gov		C:	Reported data calibrated to 2019 levels.   Estimate challenged by: R-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	1997	94	94	2		94	94			94306	94306	94	gov		R: AP	Legacy estimate.   GoC=R+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	1998	93	93	1						74526	74526	93	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	1999	92	92	2	97	92	92	78088	80558	77993	77993	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2000	98	98	1	97	98	98	74517	76750	85487	85487	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2001	93	93	1	97	93	93	67652	69284	91628	91628	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2002	95	95	1	87	95	95	109318	126051	91239	91239	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2003	89	89	1	98	89	89	69558	71001	89941	89941	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2004	96	96	1	96		96	105624	109499	80946	80946	96	admin	99	R: AP	Estimate informed by reported administrative data supported by survey. Survey evidence of 99 percent based on 1 survey(s).  Serbia Multiple Indicator Cluster Survey 2005 card or history results of 94 percent modifed for recall bias to 99 percent based on 1st dose card or history coverage of 97 percent, 1st dose card only coverage of 70 percent and 3rd dose card only coverage of 75 percent.   Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2005	98	98	3	98	98	98	68958	70509	76735	76735	98	gov		R:	Estimate informed by reported data.   Estimates do not include Montenegro and Kosovo.  GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2006	97	97	2	97	97	97			64881	64881	97	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2007	93	93	2	98	93	93	66139		65618	65618	93	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2008	95	95	2	98	95	95	64699	66381	68476	68476	95	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2009	97	97	2	97	97	97	65327	67120	69032	69032	97	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2010	91	91	2	97	91	91	63938	65853	71262	71262	91	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2011	94	94	3	98	94	94	64236	65848	70960	70960	94	gov		R:	Estimate informed by reported data.   Estimates do not include Kosovo.  GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2012	93	93	3	95	93	93	61294	64815	72305	72305	93	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2013	97	97	3	97		97	62959	64662	70820	70820	97	admin	90	R: AP	Estimate informed by reported administrative data supported by survey. Survey evidence of 90 percent based on 1 survey(s).  Serbia Multiple Indicator Cluster Survey 2014 card or history results of 88 percent modifed for recall bias to 90 percent based on 1st dose card or history coverage of 93 percent, 1st dose card only coverage of 86 percent and 3rd dose card only coverage of 83 percent.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2014	93	93	3	95	93	93	61099	64275	71558	71558	93	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2015	95	95	3	95	95	95	63321	66723	70873	70873	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2016	93	93	3	94	93	93	60819	64581	70071	70071	93	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2017	95	95	3	95	95	95	61737	64863	70179	70179	95	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).  Serbia Multiple Indicator Cluster Survey 2019 card or history results of 94 percent modifed for recall bias to 95 percent based on 1st dose card or history coverage of 96 percent, 1st dose card only coverage of 85 percent and 3rd dose card only coverage of 84 percent.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2018	96	96	3	95	96	96	62623	66102	69380	69380	96	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2019	97	97	3	95	97	97	61770	64967	69672	69672	97	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2020	92	92	3	92	92	92	58238	63517	68556	68556	92	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2021	91	92	2	91	91	91	56449	62138	67609	67609	91	gov		R:	Estimate informed by reported data.  Estimate of 91 percent changed from previous revision value of 92 percent.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	pol3	2022	92		2	92	92	92	57836	62950	66557	66557	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	1997	92	92	2						94306	94306				R: AP	Estimate based on estimated MCV1.    GoC=R+ S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	1998	88	88	2						74526	74526				R: AP	Estimate based on estimated MCV1.    GoC=S+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	1999	84	84	1						77993	77993				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2000	89	89	1						85487	85487				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2001	90	90	1						91628	91628				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2002	92	92	1						91239	91239				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2003	87	87	1						89941	89941				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2004	89	89	1						80946	80946				R: AP	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2005	96	96	3						76735	76735				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2006	88	88	1						64881	64881				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2007	95	95	2						65618	65618				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2008	92	92	2						68476	68476				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2009	95	95	2						69032	69032				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2010	95	95	2						71262	71262				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2011	93	93	3						70960	70960				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2012	87	87	3						72305	72305				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2013	92	92	3						70820	70820				R: AP	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2014	86	86	3						71558	71558				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2015	86	86	3						70873	70873				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2016	82	82	3				54613	67412	70071	70071				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2017	86	86	3						70179	70179			87	R: AP	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2018	92	92	3						69380	69380				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2019	87	87	3						69672	69672				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2020	78	78	2						68556	68556				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2021	75	78	2						67609	67609				R:	Estimate based on estimated MCV1.   Estimate of 75 percent changed from previous revision value of 78 percent.  GoC=R+ D+	
+Serbia	Wed Sep 06 19:06:34 2023	srb	rcv1	2022	81		2						66557	66557				R:	Estimate based on estimated MCV1.    GoC=R+ D+	

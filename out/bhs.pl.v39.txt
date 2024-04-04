@@ -1,0 +1,225 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	1997	95	95	1						6686	6686	100	extrapolated		W: AP	Estimate of 95 percent assigned by working group. Legacy estimate.   GoC=No accepted empirical data	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	1998	96	96	1						6539	6539	100	extrapolated		C:	Reported data calibrated to 1997 and 2005 levels.    GoC=No accepted empirical data	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	1999	96	96	1						5997	5997	100	extrapolated		C:	Reported data calibrated to 1997 and 2005 levels.    GoC=No accepted empirical data	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2000	99	99	1	105	105	105	5558	5281	5912	5912	100	extrapolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.  Reported data excluded because 105 percent greater than 100 percent.   Estimate challenged by: R-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2001	99	99	1	105		105			5934	5934	100	extrapolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.  Reported data excluded because 105 percent greater than 100 percent.   Estimate challenged by: R-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2002	99	99	1						5724	5724	100	extrapolated		C:	Reported data calibrated to 1997 and 2005 levels.    GoC=No accepted empirical data	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2003	99	99	1						5547	5547	100	extrapolated		C:	Reported data calibrated to 1997 and 2005 levels.    GoC=No accepted empirical data	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2004	99	99	1	103	100	100	5144	5011	5617	5617	100	gov		C:	Reported data calibrated to 1997 and 2005 levels.    Estimate challenged by: R-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2005	99	99	1	100	99	99	5034	5046	5998	5998	99	gov		R: AP	 Estimate based on reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2006	95	95	2	94	95	95	4819	5112	5259	5259	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2007	98	98	2	104	104	104	5394	5205	5487	5487	98	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 104 percent greater than 100 percent.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2008	99	99	2	100	100	100	5717	5725	5931	5931	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2009	99	99	1	99	99	99	5268	5288	6018	6018	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2010	99	99	2	100	101	101	5323	5319	5526	5526	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 101 percent greater than 100 percent.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2011	99	99	2		104	104			5309	5309	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 104 percent greater than 100 percent.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2012	99	99	2	99	99	99	5079	5112	5385	5385	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2013	99	99	2	100	100	100	4998	4987	4713	4713	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2014	96	96	1	96	96	96	4468	4639	5277	5277	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2015	99	99	2	100	100	100	4829	4808	5023	5023	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2016	95	95	2	95	95	95	4490	4727	4819	4819	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2017	98	98	1	98	98	98	4043	4124	4643	4643	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2018	94	94	1	94	94	94	3845	4098	4643	4643	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2019	91	91	1	91	91	91	3550	3897	4641	4641	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2020	97	97	1	97	97	97	3770	3897	4670	4670	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2021	91	79	1	91	91	91	3377	3726	4666	4666	91	gov		R:	Estimate informed by reported data.  Decline in reported coverage is unexplained. The trend in coverage for other antigens also signals a decline and thus the trend is followed. Estimate of 91 percent changed from previous revision value of 79 percent.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp1	2022	98		1	98	98	98	3347	3426	4659	4659	98	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage. Programme reports use of an immunization registry as of 2022. Increase in reported coverage for vaccines recommended in the first year of life appears partly due to a decrease of 19 percent in the target population compared to 2021 (and 12 percent lower than that for 2020). Reported number of doses administered for 2022 is lower than that for 2021, and the trend in reported number of doses administered has declined since 2012.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	1997	86	86	2		86	86			6686	6686	86	gov		R: AP	Legacy estimate.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	1998	89	89	2		89	89			6539	6539	89	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	1999	82	82	2	81	82	82			5997	5997	82	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2000	99	99	1	99	99	99	5239	5281	5912	5912	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2001	99	99	2	99		99			5934	5934	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2002	94	94	2	94	94	94			5724	5724	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2003	92	92	2		92	92			5547	5547	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2004	93	93	2	93	93	93	4671	5011	5617	5617	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2005	93	93	1	89	93	93	4506	5046	5998	5998	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2006	95	95	2	95	95	95	4856	5112	5259	5259	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2007	95	95	2	95	95	95	4950	5205	5487	5487	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2008	93	93	2	93	93	93	5346	5725	5931	5931	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2009	96	96	1	96	96	96	5085	5288	6018	6018	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2010	99	99	2	99	99	99	5242	5319	5526	5526	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2011	98	98	2		98	98			5309	5309	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2012	98	98	2	98	98	98	4991	5112	5385	5385	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2013	97	97	2	97	97	97	4826	4987	4713	4713	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2014	96	96	1	96	96	96	4431	4639	5277	5277	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2015	95	95	2	95	95	95	4544	4808	5023	5023	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2016	94	94	2	94	94	94	4420	4727	4819	4819	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2017	94	94	1	94	94	94	3876	4124	4643	4643	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2018	90	90	1	90	90	90	3695	4098	4643	4643	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2019	89	89	1	89	89	89	3472	3897	4641	4641	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2020	83	83	1	83	83	83	3230	3897	4670	4670	83	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2021	86	75	1	86	86	86	3200	3726	4666	4666	86	gov		R:	Estimate informed by reported data.  Estimate of 86 percent changed from previous revision value of 75 percent.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	dtp3	2022	87		1	87	87	87	2964	3426	4659	4659	87	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage. Programme reports use of an immunization registry as of 2022. Increase in reported coverage for vaccines recommended in the first year of life appears partly due to a decrease of 19 percent in the target population compared to 2021 (and 12 percent lower than that for 2020). Reported number of doses administered for 2022 is lower than that for 2021, and the trend in reported number of doses administered has declined since 2012.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2001	21	21	2	21	21	21			5934	5934	21	gov		R:	Estimate informed by reported data.   HepB vaccine introduced in 2001  GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2002	89	89	2		89	89			5724	5724	89	gov		R:	Estimate informed by reported data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2003	88	88	2		88	88			5547	5547	88	gov		R:	Estimate informed by reported data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2004	93	93	2	93	93	93	4671	5011	5617	5617	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2005	93	93	1	89	93	93	4506	5046	5998	5998	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2006	96	96	2	95	96	96	4876	5112	5259	5259	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2007	93	93	2	93	93	93	4848	5205	5487	5487	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2008	90	90	2	90	90	90	5151	5725	5931	5931	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2009	95	95	1	95	95	95	4998	5288	6018	6018	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2010	98	98	2	98	98	98	5204	5319	5526	5526	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2011	95	95	2		95	95			5309	5309	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2012	96	96	2	96	96	96	4922	5112	5385	5385	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2013	97	97	2	97	97	97	4826	4987	4713	4713	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2014	96	96	1	96	96	96	4431	4639	5277	5277	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2015	95	95	2	95	95	95	4544	4808	5023	5023	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2016	94	94	2	94	94	94	4420	4727	4819	4819	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2017	94	94	1	94	94	94	3876	4124	4643	4643	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2018	90	90	1	90	90	90	3695	4098	4643	4643	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2019	89	89	1	89	89	89	3472	3897	4641	4641	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2020	83	83	1	83	83	83	3230	3897	4670	4670	83	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2021	86	75	1	86	86	86	3200	3726	4666	4666	86	gov		R:	Estimate informed by reported data.   Estimate of 86 percent changed from previous revision value of 75 percent.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hepb3	2022	87		1	87	87	87	2964	3426	4659	4659	87	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage. Programme reports use of an immunization registry as of 2022. Increase in reported coverage for vaccines recommended in the first year of life appears partly due to a decrease of 19 percent in the target population compared to 2021 (and 12 percent lower than that for 2020). Reported number of doses administered for 2022 is lower than that for 2021, and the trend in reported number of doses administered has declined since 2012.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	1999	78	78	2	78	78	78			5997	5997	78	gov		R:	Estimate informed by reported data.   Hib vaccine introduced in 1998. Reporting started in 1999.  GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2000	90	90	2	90	90	90	4752	5281	5912	5912	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2001	99	99	2	99		99			5934	5934	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2002	94	94	2	94	94	94			5724	5724	94	gov		R:	Estimate informed by reported data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2003	93	93	2	93	93	93			5547	5547	93	gov		R:	Estimate informed by reported data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2004	93	93	2	93	93	93	4671	5011	5617	5617	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2005	93	93	1	89	93	93	4506	5046	5998	5998	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2006	95	95	2	95	95	95	4878	5112	5259	5259	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2007	95	95	2	95	95	95	4950	5205	5487	5487	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2008	94	94	2	93	94	94	5351	5725	5931	5931	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2009	96	96	1	96	96	96	5086	5288	6018	6018	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2010	98	98	2	98	98	98	5209	5319	5526	5526	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2011	98	98	2		98	98			5309	5309	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2012	98	98	2	98	98	98	5022	5112	5385	5385	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2013	97	97	2	97	97	97	4826	4987	4713	4713	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2014	96	96	1	96	96	96	4431	4639	5277	5277	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2015	95	95	2	95	95	95	4544	4808	5023	5023	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2016	94	94	2	94	94	94	4420	4727	4819	4819	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2017	94	94	1	94	94	94	3876	4124	4643	4643	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2018	90	90	1	90	90	90	3695	4098	4643	4643	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2019	89	89	1	89	89	89	3472	3897	4641	4641	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2020	83	83	1	83	83	83	3230	3897	4670	4670	83	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2021	86	75	1	86	86	86	3200	3726	4666	4666	86	gov		R:	Estimate informed by reported data.   Estimate of 86 percent changed from previous revision value of 75 percent.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	hib3	2022	87		1	87	87	87	2964	3426	4659	4659	87	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage. Programme reports use of an immunization registry as of 2022. Increase in reported coverage for vaccines recommended in the first year of life appears partly due to a decrease of 19 percent in the target population compared to 2021 (and 12 percent lower than that for 2020). Reported number of doses administered for 2022 is lower than that for 2021, and the trend in reported number of doses administered has declined since 2012.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	ipv1	2015	31	31	2	31	31	31	1497	4808	5023	5023	31	gov		R:	Estimate informed by reported data.   Inactivated polio vaccine in October 2015.  GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	ipv1	2016	95	95	2	95	95	95	4490	4727	4819	4819	95	gov		R:	Estimate informed by reported data.   Estimate is based on reported data following introduction.  GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	ipv1	2017	98	98	1	98	98	98	4043	4124	4643	4643	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	ipv1	2018	94	94	1	94	94	94	3845	4098	4643	4643	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	ipv1	2019	91	91	1	91	91	91	3550	3897	4641	4641	91	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	ipv1	2020	97	97	1	97	97	97	3770	3897	4670	4670	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	ipv1	2021	91	79	1	91	91	91	3377	3726	4666	4666	91	gov		R:	Estimate informed by reported data.   Decline in reported coverage is unexplained. The trend in coverage for other antigens also signals a decline and thus the trend is followed. Estimate of 91 percent changed from previous revision value of 79 percent.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	ipv1	2022	98		1	98	98	98	3347	3426	4659	4659	98	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage. Programme reports use of an immunization registry as of 2022. Increase in reported coverage for vaccines recommended in the first year of life appears partly due to a decrease of 19 percent in the target population compared to 2021 (and 12 percent lower than that for 2020). Reported number of doses administered for 2022 is lower than that for 2021, and the trend in reported number of doses administered has declined since 2012.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	1997	93	93	2		93	93			6686	6686	93	gov		R: AP	Legacy estimate.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	1998	92	92	2		92	92			6539	6539	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	1999	86	86	2	86	86	86			5997	5997	86	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2000	93	93	1	93	93	93	4866	5236	5912	5912	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2001	94	94	2	94		94			5934	5934	94	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2002	94	94	2		94	94			5724	5724	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2003	90	90	2		90	90			5547	5547	90	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2004	89	89	2	86	89	89	4480	5011	5617	5617	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2005	85	85	1	82	85	85	4148	5046	5998	5998	85	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2006	88	88	2	88	88	88	4482	5112	5259	5259	88	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2007	96	96	2	96	96	96	4971	5205	5487	5487	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2008	90	90	2	90	90	90	5164	5725	5931	5931	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2009	98	98	1	98	98	98	5156	5288	6018	6018	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2010	94	94	2	94	94	94	4976	5319	5526	5526	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2011	90	90	2		90	90			5309	5309	90	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2012	91	91	2	91	91	91	4662	5112	5385	5385	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2013	92	92	2	92	92	92	4563	4987	4713	4713	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2014	92	92	1	92	92	92	4289	4639	5277	5277	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2015	94	94	2	94	94	94	4496	4808	5023	5023	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2016	89	89	2	89	89	89	4188	4727	4819	4819	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2017	90	90	2	90	90	90	3726	4124	4643	4643	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2018	89	89	1	89	89	89	3659	4102	4643	4643	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2019	83	83	2	83	83	83	3489	4183	4641	4641	83	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2020	87	87	1	87	87	87	3379	3897	4670	4670	87	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2021	82	82	1	82	82	82	3211	3897	4666	4666	82	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv1	2022	80		1	80	80	80	2997	3726	4659	4659	80	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage. Programme reports use of an immunization registry as of 2022. Increase in reported coverage for vaccines recommended in the first year of life appears partly due to a decrease of 19 percent in the target population compared to 2021 (and 12 percent lower than that for 2020). Reported number of doses administered for 2022 is lower than that for 2021.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2004	95	95	2		95	95			5617	5617	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2005	88	88	1	81	88	88	4265	5279	5998	5998	88	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2006	88	88	2	88	88	88	4477	5086	5259	5259	88	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2007	84	84	1						5487	5487	84	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2008	80	80	1						5931	5931	80	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2009	76	76	1	76		76	3811	4999	6018	6018	76	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2010	78	78	1	47	47	47	2428	5205	5526	5526	78	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded due to decline in reported coverage from 76 percent to 47 percent with increase to 79 percent.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2011	79	79	2	79		79	4103	5205	5309	5309	79	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2012	73	73	2	73	73	73	4166	5725	5385	5385	73	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2013	69	69	1	69	69	69	3641	5288	4713	4713	69	gov		R:	Estimate informed by reported data.    GoC=Assigned by working group.  GoC assigned to maintain consistency across vaccines.	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2014	72	72	1	72	72	72	3787	5262	5277	5277	72	gov		R:	Estimate informed by reported data.    GoC=Assigned by working group.  GoC assigned to maintain consistency across vaccines.	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2015	76	76	1	76	76	76	4012	5262	5023	5023	76	gov		R:	Estimate informed by reported data.    GoC=Assigned by working group.  GoC assigned to maintain consistency across vaccines.	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2016	74	74	2	74	74	74	3804	5112	4819	4819	74	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2017	76	76	2	76	76	76	3714	4897	4643	4643	76	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2018	69	69	2	69	69	69	3221	4639	4643	4643	69	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2019	83	83	2	83	83	83	3489	4183	4641	4641	83	gov		R:	Estimate informed by reported data.   Increase in coverage is likely a function of a change in recommended age for the 2nd dose of measles containing vaccine from 4-5 years to 15 months.  GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2020	83	83	1	83	83	83	3227	3897	4670	4670	83	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2021	80	82	1	80	80	80	3112	3897	4666	4666	80	gov		R:	Estimate informed by reported data.   Estimate of 80 percent changed from previous revision value of 82 percent.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	mcv2	2022	65		1	65	65	65	2431	3726	4659	4659	65	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage. Programme reports use of an immunization registry as of 2022. Programme indicates that private sector may not follow the recommended age of MMR2 of 15 months, but vaccinate children at pre-school or school entry.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2009	3	3	2	3		3	137	5288	6018	6018	3	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2010	1	1	2	1		1	52	5319	5526	5526	1	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2011	1	1	2		1	1			5309	5309	1	gov		R:	Estimate informed by reported data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2012	37	37	2	37	37	37	1910	5112	5385	5385	37	gov		R:	Estimate informed by reported data.   Pneumococcal conjugate vaccine introduced nationally in 2012.  GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2013	97	97	2	97	97	97	4826	4987	4713	4713	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2014	96	96	1	96	96	96	4431	4639	5277	5277	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2015	95	95	2	95	95	95	4544	4808	5023	5023	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2016	94	94	2	94	94	94	4420	4727	4819	4819	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2017	93	93	1	93	93	93	3825	4124	4643	4643	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2018	90	90	1	90	90	90	3695	4098	4643	4643	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2019	89	89	1	89	89	89	3472	3897	4641	4641	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2020	83	83	1	83	83	83	3227	3897	4670	4670	83	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2021	80	82	1	80	80	80	3112	3897	4666	4666	80	gov		R:	Estimate informed by reported data.   Estimate of 80 percent changed from previous revision value of 82 percent.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pcv3	2022	79		1	79	79	79	2711	3426	4659	4659	79	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage. Programme reports use of an immunization registry as of 2022. Reported coverage ignored consistent with other antigens. Reported number of doses administered for 2022 is lower than that for 2021, and the trend in reported number of doses administered has declined over the past several years.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	1997	86	86	2		86	86			6686	6686	86	gov		R: AP	Legacy estimate.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	1998	88	88	2		88	88			6539	6539	88	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	1999	82	82	2	82	82	82			5997	5997	82	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2000	91	91	2	91	91	91	4792	5281	5912	5912	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2001	98	98	2	98		98			5934	5934	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2002	93	93	2		93	93			5724	5724	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2003	93	93	2		93	93			5547	5547	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2004	92	92	2	92	92	92	4615	5011	5617	5617	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2005	93	93	1	90	93	93	4553	5046	5998	5998	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2006	94	94	2	94	94	94	4805		5259	5259	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2007	95	95	2	95	95	95	4944		5487	5487	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2008	93	93	2	93	93	93	5345	5725	5931	5931	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2009	97	97	1	97	97	97	5117	5288	6018	6018	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2010	97	97	2	97	97	97	5145	5319	5526	5526	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2011	97	97	2		97	97			5309	5309	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2012	99	99	2	99	99	99	5071	5112	5385	5385	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2013	97	97	2	97	97	97	4826	4987	4713	4713	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2014	96	96	1	96	96	96	4431	4639	5277	5277	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2015	95	95	2	95	95	95	4544	4808	5023	5023	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2016	94	94	2	94	94	94	4420	4727	4819	4819	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2017	94	94	1	94	94	94	3876	4124	4643	4643	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2018	90	90	1	90	90	90	3695	4098	4643	4643	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2019	89	89	1	89	89	89	3472	3897	4641	4641	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2020	83	83	1	83	83	83	3230	3897	4670	4670	83	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2021	86	75	1	86	86	86	3200	3726	4666	4666	86	gov		R:	Estimate informed by reported data.  Estimate of 86 percent changed from previous revision value of 75 percent.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	pol3	2022	87		1	87	87	87	2964	3426	4659	4659	87	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage. Programme reports use of an immunization registry as of 2022. Increase in reported coverage for vaccines recommended in the first year of life appears partly due to a decrease of 19 percent in the target population compared to 2021 (and 12 percent lower than that for 2020). Reported number of doses administered for 2022 is lower than that for 2021, and the trend in reported number of doses administered has declined since 2012.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	1997	93	93	2						6686	6686				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	1998	92	92	2						6539	6539				R:	Estimate based on estimated MCV1.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	1999	86	86	2						5997	5997				R:	Estimate based on estimated MCV1.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2000	93	93	1						5912	5912				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2001	94	94	2						5934	5934				R:	Estimate based on estimated MCV1.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2002	94	94	2						5724	5724				R:	Estimate based on estimated MCV1.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2003	90	90	2						5547	5547				R:	Estimate based on estimated MCV1.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2004	89	89	2						5617	5617				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2005	85	85	1						5998	5998				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2006	88	88	2						5259	5259				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2007	96	96	2						5487	5487				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2008	90	90	2						5931	5931				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2009	98	98	1						6018	6018				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2010	94	94	2						5526	5526				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2011	90	90	2						5309	5309				R:	Estimate based on estimated MCV1.    GoC=R+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2012	91	91	2						5385	5385				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2013	92	92	2						4713	4713				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2014	92	92	1						5277	5277				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2015	94	94	2						5023	5023				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2016	89	89	2				4188	4727	4819	4819				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2017	90	90	2				3726	4124	4643	4643				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2018	89	89	1						4643	4643				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2019	83	83	2						4641	4641				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2020	87	87	1						4670	4670				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2021	82	82	1						4666	4666				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rcv1	2022	80		1						4659	4659				R:	Estimate based on estimated MCV1.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rotac	2016	11	11	2	11	11	11	509	4727	4819	4819	11	gov		R:	Estimate informed by reported data.   Rotavirus introduced in national schedule in 2016.  GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rotac	2017	90	90	1	90	90	90	3714	4124	4643	4643	90	gov		R:	Estimate informed by reported data.   Estimate based on reported data the year after vaccine introduction.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rotac	2018	70	70	2	70	70	70	2854	4098	4643	4643	70	gov		R:	Estimate informed by reported data.   Programme reports a four-month vaccine stockout.  GoC=R+ D+	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rotac	2019	78	78	1	78	78	78	3031	3897	4641	4641	78	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rotac	2020	95	95	1	95	95	95	3695	3897	4670	4670	95	gov		R:	Estimate informed by reported data.   .  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rotac	2021	86	75	1	86	86	86	3203	3726	4666	4666	86	gov		R:	Estimate informed by reported data.   . Estimate of 86 percent changed from previous revision value of 75 percent.  Estimate challenged by: D-	
+Bahamas	Wed Sep 06 18:39:25 2023	bhs	rotac	2022	82		1	82	82	82	2815	3426	4659	4659	82	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high quality survey to confirm reported levels of coverage. Programme reports use of an immunization registry as of 2022. Increase in reported coverage for vaccines recommended in the first year of life appears partly due to a decrease of 19 percent in the target population compared to 2021 (and 12 percent lower than that for 2020). Reported number of doses administered for 2022 is lower than that for 2021.  Estimate challenged by: D-	

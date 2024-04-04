@@ -1,0 +1,217 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	1997	89	89	1						51868	51868	90	extrapolated		W: AP	Estimate of 89 percent assigned by working group. Legacy estimate.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	1998	89	89	1						53011	53011	90	extrapolated		C:	Reported data calibrated to 1997 levels.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	1999	89	89	1		90	90			53007	53007	90	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2000	89	89	1						53905	53905	90	interpolated		C:	Reported data calibrated to 1997 levels.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2001	89	89	1						56505	56505	90	interpolated		C:	Reported data calibrated to 1997 levels.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2002	90	90	1						59350	59350	91	interpolated		C:	Reported data calibrated to 1997 levels.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2003	90	90	1						60554	60554	91	interpolated		C:	Reported data calibrated to 1997 levels.  Reported coverage reflects performance in reporting areas. WHO and UNICEF estimate reflects coverage for the national target population.  GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2004	30	30	1	91	91	91	18038	19925	60793	60793	91	gov		W:	 Coverage of 91 percent reached in 33 percent of the population. BCG has been administered subnationally since 2004; currently available information indicates national recommendation prior to 2004.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2005	31	31	1	93	93	93	19097	20592	60341	60341	93	gov		W:	 Ninety-three percent coverage reached in 34 percent of the population.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2006	31	31	1	93	93	93	19428	20918	63875	63875	93	gov		W:	 Ninety-three percent coverage reached in 33 percent of the population.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2007	33	33	1	93	93	93	20881	22447	69775	69775	93	gov		W:	 Ninety-three percent coverage reached in 36 percent of the population.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2008	34	34	1	94	94	94	22763	24324	74341	74341	94	gov		W:	 Ninety-four percent coverage achieved in 36 percent of the population.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2009	30	30	1	95	95	95	19540	20483	75693	75693	95	gov		W:	 Ninety-five percent coverage achieved in 32 percent of the population.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2010	30	30	1	96	95	95	18554	19405	75316	75316	95	gov		W:	 Ninety-six percent coverage achieved in 31 percent of the population.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2011	41	41	1	85	85	85	31185	36598	73817	73817	85	gov		W:	 Ninety-five percent coverage achieved in 48 percent of the population.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2012	42	42	1	80	80	80	31256	39007	71600	71600	80	gov		W:	 Eighty percent coverage reached in 52 percent of the population.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2013	76	76	1	86	86	86	56030	64796	69002	69002	86	gov		W:	 Eighty-six percent coverage achieved in 88 percent of the national target population.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2014	74	74	1	86	87	87	53576	61828	67041	67041	87	gov		W:	 Eighty-six percent coverage achieved in 86 percent of the national target population.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2015	77	77	1	87	86	86	52772	61032	65037	65037	86	gov		W:	 Eighty-seven percent coverage achieved in 88 percent of the national target population. Estimate based on coverage achieved in the total national annual birth cohort.   Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	bcg	2016	18	18	1	20	20	20	11854	59330	63114	63114	20	gov		W:	 Programme reports 20 percent coverage achieved in 88 percent of the national target population. Estimate is based on coverage achieved in the total national target population.  In 2015, the national immunization advisory committee and the health information and quality authority recommended that BCG vaccine does not need to be given to all children in Ireland. Programme reports a 12 month national level vaccine stockout.  Estimate challenged by: R-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	1997	90	90	1						51868	51868				RMF	Estimate based on DTP3 coverage of 76.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	1998	94	94	1						53011	53011				RMF	Estimate based on DTP3 coverage of 84.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	1999	95	95	1						53007	53007				RMF	Estimate based on DTP3 coverage of 86.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2000	95	95	1						53905	53905				RMF	Estimate based on DTP3 coverage of 86.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2001	94	94	1						56505	56505				RMF	Estimate based on DTP3 coverage of 84.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2002	94	94	1						59350	59350				RMF	Estimate based on DTP3 coverage of 83.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2003	95	95	1						60554	60554				RMF	Estimate based on DTP3 coverage of 86.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2004	96	96	1						60793	60793				RMF	Estimate based on DTP3 coverage of 89.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2005	96	96	1						60341	60341				RMF	Estimate based on DTP3 coverage of 90.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2006	97	97	1						63875	63875				RMF	Estimate based on DTP3 coverage of 91.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2007	97	97	1						69775	69775				RMF	Estimate based on DTP3 coverage of 92.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2008	97	97	1						74341	74341				RMF	Estimate based on DTP3 coverage of 93.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2009	98	98	1						75693	75693				RMF	Estimate based on DTP3 coverage of 94.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2010	98	98	1						75316	75316				RMF	Estimate based on DTP3 coverage of 94.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2011	98	98	1						73817	73817				RMF	Estimate based on DTP3 coverage of 95.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2012	98	98	1						71600	71600				RMF	Estimate based on DTP3 coverage of 95.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2013	98	98	1						69002	69002				RMF	Estimate based on DTP3 coverage of 96.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2014	98	98	1						67041	67041				RMF	Estimate based on DTP3 coverage of 96.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2015	98	98	1						65037	65037				RMF	Estimate based on DTP3 coverage of 95.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2016	98	98	1						63114	63114				RMF	Estimate based on DTP3 coverage of 95.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2017	98	98	1						61312	61312				RMF	Estimate based on DTP3 coverage of 95.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2018	98	98	1						61865	61865				RMF	Estimate based on DTP3 coverage of 94.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2019	98	98	1						60463	60463				RMF	Estimate based on DTP3 coverage of 94.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2020	98	98	1						59670	59670				RMF	Estimate based on DTP3 coverage of 94.   Reported data reflect three-quarters of the year. Q2 2020 coverage was much lower than Q2 of previous years likely due to COVID-19, but values returned to pre-pandemic levels for Q3.  GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2021	98	98	1						58563	58563				RMF	Estimate based on DTP3 coverage of 94.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp1	2022	97		1						57561	57561				RMF	Estimate based on DTP3 coverage of 93.   Immunization uptake statistics for children age 12 and 24 months are available at http://www.hpsc.ie. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	1997	76	76	2		76	76			51868	51868	76	gov		R: AP	Legacy estimate.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	1998	84	84	2	84	84	84			53011	53011	84	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	1999	86	86	2	86	86	86			53007	53007	86	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2000	86	86	2	86	86	86			53905	53905	86	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2001	84	84	2	84	84	84	48022	56958	56505	56505	84	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2002	83	83	2	83	83	83	46959	57613	59350	59350	83	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2003	86	86	2	86	86	86	50036	58730	60554	60554	86	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2004	89	89	2	89	89	89	54576	61068	60793	60793	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2005	90	90	2	90	90	90	55310	61151	60341	60341	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2006	91	91	2	91	91	91	57335	62849	63875	63875	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2007	92	92	2	92	92	92	57902	62965	69775	69775	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2008	93	93	2	93	93	93	62311	67021	74341	74341	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2009	94	94	1	94	94	94	60360	64413	75693	75693	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2010	94	94	1	94	94	94	59051	62892	75316	75316	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2011	95	95	2	95	95	95	72047	75693	73817	73817	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2012	95	95	2	95	95	95	71197	74561	71600	71600	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2013	96	96	2	96	96	96	70718	74030	69002	69002	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2014	96	96	2	96	96	96	68646	71848	67041	67041	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2015	95	95	2	95	95	95	66140	69456	65037	65037	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2016	95	95	2	95	95	95	64341	67731	63114	63114	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2017	95	95	2	95	95	95	62791	66262	61312	61312	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2018	94	94	2	94	94	94	54326	57508	61865	61865	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2019	94	94	2	93	94	94	43726	46784	60463	60463	94	gov		R:	Estimate informed by reported data.   GoC=Assigned by working group.  Reported data reflect that for three-quarters of the year.	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2020	94	94	2	94	94	94	56566	60073	59670	59670	94	gov		R:	Estimate informed by reported data.  Reported data reflect three-quarters of the year. Q2 2020 coverage was much lower than Q2 of previous years likely due to COVID-19, but values returned to pre-pandemic levels for Q3.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2021	94	94	2	94	94	94	55928	59813	58563	58563	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	dtp3	2022	93		2	93	93	93	52970	57147	57561	57561	93	gov		R:	Estimate informed by reported data.  Immunization uptake statistics for children age 12 and 24 months are available at http://www.hpsc.ie. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2010	46	46	2				28796	30735	75316	75316	95	extrapolated		W:	 Coverage of 94 percent achieved in 49 percent of the population.  HepB vaccine introduced during Q3 2008, reporting started during 2010. Vaccine presentation is DTP-Hib-HepB-IPV.  GoC=D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2011	95	95	2	95	95	95	71913	75836	73817	73817	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2012	95	95	2	95	95	95	71099	74740	71600	71600	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2013	95	95	2	95	95	95	70653	74156	69002	69002	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2014	95	95	2	95	95	95	68583	71844	67041	67041	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2015	95	95	2	95	95	95	66084	69449	65037	65037	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2016	95	95	2	95	95	95	64272	67729	63114	63114	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2017	95	95	2	95	95	95	62723	66262	61312	61312	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2018	94	94	2	94	94	94	54270	57508	61865	61865	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2019	93	93	2	93	93	93	43694	46784	60463	60463	93	gov		R:	Estimate informed by reported data.    GoC=Assigned by working group.  Reported data reflect that for three-quarters of the year.	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2020	94	94	2	94	94	94	56543	60073	59670	59670	94	gov		R:	Estimate informed by reported data.   Reported data reflect three-quarters of the year. Q2 2020 coverage was much lower than Q2 of previous years likely due to COVID-19, but values returned to pre-pandemic levels for Q3.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2021	93	93	2	93	93	93	55917	59813	58563	58563	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hepb3	2022	93		2	93	93	93	52955	57147	57561	57561	93	gov		R:	Estimate informed by reported data.   Immunization uptake statistics for children age 12 and 24 months are available at http://www.hpsc.ie. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	1997	76	76	2	76		76			51868	51868	76	admin		R: AP	Legacy estimate.  Hib vaccine introduced in 1992. Reporting started in 1997.  GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	1998	84	84	2	84	84	84			53011	53011	84	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	1999	86	86	2	86	86	86			53007	53007	86	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2000	85	85	2	85	85	85			53905	53905	85	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2001	84	84	2	84	84	84	47745	56958	56505	56505	84	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2002	83	83	2	83	83	83	47615	57583	59350	59350	83	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2003	86	86	2	86	86	86	50447	58754	60554	60554	86	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2004	89	89	2	89	89	89	54408	61038	60793	60793	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2005	90	90	2	90	90	90	55174	61151	60341	60341	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2006	91	91	2	91	91	91	57268	62849	63875	63875	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2007	92	92	2	92	92	92	57785	62962	69775	69775	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2008	93	93	2	93	93	93	62156	67017	74341	74341	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2009	93	93	1	93	93	93	60200	64463	75693	75693	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2010	94	94	1	94	94	94	59005	62894	75316	75316	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2011	95	95	2	95	95	95	72025	75762	73817	73817	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2012	95	95	2	95	95	95	71176	74652	71600	71600	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2013	95	95	2	95	95	95	70703	74079	69002	69002	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2014	96	96	2	96	96	96	68627	71855	67041	67041	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2015	95	95	2	95	95	95	66131	69463	65037	65037	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2016	95	95	2	95	95	95	64328	67764	63114	63114	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2017	95	95	2	95	95	95	62781	66266	61312	61312	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2018	94	94	2	94	94	94	54319	57508	61865	61865	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2019	94	94	2	93	94	94	43725	46784	60463	60463	94	gov		R:	Estimate informed by reported data.   GoC=Assigned by working group.  Reported data reflect that for three-quarters of the year.	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2020	94	94	2	94	94	94	56561	60073	59670	59670	94	gov		R:	Estimate informed by reported data.  Reported data reflect three-quarters of the year. Q2 2020 coverage was much lower than Q2 of previous years likely due to COVID-19, but values returned to pre-pandemic levels for Q3.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2021	93	93	2	93	93	93	55923	59813	58563	58563	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	hib3	2022	93		2	93	93	93	52966	57147	57561	57561	93	gov		R:	Estimate informed by reported data.  Immunization uptake statistics for children age 12 and 24 months are available at http://www.hpsc.ie. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	ipv1	2015	98	98	1						65037	65037				W:	 Programme uses DTP-HepB-Hib-IPV combination vaccine. Estimate informed by estimated DTP1 coverage.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	ipv1	2016	98	98	1						63114	63114				W:	 Programme uses DTP-HepB-Hib-IPV combination vaccine. Estimate informed by estimated DTP1 coverage.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	ipv1	2017	98	98	1						61312	61312				W:	 Programme uses DTP-HepB-Hib-IPV combination vaccine. Estimate informed by estimated DTP1 coverage.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	ipv1	2018	98	98	1						61865	61865				W:	 Programme uses DTP-HepB-Hib-IPV combination vaccine. Estimate informed by estimated DTP1 coverage.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	ipv1	2019	98	98	1						60463	60463				W:	 Programme uses DTP-HepB-Hib-IPV combination vaccine. Estimate informed by estimated DTP1 coverage.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	ipv1	2020	98	98	1						59670	59670				W:	 Programme uses DTP-HepB-Hib-IPV combination vaccine. Estimate informed by estimated DTP1 coverage.  Reported data reflect three-quarters of the year. Q2 2020 coverage was much lower than Q2 of previous years likely due to COVID-19, but values returned to pre-pandemic levels for Q3.  GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	ipv1	2021	98	98	1						58563	58563				W:	 Programme uses DTP-HepB-Hib-IPV combination vaccine. Estimate informed by estimated DTP1 coverage.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	ipv1	2022	97		1						57561	57561				W:	 Programme uses DTP-HepB-Hib-IPV combination vaccine. Estimate informed by estimated DTP1 coverage.  Immunization uptake statistics for children age 12 and 24 months are available at http://www.hpsc.ie. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	1997	77	77	1						51868	51868	77	extrapolated		R: AP	Legacy estimate.   GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	1998	77	77	2	77	77	77			53011	53011	77	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	1999	77	77	2	77	77	77			53007	53007	77	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2000	79	79	2	79	79	79			53905	53905	79	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2001	73	73	2	73	73	73	41688	56958	56505	56505	73	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2002	73	73	2	73	73	73	41711	57528	59350	59350	73	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2003	78	78	2	78	78	78	45999	58712	60554	60554	78	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2004	81	81	2	81	81	81	49520	61029	60793	60793	81	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2005	84	84	2	84	84	84	46946	55778	60341	60341	84	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2006	86	86	2	86	86	86	54196	62909	63875	63875	86	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2007	87	87	2	87	87	87	54812	62991	69775	69775	87	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2008	89	89	2	89	89	89	59473	67033	74341	74341	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2009	90	90	1	90	90	90	58171	64349	75693	75693	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2010	90	90	1	90	90	90	56696	62917	75316	75316	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2011	92	92	2	92	92	92	69642	75788	73817	73817	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2012	92	92	2	92	92	92	68989	74688	71600	71600	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2013	93	93	2	93	93	93	68642	74090	69002	69002	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2014	93	93	2	93	93	93	66854	71859	67041	67041	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2015	93	93	2	93	93	93	64518	69464	65037	65037	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2016	92	92	2	92	92	92	62665	67782	63114	63114	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2017	92	92	2	92	92	92	61077	66224	61312	61312	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2018	92	92	2	92	92	92	53048	57450	61865	61865	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2019	91	91	2	91	91	91	42519	46747	60463	60463	91	gov		R:	Estimate informed by reported data.   GoC=Assigned by working group.  Reported data reflect that for three-quarters of the year.	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2020	92	92	2	92	92	92	55071	60000	59670	59670	92	gov		R:	Estimate informed by reported data.  Reported data reflect three-quarters of the year. Q2 2020 coverage was much lower than Q2 of previous years likely due to COVID-19, but values returned to pre-pandemic levels for Q3.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2021	90	90	2	90	90	90	53985	59740	58563	58563	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	mcv1	2022	90		2	90	90	90	51100	57079	57561	57561	90	gov		R:	Estimate informed by reported data.  Immunization uptake statistics for children age 12 and 24 months are available at http://www.hpsc.ie. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2010	43	43	2				27032	30701	75316	75316	90	extrapolated		W:	 Coverage of 88 percent achieved in 49 percent of the population.  Pneumococcal conjugate vaccine introduced in Q3 2008. Reporting started in 2010.  GoC=D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2011	90	90	2	90	90	90			73817	73817	90	gov		R:	Estimate informed by reported data.    GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2012	91	91	2	91	91	91	67775	74602	71600	71600	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2013	91	91	2	91	91	91	67460	73993	69002	69002	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2014	92	92	2	92	92	92	65777	71720	67041	67041	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2015	92	92	2	92	92	92	63579	69232	65037	65037	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2016	91	91	2	91	91	91	61575	67544	63114	63114	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2017	91	91	2	91	91	91	59754	66010	61312	61312	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2018	90	90	2	90	90	90	51377	57172	61865	61865	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2019	86	86	2	86	86	86	39790	46353	60463	60463	86	gov		R:	Estimate informed by reported data.    GoC=Assigned by working group.  Reported data reflect that for three-quarters of the year.	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2020	86	86	2	86	86	86	51611	59674	59670	59670	86	gov		R:	Estimate informed by reported data.   Reported data reflect three-quarters of the year. Q2 2020 coverage was much lower than Q2 of previous years likely due to COVID-19, but values returned to pre-pandemic levels for Q3.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2021	85	85	2	85	85	85	50820	59470	58563	58563	85	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pcv3	2022	84		2	84	84	84	47659	56893	57561	57561	84	gov		R:	Estimate informed by reported data.   Immunization uptake statistics for children age 12 and 24 months are available at http://www.hpsc.ie. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	1997	76	76	2		76	76			51868	51868	76	gov		R: AP	Legacy estimate.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	1998	84	84	2	84	84	84			53011	53011	84	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	1999	86	86	2	86	86	86			53007	53007	86	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2000	86	86	2	86	86	86			53905	53905	86	gov		R:	Estimate informed by reported data.   GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2001	84	84	2	84	84	84	47915	56958	56505	56505	84	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2002	83	83	2	83	83	83	47502	57581	59350	59350	83	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2003	86	86	2	86	86	86	50535	58750	60554	60554	86	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2004	89	89	2	89	89	89	54504	61068	60793	60793	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2005	90	90	2	90	90	90	55216	61151	60341	60341	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2006	91	91	2	91	91	91	57304		63875	63875	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2007	92	92	2	92	92	92	57892		69775	69775	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2008	93	93	2	93	93	93	62300	67020	74341	74341	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2009	94	94	1	94	94	94	60352	64413	75693	75693	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2010	94	94	1	94	94	94	59054	62891	75316	75316	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2011	95	95	2	95	95	95	72042	75693	73817	73817	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2012	95	95	2	95	95	95	71190	74559	71600	71600	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2013	96	96	2	96	96	96	70718	74030	69002	69002	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2014	96	96	2	96	96	96	68645	71848	67041	67041	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2015	95	95	2	95	95	95	66130	69456	65037	65037	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2016	95	95	2	95	95	95	64339	67731	63114	63114	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2017	95	95	2	95	95	95	62790	66262	61312	61312	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2018	94	94	2	94	94	94	54322	57508	61865	61865	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2019	94	94	2	93	94	94	43726	46784	60463	60463	94	gov		R:	Estimate informed by reported data.   GoC=Assigned by working group.  Reported data reflect that for three-quarters of the year.	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2020	94	94	2	94	94	94	56566	60073	59670	59670	94	gov		R:	Estimate informed by reported data.  Reported data reflect three-quarters of the year. Q2 2020 coverage was much lower than Q2 of previous years likely due to COVID-19, but values returned to pre-pandemic levels for Q3.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2021	94	94	2	94	94	94	55929	59813	58563	58563	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	pol3	2022	93		2	93	93	93	52971	57147	57561	57561	93	gov		R:	Estimate informed by reported data.  Immunization uptake statistics for children age 12 and 24 months are available at http://www.hpsc.ie. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	1997	77	77	1						51868	51868				R: AP	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	1998	77	77	2						53011	53011				R:	Estimate based on estimated MCV1.    GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	1999	77	77	2						53007	53007				R:	Estimate based on estimated MCV1.    GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2000	79	79	2						53905	53905				R:	Estimate based on estimated MCV1.    GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2001	73	73	2						56505	56505				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2002	73	73	2						59350	59350				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2003	78	78	2						60554	60554				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2004	81	81	2						60793	60793				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2005	84	84	2						60341	60341				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2006	86	86	2						63875	63875				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2007	87	87	2						69775	69775				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2008	89	89	2						74341	74341				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2009	90	90	1						75693	75693				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2010	90	90	1						75316	75316				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2011	92	92	2						73817	73817				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2012	92	92	2				68989	74688	71600	71600				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2013	93	93	2				68642	74090	69002	69002				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2014	93	93	2				66854	71859	67041	67041				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2015	93	93	2				64518	69464	65037	65037				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2016	92	92	2				62665	67782	63114	63114				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2017	92	92	2				45879	49751	61312	61312				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2018	92	92	2						61865	61865				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2019	91	91	2						60463	60463				R:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Reported data reflect that for three-quarters of the year.	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2020	92	92	2						59670	59670				R:	Estimate based on estimated MCV1.   Reported data reflect three-quarters of the year. Q2 2020 coverage was much lower than Q2 of previous years likely due to COVID-19, but values returned to pre-pandemic levels for Q3.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2021	90	90	2						58563	58563				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rcv1	2022	90		2						57561	57561				R:	Estimate based on estimated MCV1.   Immunization uptake statistics for children age 12 and 24 months are available at http://www.hpsc.ie. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rotac	2017	89	89	2		89	89			61312	61312	89	gov		R:	Estimate informed by reported data.   Vaccine introduced in October 2016. Reporting started in 2017  GoC=R+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rotac	2018	89	89	2	89	89	89	50029	56237	61865	61865	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rotac	2019	89	89	2	89	89	89	40963	46135	60463	60463	89	gov		R:	Estimate informed by reported data.    GoC=Assigned by working group.  Reported data reflect that for three-quarters of the year.	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rotac	2020	89	89	2	89	89	89	52648	58919	59670	59670	89	gov		R:	Estimate informed by reported data.   Reported data reflect three-quarters of the year. Q2 2020 coverage was much lower than Q2 of previous years likely due to COVID-19, but values returned to pre-pandemic levels for Q3.  GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rotac	2021	91	91	2	91	91	91	54373	59846	58563	58563	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Ireland	Wed Sep 06 18:51:04 2023	irl	rotac	2022	88		2	88	88	88	54316	61623	57561	57561	88	gov		R:	Estimate informed by reported data.   Immunization uptake statistics for children age 12 and 24 months are available at http://www.hpsc.ie. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	

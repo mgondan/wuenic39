@@ -1,0 +1,224 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	1997	99	99	1	100		100			100240	100240	100	admin		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	1998	99	99	1	100		100			97190	97190	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	1999	99	99	1	100		100			94854	94854	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2000	99	99	1	100		100	91693	91706	97223	97223	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2001	99	99	1	100		100	93730	93745	96849	96849	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2002	99	99	1	100		100	94094	94121	96673	96673	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2003	99	99	1	100		100	93690	93710	94677	94677	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2004	99	99	1	100		100	91410	91431	95533	95533	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2005	99	99	1	100		100			97298	97298	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2006	99	99	1	100		100			99404	99404	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2007	99	99	1	100		100	97434	97473	97797	97797	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2008	99	99	2	100		100	94910	94960	98573	98573	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2009	99	99	2	100		100	96393	96447	96009	96009	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2010	99	99	2	100		100	93620	93692	90495	90495	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2011	99	99	2	100		100	87722	87802	88502	88502	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2012	99	99	2	100		100	85305	85373	89880	89880	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2013	99	99	2	100		100	87463	87612	89772	89772	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2014	99	99	2	100		100	85895	86014	92829	92829	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2015	99	99	2	100		100	89237	89353	92141	92141	100	admin		C:	Reported data calibrated to 1997 levels.  Programme reports a two months national level stockout.  GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2016	99	99	2	100		100	89392	89604	95053	95053	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2017	99	99	2	100		100	90982	91188	94208	94208	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2018	99	99	2	100		100	89599	89799	93111	93111	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2019	99	99	2	100		100	88080	88280	92375	92375	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2020	99	99	1	100		100	87694	87891	92544	92544	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2021	99	99	1	100	100	100	91076	91279	91895	91895	100	gov		C:	Reported data calibrated to 1997 levels.  Reported target population of surviving infants increased four percent between 2020 and 2021, whereas it had been decreasing over the last few years.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	bcg	2022	99		1	100	100	100	91733	91947	91371	91371	100	gov		C:	Reported data calibrated to 1997 levels.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	1997	99	99	1	100		100			100240	100240	100	admin		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	1998	99	99	1	100		100			97190	97190	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	1999	99	99	1						94854	94854	100	interpolated		C:	Reported data calibrated to 1997 levels.   GoC=No accepted empirical data	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2000	99	99	1	99		99	91025	91666	97223	97223	99	admin		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2001	99	99	1	100		100	93678	93706	96849	96849	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2002	99	99	1	100		100	94080	94121	96673	96673	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2003	99	99	1	100		100	93675	93710	94677	94677	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2004	99	99	1	100		100	91392	91431	95533	95533	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2005	99	99	1	100		100			97298	97298	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2006	99	99	1	100		100			99404	99404	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2007	99	99	1	100		100	97441	97473	97797	97797	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2008	99	99	2	100		100	94933	94960	98573	98573	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2009	99	99	2	100		100	96417	96447	96009	96009	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2010	99	99	2	100		100	93660	93692	90495	90495	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2011	99	99	2	100		100	87758	87802	88502	88502	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2012	99	99	2	100		100	85335	85373	89880	89880	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2013	99	99	2	100		100	87538	87612	89772	89772	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2014	99	99	2	100		100	85969	86014	92829	92829	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2015	99	99	2	100		100	89321	89353	92141	92141	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2016	99	99	2	100		100	89563	89604	95053	95053	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2017	99	99	2	100		100	91142	91188	94208	94208	100	admin		C:	Reported data calibrated to 1997 levels.  Programme reports half month stockout.  GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2018	99	99	2	100		100	89761	89799	93111	93111	100	admin		C:	Reported data calibrated to 1997 levels.  Programme reports one half month vaccine stockout at the national level.  GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2019	99	99	2	100		100	88250	88280	92375	92375	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2020	99	99	1	100		100	87856	87891	92544	92544	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2021	99	99	1	100		100	91248	91279	91895	91895	100	admin		C:	Reported data calibrated to 1997 levels.  Reported target population of surviving infants increased four percent between 2020 and 2021, whereas it had been decreasing over the last few years.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp1	2022	99		1	100	100	100	91914	91947	91371	91371	100	gov		C:	Reported data calibrated to 1997 levels.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	1997	99	99	1	100		100			100240	100240	100	admin		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	1998	99	99	1	100		100			97190	97190	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	1999	99	99	1	100		100			94854	94854	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2000	99	99	1	100		100	91474	91665	97223	97223	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2001	99	99	1	100		100	93541	93706	96849	96849	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2002	99	99	1	100		100	93956	94121	96673	96673	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2003	99	99	1	100		100	93540	93707	94677	94677	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2004	99	99	1	100		100	91284	91431	95533	95533	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2005	99	99	1	100		100			97298	97298	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2006	99	99	1	100		100			99404	99404	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2007	99	99	1	100		100	97441	97473	97797	97797	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2008	99	99	2	100		100	94865	94960	98573	98573	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2009	99	99	2	100		100	96329	96447	96009	96009	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2010	99	99	2	100		100	93578	93692	90495	90495	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2011	99	99	2	100		100	87660	87802	88502	88502	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2012	99	99	2	100		100	85245	85373	89880	89880	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2013	99	99	2	100		100	87456	87612	89772	89772	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2014	99	99	2	100		100	85888	86014	92829	92829	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2015	99	99	2	100		100	89188	89353	92141	92141	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2016	99	99	2	100		100	89460	89604	95053	95053	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2017	99	99	2	100		100	91063	91188	94208	94208	100	admin		C:	Reported data calibrated to 1997 levels.  Programme reports half month stockout.  GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2018	99	99	2	100		100	89675	89799	93111	93111	100	admin		C:	Reported data calibrated to 1997 levels.  Programme reports one half month vaccine stockout at the national level.  GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2019	99	99	2	100		100	88183	88280	92375	92375	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2020	99	99	1	100		100	87782	87891	92544	92544	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2021	99	99	1	100		100	91143	91279	91895	91895	100	admin		C:	Reported data calibrated to 1997 levels.  Reported target population of surviving infants increased four percent between 2020 and 2021, whereas it had been decreasing over the last few years.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	dtp3	2022	99		1	100	100	100	91818	91947	91371	91371	100	gov		C:	Reported data calibrated to 1997 levels.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	1999	99	99	2	100		100			94854	94854	100	admin		R:	Estimate informed by reported administrative data.   Hib vaccine introduced in 1999.  GoC=R+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2000	99	99	1	100		100	83832	84278	97223	97223	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2001	99	99	2	100		100	93541	93706	96849	96849	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2002	99	99	2	100		100	93956	94121	96673	96673	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2003	99	99	2	100		100	93540	93707	94677	94677	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2004	99	99	2	100		100	91284	91431	95533	95533	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2005	99	99	2	100		100			97298	97298	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2006	99	99	2	100		100			99404	99404	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2007	99	99	2	100		100	97441	97473	97797	97797	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2008	99	99	2	100		100	94865	94960	98573	98573	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2009	99	99	2	100		100			96009	96009	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2010	99	99	2	100		100	93578	93692	90495	90495	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2011	99	99	2	100		100	87660	87802	88502	88502	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2012	99	99	2	100		100	85245	85373	89880	89880	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2013	99	99	2	100		100	87456	87612	89772	89772	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2014	99	99	2	100		100	85888	86014	92829	92829	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2015	99	99	2	100		100	89188	89353	92141	92141	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2016	99	99	2	100		100	89460	89604	95053	95053	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2017	99	99	2	100		100	91063	91188	94208	94208	100	admin		R:	Estimate informed by reported administrative data.   Programme reports half month stockout.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2018	99	99	2	100		100	89675	89799	93111	93111	100	admin		R:	Estimate informed by reported administrative data.   Programme reports one half month vaccine stockout at the national level.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2019	99	99	2	100		100	88183	88280	92375	92375	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2020	99	99	2	100		100	87782	87891	92544	92544	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2021	99	99	2	100	100	100	91138	91279	91895	91895	100	gov		R:	Estimate informed by reported data.   Reported target population of surviving infants increased four percent between 2020 and 2021, whereas it had been decreasing over the last few years.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	hib3	2022	99		2	100	100	100	91818	91947	91371	91371	100	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	ipv1	2015	99	99	2	100		100	89321	89353	92141	92141	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	ipv1	2016	99	99	2	100		100	89563	89604	95053	95053	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	ipv1	2017	99	99	2	100		100	91142	91188	94208	94208	100	admin		R:	Estimate informed by reported administrative data.   Programme reports half month stockout.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	ipv1	2018	99	99	2	100		100	89761	89799	93111	93111	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	ipv1	2019	99	99	2	100		100	88250	88280	92375	92375	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	ipv1	2020	99	99	2	100		100	87856	87891	92544	92544	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	ipv1	2021	99	99	2	100	100	100	91248	91279	91895	91895	100	gov		R:	Estimate informed by reported data.   Reported target population of surviving infants increased four percent between 2020 and 2021, whereas it had been decreasing over the last few years.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	ipv1	2022	99		2	100	100	100	91914	91947	91371	91371	100	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	1997	99	99	1	100		100			100240	100240	100	admin		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	1998	99	99	1	100		100			97190	97190	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	1999	99	99	1	100		100			94854	94854	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2000	99	99	1	100		100	93492	93646	97223	97223	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2001	99	99	1	100		100	90253	90374	96849	96849	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2002	99	99	1	100		100	93852	93960	96673	96673	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2003	99	99	1	100		100			94677	94677	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2004	99	99	1	100		100	93247	93341	95533	95533	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2005	99	99	1	100		100			97298	97298	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2006	99	99	1	100		100			99404	99404	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2007	99	99	1	100		100	94348	94439	97797	97797	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2008	99	99	2	100		100	96883	96994	98573	98573	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2009	99	99	2	100		100	94572	94688	96009	96009	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2010	99	99	2	100		100	95993	96111	90495	90495	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2011	99	99	2	100		100	93144	93264	88502	88502	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2012	99	99	2	100		100	87322	87465	89880	89880	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2013	99	99	2	100		100	84966	85082	89772	89772	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2014	99	99	2	100		100	87124	87268	92829	92829	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2015	99	99	2	100		100	85496	85615	92141	92141	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2016	99	99	2	100		100	89006	89161	95053	95053	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2017	99	99	2	100		100	89571	89701	94208	94208	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2018	99	99	2	100		100	91244	91351	93111	93111	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2019	99	99	2	100		100	90125	90239	92375	92375	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2020	99	99	1	100		100	88249	88397	92544	92544	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2021	99	99	1	100		100	88108	88248	91895	91895	100	admin		C:	Reported data calibrated to 1997 levels.  Reported target population of surviving infants increased four percent between 2020 and 2021, whereas it had been decreasing over the last few years.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv1	2022	99		1	100	100	100	91337	91490	91371	91371	100	gov		C:	Reported data calibrated to 1997 levels.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2000	99	99	1	100		100	111728	112149	97223	97223	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2001	99	99	1	100		100	118045	118526	96849	96849	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2002	99	99	1	100	100	100	121697	122039	96673	96673	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2003	99	99	1	100		100	122165	122519	94677	94677	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2004	99	99	1	100		100	118964	119276	95533	95533	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2005	99	99	2	99		99			97298	97298	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2006	99	99	2	100		100			99404	99404	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2007	99	99	1	100		100	108853	109423	97797	97797	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2008	99	99	2	100		100	101262	101764	98573	98573	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2009	99	99	2	99		99	97321	97998	96009	96009	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2010	99	99	2	100		100	94175	94687	90495	90495	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2011	99	99	2	100		100	93075	93572	88502	88502	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2012	99	99	2	99		99	94593	95086	89880	89880	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2013	99	99	2	99		99	93353	93843	89772	89772	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2014	99	99	2	100		100	92595	93019	92829	92829	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2015	99	99	2	100		100	91372	91734	92141	92141	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2016	99	99	2	100		100			95053	95053	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2017	99	99	2	100		100	94017	94308	94208	94208	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2018	99	99	2	100		100	100264	100604	93111	93111	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2019	99	99	2	100		100	95361	95586	92375	92375	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2020	99	99	2	99		99	92098	92769	92544	92544	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2021	99	99	2	99	99	99	89554	90023	91895	91895	99	gov		R:	Estimate informed by reported data.   Reported target population of surviving infants increased four percent between 2020 and 2021, whereas it had been decreasing over the last few years.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	mcv2	2022	99		2	100	100	100	84809	85066	91371	91371	100	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2011	84	84	2	84		84			88502	88502	84	admin		R:	Estimate informed by reported administrative data.   Pneumococcal conjugate vaccine introduced in 2009. Administrative data are available only for 1st dose of PCV in 2009 (82 percent) and 2010 (89 percent).  GoC=R+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2012	90	90	2	90		90			89880	89880	90	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2013	92	92	2	92		92	78605	85082	89772	89772	92	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2014	93	93	2	93		93	81352	87268	92829	92829	93	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2015	94	94	2	94		94	80579	85615	92141	92141	94	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2016	98	98	2	98		98	87235	89161	95053	95053	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2017	99	99	2	100		100	89370	89701	94208	94208	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2018	99	99	2	100		100	91338	91351	93111	93111	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2019	99	99	2	100		100	90091	90239	92375	92375	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2020	99	99	2	100		100	88241	88397	92544	92544	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2021	99	99	2	100	100	100	88037	88248	91895	91895	100	gov		R:	Estimate informed by reported data.   Reported target population of surviving infants increased four percent between 2020 and 2021, whereas it had been decreasing over the last few years.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pcv3	2022	99		2	100	100	100	91312	91490	91371	91371	100	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	1997	99	99	1	100		100			100240	100240	100	admin		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	1998	99	99	1	100		100			97190	97190	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	1999	99	99	1	100		100			94854	94854	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2000	99	99	1	100		100	93492	93646	97223	97223	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2001	99	99	1	100		100	90253	90374	96849	96849	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2002	98	98	1	99		99	93852	93960	96673	96673	99	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2003	99	99	1	100		100	93615	93695	94677	94677	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2004	99	99	1	100		100	91284	91431	95533	95533	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2005	99	99	1	100		100			97298	97298	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2006	99	99	1	100		100			99404	99404	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2007	99	99	1	100		100	97441		97797	97797	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2008	99	99	2	100		100	94865	94960	98573	98573	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2009	99	99	2	100		100	96329	96447	96009	96009	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2010	99	99	2	100		100	93578	93692	90495	90495	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2011	99	99	2	100		100	87660	87802	88502	88502	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2012	99	99	2	100		100	85245	85373	89880	89880	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2013	99	99	2	100		100	87456	87612	89772	89772	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2014	99	99	2	100		100	85888	86014	92829	92829	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2015	99	99	2	100		100	89188	89353	92141	92141	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2016	99	99	2	100		100	89460	89604	95053	95053	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2017	99	99	2	100		100	91063	91188	94208	94208	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2018	99	99	2	100		100	89675	89799	93111	93111	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2019	99	99	2	100		100	88183	88280	92375	92375	100	admin		C:	Reported data calibrated to 1997 levels.   GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2020	99	99	1	100		100	87782	87891	92544	92544	100	admin		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2021	99	99	1	100		100	91138	91279	91895	91895	100	admin		C:	Reported data calibrated to 1997 levels.  Reported target population of surviving infants increased four percent between 2020 and 2021, whereas it had been decreasing over the last few years.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	pol3	2022	99		1	100	100	100	91818	91947	91371	91371	100	gov		C:	Reported data calibrated to 1997 levels.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	1997	99	99	1						100240	100240				W: AP	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	1998	99	99	1						97190	97190				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	1999	99	99	1						94854	94854				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2000	99	99	1						97223	97223				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2001	99	99	1						96849	96849				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2002	99	99	1						96673	96673				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2003	99	99	1						94677	94677				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2004	99	99	1						95533	95533				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2005	99	99	1						97298	97298				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2006	99	99	1						99404	99404				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2007	99	99	1						97797	97797				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2008	99	99	2						98573	98573				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2009	99	99	2						96009	96009				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2010	99	99	2						90495	90495				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2011	99	99	2						88502	88502				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2012	99	99	2						89880	89880				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2013	99	99	2						89772	89772				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2014	99	99	2						92829	92829				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2015	99	99	2						92141	92141				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2016	99	99	2				89006	89161	95053	95053				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2017	99	99	2				89571	89701	94208	94208				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2018	99	99	2						93111	93111				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2019	99	99	2						92375	92375				C:	Estimate based on estimated MCV1.    GoC=Assigned by working group.  Consistency across antigens.	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2020	99	99	1						92544	92544				C:	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2021	99	99	1						91895	91895				C:	Estimate based on estimated MCV1.   Reported target population of surviving infants increased four percent between 2020 and 2021, whereas it had been decreasing over the last few years.  Estimate challenged by: R-	
+Hungary	Wed Sep 06 18:50:14 2023	hun	rcv1	2022	99		1						91371	91371				C:	Estimate based on estimated MCV1.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: R-	

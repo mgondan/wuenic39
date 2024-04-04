@@ -1,0 +1,248 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	1997	97	97	2	97	97	97			621977	621977	97	gov		R: AP	Legacy estimate.   GoC=R+ S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	1998	97	97	2	97	97	97			586185	586185	97	gov		R:	Estimate informed by reported data.    GoC=R+ S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	1999	98	98	2	98	98	98			564733	564733	98	gov	99	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 99 percent based on 1 survey(s).    GoC=R+ S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2000	98	98	3	98	98	98	526185	526185	554015	554015	98	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2001	98	98	1	98	98	98	477700	488159	550458	550458	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2002	99	99	2	99	99	99	519795	529929	548757	548757	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2003	99	99	3	99	99	99	495883	504254	536210	536210	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2004	99	99	3	99	99	99	513915	520292	544459	544459	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2005	93	93	3	93	93	93	493009	528166	550525	550525	93	gov	100	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 100 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2006	99	99	3	99	99	99	532275	541514	570624	570624	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2007	99	99	3	99	99	99	589527	593508	605190	605190	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2008	96	96	1	96	96	96	6153986	637345	635702	635702	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2009	99	99	2	99	99	99	636696	643198	651193	651193	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2010	99	99	2	99		99	619806	625335	648000	648000	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2011	99	99	2	100	100	100	612282	614472	644737	644737	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2012	99	99	2	100	100	100	613335	615206	654496	654496	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2013	99	99	2	100	100	100	648318	648861	680263	680263	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2014	99	99	2	100	100	100	691269	691852	706753	706753	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2015	99	99	2	100	100	100	718177	718834	723124	723124	100	gov		R:	Estimate informed by reported data.   Programme reports five month national level stockout.  GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2016	99	99	3	100	100	100	713662	714761	726814	726814	100	gov		R:	Estimate informed by reported data.   Programme reports two months vaccine stockout at national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2017	99	99	3	100	100	100	683925	685058	729145	729145	100	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2018	96	96	3	96	96	96	740708	768316	779886	779886	96	gov	98	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 98 percent based on 1 survey(s).   Programme reports one month vaccine stockout at national and district level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2019	99	99	3	100	99	99	793269	795627	802857	802857	99	gov	100	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 100 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2020	99	99	3	100	100	100	831351	834521	832060	832060	100	gov		R:	Estimate informed by reported data.  Programme reports three months vaccine stockout at national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2021	99	99	1	99	99	99	881085	889564	802875	802875	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	bcg	2022	99		1	100	100	100	912061	915961	776815	776815	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	1997	98	98	2						621977	621977	97	extrapolated		W: AP	Estimate of 98 percent assigned by working group. Legacy estimate.   GoC=S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	1998	99	99	2						586185	586185	97	extrapolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    GoC=S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	1999	99	99	2						564733	564733	97	extrapolated	98	RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    GoC=S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2000	99	99	1	97		97	499055	516086	554015	554015	97	admin		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2001	99	99	1	97	97	97	467319	480922	550458	550458	97	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    Estimate challenged by: D-R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2002	99	99	1	97	94	94	512663	520475	548757	548757	94	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2003	99	99	3	99	99	99	495909	499446	536210	536210	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2004	99	99	3	99	99	99	511430	516075	544459	544459	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2005	99	99	3	99	99	99	516780	522468	550525	550525	99	gov	99	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 99 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2006	96	96	3	96	96	96	518741	535544	570624	570624	96	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2007	98	98	1	94	94	94	549971	583733	605190	605190	94	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 96.    Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2008	99	99	1	96	96	96	600016	624360	635702	635702	96	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 98.    Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2009	99	99	1	97	97	97	585964	603461	651193	651193	97	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 98.    Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2010	99	99	2	99	99	99	618467	618880	648000	648000	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2011	99	99	2	99	99	99	592464	600304	644737	644737	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2012	99	99	2	100	100	100	599979	603156	654496	654496	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2013	99	99	2	100	100	100	627854	630029	680263	680263	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2014	99	99	2	100	100	100	665689	667297	706753	706753	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2015	99	99	2	99	99	99	680246	689430	723124	723124	99	gov		R:	Estimate informed by reported data.   Programme reports two months national level stockout.  GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2016	99	99	3	100	100	100	680627	684235	726814	726814	100	gov		R:	Estimate informed by reported data.   Programme reports four months vaccine stockout at national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2017	99	99	3	100	100	100	666528	669889	729145	729145	100	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2018	99	99	1	97	97	97	694531	714713	779886	779886	97	gov	98	RMF:	DTP1 coverage estimated based on DTP3 coverage of 98.    Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2019	96	96	3	96	96	96	733828	766029	802857	802857	96	gov	99	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 99 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2020	96	96	3	96	96	96	767612	803700	832060	832060	96	gov		R:	Estimate informed by reported data.  Programme reports five month vaccine stockout at the national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2021	99	99	1	97	97	97	774630	795737	802875	802875	97	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 98.    Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp1	2022	99		1	99	99	99	858718	865550	776815	776815	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	1997	96	96	2	96	96	96			621977	621977	96	gov		R: AP	Legacy estimate.   GoC=R+ S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	1998	99	99	2		99	99			586185	586185	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	1999	99	99	1	99	99	99	502421	509419	564733	564733	99	gov	96	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 96 percent based on 1 survey(s).  Multiple Indicator Cluster Survey, Uzbekistan 2000 card or history results of 96 percent modifed for recall bias to 96 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 95 percent and 3rd dose card only coverage of 93 percent.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2000	99	99	1	99	99	99	492862	516086	554015	554015	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2001	99	99	1	99	99	99	465276	480343	550458	550458	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2002	99	99	2	99	99	99	508301	520475	548757	548757	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2003	98	98	3	98	98	98	490953	499446	536210	536210	98	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2004	99	99	3	99	99	99	510406	516075	544459	544459	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2005	99	99	3	99	99	99	516875	522468	550525	550525	99	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2006	96	96	3	96	96	96	516387	535544	570624	570624	96	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2007	96	96	3	96	96	96	553031	583733	605190	605190	96	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2008	98	98	2	98	98	98	612273	624360	635702	635702	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2009	98	98	1	98	98	98	539985	603461	651193	651193	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2010	99	99	2	98	99	99	613167	618880	648000	648000	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2011	99	99	2	99	99	99	596086	600304	644737	644737	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2012	99	99	2	99	99	99	598360	603156	654496	654496	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2013	99	99	2	99	99	99	622981	630029	680263	680263	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2014	99	99	2	100	100	100	666287	667297	706753	706753	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2015	99	99	2	99	99	99	679496	689430	723124	723124	99	gov		R:	Estimate informed by reported data.   Programme reports two months national level stockout.  GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2016	99	99	3	100	100	100	665309	666147	726814	726814	100	gov		R:	Estimate informed by reported data.   Programme reports four months vaccine stockout at national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2017	99	99	3	100	100	100	713696	715344	729145	729145	100	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2018	98	98	3	98	98	98	699853	714713	779886	779886	98	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).  Uzbekistan Multiple Indicator Cluster Survey 2021 card or history results of 96 percent modifed for recall bias to 95 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 95 percent and 3rd dose card only coverage of 93 percent.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2019	96	96	3	96	96	96	732708	766029	802857	802857	96	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).  Uzbekistan Multiple Indicator Cluster Survey 2021 card or history results of 96 percent modifed for recall bias to 95 percent based on 1st dose card or history coverage of 99 percent, 1st dose card only coverage of 95 percent and 3rd dose card only coverage of 92 percent.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2020	95	95	3	95	95	95	765558	803700	832060	832060	95	gov		R:	Estimate informed by reported data.  Programme reports five month vaccine stockout at the national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2021	98	98	3	98	98	98	774208	790698	802875	802875	98	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	dtp3	2022	99		1	99	99	99	860381	867403	776815	776815	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2002	62	62	2	62	62	62	322751	520475	548757	548757	62	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2003	99	99	2		99	99			536210	536210	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2004	99	99	3	99	99	99	512085	516075	544459	544459	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2005	99	99	3	99	99	99	519094	522468	550525	550525	99	gov	90	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 90 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2006	98	98	3	98	98	98	527525	535544	570624	570624	98	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2007	99	99	3	99	99	99	571190	583733	605190	605190	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2008	91	91	2	91	91	91	568063	624360	635702	635702	91	gov		R:	Estimate informed by reported data.   Decline attributed to two months vaccine shortage.  GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2009	98	98	2	98	98	98	591394	603461	651193	651193	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2010	99	99	2	98	99	99	613162	618880	648000	648000	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2011	99	99	2	99	99	99	596086	600304	644737	644737	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2012	99	99	2	99	99	99	598360	603156	654496	654496	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2013	99	99	2	99		99	622981	630029	680263	680263	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2014	99	99	2	100	100	100	666287	667297	706753	706753	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2015	99	99	2	99	99	99	679496	689430	723124	723124	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2016	99	99	3	100	100	100	665309	666147	726814	726814	100	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2017	99	99	3	100	100	100	713696	715344	729145	729145	100	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2018	98	98	3	98	98	98	699853	714713	779886	779886	98	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).  Uzbekistan Multiple Indicator Cluster Survey 2021 card or history results of 96 percent modifed for recall bias to 95 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 95 percent and 3rd dose card only coverage of 93 percent.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2019	96	96	3	96	96	96	734020	766029	802857	802857	96	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).  Uzbekistan Multiple Indicator Cluster Survey 2021 card or history results of 96 percent modifed for recall bias to 95 percent based on 1st dose card or history coverage of 99 percent, 1st dose card only coverage of 95 percent and 3rd dose card only coverage of 92 percent.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2020	95	95	3	95	95	95	765745	803700	832060	832060	95	gov		R:	Estimate informed by reported data.  Programme reports five month vaccine stockout at the national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2021	98	98	3	98	98	98	774208	790698	802875	802875	98	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepb3	2022	99		1	99	99	99	858718	865550	776815	776815	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2002	99	99	2	99	99	99	523669	529929	548757	548757	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2003	99	99	2	99	99	99	499220	504254	536210	536210	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2004	99	99	2	99	99	99	516891	520292	544459	544459	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2005	99	99	2	99	99	99	523972	528166	550525	550525	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2006	99	99	2	99	99	99	537702	541514	570624	570624	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2007	99	99	2	100		100	591093	593508	605190	605190	100	admin		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2008	99	99	2	99	99	99	630780	637345	635702	635702	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2009	99	99	2	99	99	99	634276	643198	651193	651193	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2010	48	48	2	48		48	298312	625335	648000	648000	48	admin		R:	Estimate informed by reported data.   Decline is likely due to five months stock in all 192 district.  GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2011	99	99	2	100	100	100	612921	614472	644737	644737	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2012	99	99	2	100	100	100	613369	615206	654496	654496	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2013	99	99	2	100	100	100	648411	648861	680263	680263	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2014	99	99	2	100	100	100	691399	691852	706753	706753	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2015	99	99	2	100	100	100	718254	718834	723124	723124	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2016	99	99	3	100	100	100	714041	714761	726814	726814	100	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2017	99	99	3	100	100	100	684123	685058	729145	729145	100	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2018	95	95	3	95	95	95	733127	768316	779886	779886	95	gov	96	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 96 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2019	99	99	3	99	99	99	791086	795627	802857	802857	99	gov	96	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 96 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2020	97	97	3	97	97	97	807735	834521	832060	832060	97	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2021	99	99	1	99	99	99	882496	889564	802875	802875	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hepbb	2022	99		1	99	99	99	910288	915961	776815	776815	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2009	98	98	1	98	98	98	539985	552017	651193	651193	98	gov		R:	Estimate informed by reported data.   Hib introduced in 2009 Vaccine presentation is DTP-HepB-Hib.  Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2010	99	99	2	98	99	99	613167	618880	648000	648000	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2011	99	99	2	99	99	99	596086	600304	644737	644737	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2012	99	99	2	99	99	99	598360	603156	654496	654496	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2013	99	99	2	99	99	99	622981	630029	680263	680263	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2014	99	99	2	100	100	100	666287	667297	706753	706753	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2015	99	99	2	99	99	99	679496	689430	723124	723124	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2016	99	99	3	100	100	100	665309	666147	726814	726814	100	gov		R:	Estimate informed by reported data.   Programme reports one month vaccine stockout at national and district levels.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2017	99	99	3	100	100	100	713696	715344	729145	729145	100	gov		R:	Estimate informed by reported data.   Programme reports district-level supply disruption of Hib vaccine.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2018	98	98	3	98	98	98	699853	714713	779886	779886	98	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).  Uzbekistan Multiple Indicator Cluster Survey 2021 card or history results of 96 percent modifed for recall bias to 95 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 95 percent and 3rd dose card only coverage of 93 percent.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2019	96	96	3	96	96	96	732708	766029	802857	802857	96	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).  Uzbekistan Multiple Indicator Cluster Survey 2021 card or history results of 96 percent modifed for recall bias to 95 percent based on 1st dose card or history coverage of 99 percent, 1st dose card only coverage of 95 percent and 3rd dose card only coverage of 92 percent.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2020	95	95	3	95	95	95	765745	803700	832060	832060	95	gov		R:	Estimate informed by reported data.  Programme reports five month vaccine stockout at the national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2021	98	98	3	98	98	98	774208	790698	802875	802875	98	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	hib3	2022	99		1	99	99	99	860381	867403	776815	776815	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	ipv1	2018	56	56	1	96	96	96	399428	416916	779886	779886	96	gov		W:	 Inactivated polio vaccine introduced during 2018. Programme reports 96 percent coverage in 56 percent of the population. Estimate based on coverage achieved in the annualized national target population.   Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	ipv1	2019	94	94	2	94	94	94	718832	766029	802857	802857	94	gov		R:	Estimate informed by reported data.   Estimate based on reported data following introduction.  GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	ipv1	2020	89	89	2	89	89	89	713013	803700	832060	832060	89	gov		R:	Estimate informed by reported data.   Programme reports five month vaccine stockout at the national and district level.  GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	ipv1	2021	99	99	2	99	99	99	793612	799549	802875	802875	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	ipv1	2022	99		2	99	99	99	838400	845273	776815	776815	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	1997	96	96	2		96	96			621977	621977	96	gov		R: AP	Legacy estimate.   GoC=R+ S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	1998	95	95	2		95	95			586185	586185	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	1999	96	96	3	96	96	96	486886	509419	564733	564733	96	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2000	99	99	3	99	99	99	510409	516086	554015	554015	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2001	99	99	1	99	99	99	478925	484091	550458	550458	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2002	97	97	2	97	97	97	503877	520475	548757	548757	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2003	99	99	3	99	99	99	493232	499446	536210	536210	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2004	98	98	1	98	98	98	361023	366521	544459	544459	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2005	99	99	3	99	99	99	510601	514167	550525	550525	99	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2006	98	98	3	95	98	98	513898	535544	570624	570624	98	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2007	98	98	1	100	98	98	528881	529176	605190	605190	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2008	98	98	2	98	98	98	572891	582998	635702	635702	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2009	95	95	2	95	95	95	570612	598071	651193	651193	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2010	98	98	2	98		98	614495	619263	648000	648000	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2011	99	99	2	100	100	100	603300	604030	644737	644737	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2012	99	99	2	100	100	100	606318	606547	654496	654496	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2013	97	97	2	97	97	97	613842	630029	680263	680263	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2014	99	99	2	100	100	100	647078	647519	706753	706753	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2015	99	99	2	100	100	100	674256	674754	723124	723124	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2016	99	99	3	100	100	100	702399	702974	726814	726814	100	gov		R:	Estimate informed by reported data.   Programme reports four months vaccine stockout at national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2017	99	99	3	100	100	100	695258	696503	729145	729145	100	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2018	96	96	3	96	96	96	683184	714713	779886	779886	96	gov	98	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 98 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2019	98	98	1	98	98	98	697067	714718	802857	802857	98	gov	94	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 94 percent based on 1 survey(s).    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2020	99	99	3	100	100	100	754359	755694	832060	832060	100	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2021	99	99	3	99	99	99	763252	772297	802875	802875	99	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv1	2022	99		2	100	100	100	810387	813907	776815	776815	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	1999	95	95	2	95	95	95	506547	531971	564733	564733	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2000	98	98	2	98		98	505399	513350	554015	554015	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2001	98	98	2	98	98	98	499176	504530	550458	550458	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2002	97	97	2	97	97	97	492222	505490	548757	548757	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2003	98	98	2	98	98	98	494785	502674	536210	536210	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2004	99	99	1	99	99	99	281081	285072	544459	544459	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2005	81	81	1						550525	550525	81	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2006	63	63	1						570624	570624	63	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2007	44	44	1						605190	605190	44	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2008	26	26	1						635702	635702	26	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2009	8	8	2	8	8	8	30221	360625	651193	651193	8	gov		R:	Estimate informed by reported data.   Decline in reported coverage is unexplained.  GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2010	54	54	1						648000	648000	54	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2011	99	99	1	100	100	100	519596	519701	644737	644737	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2012	99	99	1	100	100	100	540110	540271	654496	654496	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2013	99	99	1	100		100	567404	567679	680263	680263	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2014	99	99	1	100	100	100	595385	596788	706753	706753	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2015	99	99	1	100	100	100	598629	599044	723124	723124	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2016	99	99	1	100	100	100	584602	584983	726814	726814	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2017	99	99	1	100	100	100	586293	586602	729145	729145	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2018	99	99	1	100	100	100	620299	621167	779886	779886	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2019	99	99	1	100	99	99	658907	660342	802857	802857	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2020	99	99	1	100	100	100	667288	669906	832060	832060	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2021	99	99	1	99	99	99	622908	630687	802875	802875	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	mcv2	2022	99		1	100	100	100	667081	669895	776815	776815	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pcv3	2017	99	99	1	100	100	100	785076	786197	729145	729145	100	gov		W:	 Estimate is based on reported data for second dose coverage. Programme reports one month vaccine stockout at national and district levels.  Pneumococcal conjugate vaccine introduced November 2015. Reporting began in 2017.  Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pcv3	2018	96	96	1	96	96	96	645210	675506	779886	779886	96	gov	91	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 91 percent based on 1 survey(s).  Uzbekistan Multiple Indicator Cluster Survey 2021 card or history results of 95 percent modifed for recall bias to 91 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 96 percent and 3rd dose card only coverage of 89 percent.  Programme reports one month vaccine stockout at national and district level.  Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pcv3	2019	99	99	3	100	99	99	714663	714718	802857	802857	99	gov		R:	Estimate informed by reported data. Uzbekistan Multiple Indicator Cluster Survey 2021 results ignored by working group.  Survey result adjusted for recall bias is inconsistent with other survey results.Uzbekistan Multiple Indicator Cluster Survey 2021 card or history results of 91 percent modifed for recall bias to 84 percent based on 1st dose card or history coverage of 99 percent, 1st dose card only coverage of 96 percent and 3rd dose card only coverage of 82 percent.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pcv3	2020	93	93	3	93	93	93	699573	755694	832060	832060	93	gov		R:	Estimate informed by reported data.  Programme reports seven month vaccine stockout at national and district level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pcv3	2021	98	98	2	98	98	98	728531	743600	802875	802875	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pcv3	2022	99		1	100	100	100	866993	869937	776815	776815	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	1997	98	98	2	98	98	98			621977	621977	98	gov		R: AP	Legacy estimate.   GoC=R+ S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	1998	99	99	2		99	99			586185	586185	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	1999	99	99	3	99	99	99	504907	509419	564733	564733	99	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).  Multiple Indicator Cluster Survey, Uzbekistan 2000 card or history results of 96 percent modifed for recall bias to 97 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 95 percent and 3rd dose card only coverage of 94 percent.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2000	99	99	1	99	99	99	492862	516086	554015	554015	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2001	99	99	1	98	100	100	470711	480343	550458	550458	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2002	99	99	2	99	99	99	517289	520475	548757	548757	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2003	99	99	3	99	99	99	493453	499446	536210	536210	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2004	99	99	3	99	99	99	512241	516075	544459	544459	99	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2005	99	99	3	100	100	100	520769	522468	550525	550525	100	gov	90	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 90 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2006	94	94	3	94	94	94	509091		570624	570624	94	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2007	98	98	3	98		98	569490		605190	605190	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2008	98	98	2	98	98	98	611307	624360	635702	635702	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2009	99	99	2	99	99	99	599765	603461	651193	651193	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2010	99	99	2	99	99	99	618558	618880	648000	648000	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2011	99	99	2	100	100	100	598968	600971	644737	644737	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2012	99	99	2	100	100	100	602946	603156	654496	654496	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2013	99	99	2	99	99	99	623658	630029	680263	680263	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2014	99	99	2	100	100	100	666816	667297	706753	706753	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2015	99	99	2	100	100	100	689100	689430	723124	723124	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2016	99	99	1	100	100	100	641695	641897	726814	726814	100	gov		R:	Estimate informed by reported data.   Programme reports one month vaccine stockout at national level.  Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2017	99	99	3	100	100	100	708742	709032	729145	729145	100	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2018	98	98	3	98	98	98	702774	714713	779886	779886	98	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).  Uzbekistan Multiple Indicator Cluster Survey 2021 card or history results of 96 percent modifed for recall bias to 97 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 97 percent and 3rd dose card only coverage of 96 percent.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2019	98	98	3	98	98	98	749835	766029	802857	802857	98	gov	98	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 98 percent based on 1 survey(s).  Uzbekistan Multiple Indicator Cluster Survey 2021 card or history results of 96 percent modifed for recall bias to 98 percent based on 1st dose card or history coverage of 100 percent, 1st dose card only coverage of 97 percent and 3rd dose card only coverage of 95 percent.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2020	97	97	3	97	97	97	782209	803700	832060	832060	97	gov		R:	Estimate informed by reported data.  Programme reports three months vaccine stockout at the national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2021	99	99	3	99	99	99	790880	795701	802875	802875	99	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	pol3	2022	99		1	100	100	100	868292	872552	776815	776815	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2006	98	98	3						570624	570624				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2007	98	98	1						605190	605190				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2008	98	98	2						635702	635702				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2009	95	95	2						651193	651193				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2010	98	98	2						648000	648000				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2011	99	99	2						644737	644737				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2012	99	99	2						654496	654496				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2013	97	97	2						680263	680263				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2014	99	99	2						706753	706753				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2015	99	99	2						723124	723124				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2016	99	99	3				702399	702974	726814	726814				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2017	99	99	3				695258	696503	729145	729145				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2018	96	96	3						779886	779886			98	R: AP	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2019	98	98	1						802857	802857			94	R: AP	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2020	99	99	3						832060	832060				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2021	99	99	3						802875	802875				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rcv1	2022	99		2						776815	776815				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rotac	2014	52	52	1	100	100	100	348155	348376	706753	706753	100	gov		W:	 Rotavirus vaccine introduced during 2014. Programme achieved 100 percent coverage in 52 percent of the national target population. Estimate is based on the national target population.   Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rotac	2015	95	95	2	95	95	95	657221	689430	723124	723124	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rotac	2016	74	99	1	100	100	100	491836	492284	726814	726814	100	gov		W:	 Programme reports 100 percent coverage achieved in 74 percent of the national target population. Estimate informed by annual national cohort.  Programme reports four months vaccine stockout at national and district level. Estimate of 74 percent changed from previous revision value of 99 percent.  Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rotac	2017	99	99	1	100	100	100	772666	773562	729145	729145	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: S-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rotac	2018	84	84	3	84	84	84	599741	714713	779886	779886	84	gov	81	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 81 percent based on 1 survey(s).   Programme reports four months vaccine stockout at national and district level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rotac	2019	48	48	1	48	48	48	364313	766029	802857	802857	48	gov		R:	Estimate informed by reported data. Uzbekistan Multiple Indicator Cluster Survey 2021 results ignored by working group.  Survey results do not reflect disruption caused by a vaccine stockout due to the timing of the survey field work. Programme reports four months vaccine stockout.  Estimate challenged by: S-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rotac	2020	90	90	3	90	90	90	725110	803700	832060	832060	90	gov		R:	Estimate informed by reported data.  Programme reports three months vaccine stockout at the national level.  GoC=R+ S+ D+	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rotac	2021	52	80	1	80	80	80	410681	510419	802875	802875	80	gov		W:	 Programme reports 80 percent coverage achieved in 65 percent of the national target population. Estimate informed by annual national cohort.  Programme reports a two months vaccine stockout at the national level. Estimate of 52 percent changed from previous revision value of 80 percent.  Estimate challenged by: R-	
+Uzbekistan	Wed Sep 06 19:10:59 2023	uzb	rotac	2022	62		1	86	86	86	541185	631711	776815	776815	86	gov		W:	 Programme reports 86 percent coverage achieved in 73 percent of the national target population. Estimate informed by annual national cohort.  Programme reports a four months vaccine stockout at national and subnational levels.  Estimate challenged by: R-	

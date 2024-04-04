@@ -1,0 +1,239 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	1997	99	99	2		99	99			6503	6503	99	gov		R: AP	Legacy estimate.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	1998	96	96	2		96	96			6405	6405	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	1999	98	98	1	98	98	98	7253	7371	6347	6347	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2000	99	99	1	100	100	100	7454	7460	6326	6326	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2001	99	99	1	99		99	7230	7331	6323	6323	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2002	95	95	2	95		95			6313	6313	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2003	95	95	2	95		95			6304	6304	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2004	99	99	2	99	99	99	6725	6868	6286	6286	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2005	94	94	1	94	94	94	6704	6955	6271	6271	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2006	99	99	2	100	100	100			6281	6281	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2007	96	96	2	96		96			6333	6333	96	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2008	99	99	2	100	100	100	6050	6070	6443	6443	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2009	99	99	2	100		100	6430	6433	6595	6595	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2010	95	95	2	95		95	6092	6384	6780	6780	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2011	96	96	2	96	96	96	6437	6710	6967	6967	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2012	99	99	2	100	100	100	6524	6524	7052	7052	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2013	99	99	2	100	100	100			7086	7086	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2014	99	99	1	100		100	6288	6288	7063	7063	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2015	99	99	2	100	100	100	6455	6455	6977	6977	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2016	99	99	2	100	100	100	6491	6494	6842	6842	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2017	99	99	2	100	100	100	6271	6271	6692	6692	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2018	99	99	2	100	100	100	6233	6236	6540	6540	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2019	99	99	2	100	100	100	5984	5985	6392	6392	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2020	99	99	2	100	100	100	6004	6004	6259	6259	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2021	99	99	2	100	100	100	6306	6307	6147	6147	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	bcg	2022	99		1	100	100	100	6819	6819	6058	6058	100	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	1997	99	99	1						6503	6503	99	extrapolated		R: AP	Legacy estimate.   GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	1998	99	99	1						6405	6405	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	1999	99	99	1						6347	6347	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2000	99	99	1	99	99	99	7357	7460	6326	6326	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2001	99	99	1	100		100	7342	7331	6323	6323	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2002	99	99	1						6313	6313	100	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2003	99	99	1						6304	6304	100	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2004	99	99	2	101	101	101	6842	6768	6286	6286	100	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 101 percent greater than 100 percent.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2005	99	99	1	100	100	100	6950	6955	6271	6271	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2006	99	99	2	104		104			6281	6281	100	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 104 percent greater than 100 percent.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2007	99	99	2	99		99			6333	6333	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2008	99	99	1	97	97	97	5865	6070	6443	6443	97	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 98.    Estimate challenged by: R-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2009	99	99	1	97	96	96	6207	6433	6595	6595	96	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    Estimate challenged by: R-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2010	98	98	2	98		98	6224	6384	6780	6780	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2011	99	99	1	96	96	96	6445	6710	6967	6967	96	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 97.    Estimate challenged by: R-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2012	98	98	2	103	103	103	6758	6542	7052	7052	98	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 103 percent greater than 100 percent.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2013	99	99	2	100	100	100			7086	7086	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2014	99	99	1	100		100	6279	6288	7063	7063	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2015	99	99	2	100	100	100	6450	6455	6977	6977	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2016	99	99	2	100	100	100	6483	6494	6842	6842	100	gov		R:	Estimate informed by reported data.  Programme reports a 3-month vaccine stockout.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2017	99	99	2	100	100	100	6271	6271	6692	6692	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2018	99	99	2	100	100	100	6229	6236	6540	6540	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2019	99	99	2	100	100	100	5983	5985	6392	6392	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2020	99	99	2	100	100	100	6004	6004	6259	6259	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2021	99	99	2	100	100	100	6305	6307	6147	6147	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp1	2022	99		1	100	100	100	6816	6819	6058	6058	100	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	1997	99	99	2		99	99			6503	6503	99	gov		R: AP	Legacy estimate.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	1998	97	97	2		97	97			6405	6405	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	1999	92	92	1	92	92	92	6752	7371	6347	6347	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2000	99	99	1	99	99	99	7375	7460	6326	6326	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2001	97	97	1	101	101	101	7508	7331	6323	6323	97	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 101 percent greater than 100 percent.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2002	94	94	2	94		94			6313	6313	94	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2003	92	92	2	92		92			6304	6304	92	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2004	92	92	2	92	92	92	6205	6768	6286	6286	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2005	94	94	1	108	108	108	7496	6955	6271	6271	94	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 108 percent greater than 100 percent.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2006	97	97	2	106	106	106			6281	6281	97	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 106 percent greater than 100 percent.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2007	99	99	2	99		99			6333	6333	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2008	98	98	2	98		98	5925	6070	6443	6443	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2009	99	99	2	99		99	6393	6433	6595	6595	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2010	95	95	2	95		95	6089	6384	6780	6780	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2011	97	97	2	97		97	6531	6710	6967	6967	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2012	95	95	1	95		95	5891	6231	7052	7052	95	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2013	99	99	2	100	100	100			7086	7086	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2014	99	99	1	99		99	6251	6288	7063	7063	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2015	99	99	2	99	99	99	6411	6455	6977	6977	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2016	99	99	2	100	100	100	6472	6494	6842	6842	100	gov		R:	Estimate informed by reported data.  Programme reports a 3-month vaccine stockout.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2017	99	99	2	100	100	100	6259	6271	6692	6692	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2018	99	99	2	100	100	100	6219	6236	6540	6540	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2019	99	99	2	100	100	100	5968	5985	6392	6392	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2020	99	99	2	100	100	100	6002	6004	6259	6259	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2021	99	99	2	100	100	100	6304	6307	6147	6147	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	dtp3	2022	99		1	100	100	100	6816	6819	6058	6058	100	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	1997	98	98	2		98	98			6503	6503	98	gov		R: AP	Legacy estimate.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	1998	99	99	2		100	100			6405	6405	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	1999	93	93	1	93	93	93	6877	7371	6347	6347	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2000	99	99	1	100	100	100	7473	7460	6326	6326	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2001	99	99	1	102	102	102	7504	7331	6323	6323	100	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 102 percent greater than 100 percent.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2002	99	99	2	100	100	100			6313	6313	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2003	99	99	2	101	102	102			6304	6304	100	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2004	99	99	2	101	102	102	6808	6768	6286	6286	100	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2005	99	99	1	100	100	100	6944	6955	6271	6271	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2006	99	99	2	103	103	103			6281	6281	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 103 percent greater than 100 percent.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2007	97	97	2	103		103			6333	6333	97	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 103 percent greater than 100 percent.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2008	96	96	2	96		96	5836	6070	6443	6443	96	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2009	96	96	1	115	114	114	7385	6433	6595	6595	96	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 114 percent greater than 100 percent. Reported data excluded due to an increase from 96 percent to 114 percent with decrease 96 percent.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2010	96	96	2	96		96	6116	6384	6780	6780	96	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2011	93	93	2	93		93	6243	6710	6967	6967	93	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2012	99	99	2	100	100	100	6519	6542	7052	7052	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2013	98	98	2	98	98	98			7086	7086	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2014	99	99	1	100	99	99	6257	6288	7063	7063	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2015	99	99	2	99	99	99	6391	6455	6977	6977	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2016	99	99	2	99	99	99	6458	6494	6842	6842	99	gov		R:	Estimate informed by reported data.  Programme reports a 3-month vaccine stockout.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2017	99	99	2	100	100	100	6259	6271	6692	6692	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2018	99	99	2	100	100	100	6219	6236	6540	6540	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2019	99	99	2	100	100	100	5968	5985	6392	6392	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2020	99	99	2	100	100	100	6002	6004	6259	6259	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2021	99	99	2	100	100	100	6304	6307	6147	6147	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepb3	2022	99		1	100	100	100	6816	6819	6058	6058	100	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepbb	2020	81	81	2	81	81	81	4882	6004	6259	6259	81	gov		R:	Estimate informed by reported data.   HepB birth dose introduced in 1998, reporting for vaccination within 24 hours of birth started in 2020.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepbb	2021	82	82	2	82	82	82	5156	6307	6147	6147	82	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hepbb	2022	83		1	83	83	83	5635	6819	6058	6058	83	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2002	94	94	2	94		94			6313	6313	94	admin		R:	Estimate informed by reported administrative data.   Hib vaccine introduced in 2002. Vaccine presentation is DTP-Hib.  GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2003	92	92	2	92		92			6304	6304	92	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2004	92	92	2	92	92	92	6205	6768	6286	6286	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2005	94	94	1	108	108	108	7496	6955	6271	6271	94	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 108 percent greater than 100 percent.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2006	97	97	2	106	106	106			6281	6281	97	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 106 percent greater than 100 percent.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2007	99	99	2	99		99			6333	6333	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2008	98	98	2	98		98	5925	6070	6443	6443	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2009	99	99	2	99		99	6393	6433	6595	6595	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2010	95	95	2	95		95	6320	6384	6780	6780	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2011	97	97	2	97	97	97	6531	6710	6967	6967	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2012	95	95	1	95		95	5891	6231	7052	7052	95	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2013	99	99	2	100	100	100			7086	7086	100	gov		R:	Estimate informed by reported data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2014	96	96	1	96		96	6018	6288	7063	7063	96	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2015	99	99	2	99	99	99	6411	6455	6977	6977	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2016	99	99	2	100	100	100	6472	6494	6842	6842	100	gov		R:	Estimate informed by reported data.   Programme reports a 3-month vaccine stockout.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2017	99	99	2	100	100	100	6251	6271	6692	6692	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2018	99	99	2	100	100	100	6219	6236	6540	6540	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2019	99	99	2	100	100	100	5968	5985	6392	6392	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2020	99	99	2	100	100	100	6002	6004	6259	6259	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2021	99	99	2	100	100	100	6304	6307	6147	6147	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	hib3	2022	99		1	100	100	100	6816	6819	6058	6058	100	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	ipv1	2015	99	99	2	100	100	100	6450	6455	6977	6977	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	ipv1	2016	99	99	2	100	100	100	6482	6494	6842	6842	100	gov		R:	Estimate informed by reported data.   Programme reports a 3-month vaccine stockout.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	ipv1	2017	99	99	2	100	100	100	6271	6271	6692	6692	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	ipv1	2018	99	99	2	100	100	100	6229	6236	6540	6540	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	ipv1	2019	99	99	2	100	100	100	5983	5985	6392	6392	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	ipv1	2020	99	99	2	100	100	100	6004	6004	6259	6259	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	ipv1	2021	99	99	2	100	100	100	6305	6307	6147	6147	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	ipv1	2022	99		1	100	100	100	6816	6819	6058	6058	100	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	1997	98	98	2		98	98			6503	6503	98	gov		R: AP	Legacy estimate.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	1998	99	99	2		100	100			6405	6405	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	1999	94	94	1	94	94	94	6958	7371	6347	6347	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2000	99	99	1	99	99	99	7354	7460	6326	6326	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2001	99	99	1	104	104	104	7685	7331	6323	6323	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 104 percent greater than 100 percent.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2002	99	99	2	99		99			6313	6313	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2003	98	98	2	98	98	98			6304	6304	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2004	99	99	2	99	99	99			6286	6286	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2005	98	98	1	98	98	98	6979	7166	6271	6271	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2006	97	97	2	97	97	97			6281	6281	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2007	97	97	2	97	97	97			6333	6333	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2008	99	99	2	100	100	100	6292	6314	6443	6443	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2009	99	99	2	99		99	6454	6424	6595	6595	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2010	94	94	2	94	94	94	6251	6625	6780	6780	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2011	91	91	2	91		91	6096	6710	6967	6967	91	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2012	95	95	1	95		95	5895	6231	7052	7052	95	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2013	96	96	2	96	96	96			7086	7086	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2014	97	97	1	97		97	6120	6288	7063	7063	97	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2015	96	96	2	96	96	96	6206	6442	6977	6977	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2016	98	98	2	98	98	98	6368	6494	6842	6842	98	gov		R:	Estimate informed by reported data.  Programme reports a vaccine stockout of unclear duration.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2017	97	97	2	97	97	97	6065	6271	6692	6692	97	gov		R:	Estimate informed by reported data.  Programme reports a vaccine stockout of two months.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2018	99	99	2	99	99	99	6163	6236	6540	6540	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2019	97	97	2	97	97	97	5819	5985	6392	6392	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2020	99	99	2	99	99	99	5944	6004	6259	6259	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2021	99	99	2	99	99	99	6271	6307	6147	6147	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv1	2022	97		1	97	97	97	6633	6819	6058	6058	97	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	1999	94	94	2	94	94	94	6408	6847	6347	6347	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2000	95	95	1						6326	6326	95	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2001	95	95	1						6323	6323	95	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2002	96	96	1						6313	6313	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2003	96	96	1						6304	6304	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2004	97	97	1	97	97	97	7034	7279	6286	6286	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2005	95	95	1				7151	7343	6271	6271	95	interpolated		R:	Estimate informed by interpolation between reported data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2006	94	94	1						6281	6281	94	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2007	92	92	1						6333	6333	92	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2008	90	90	2	90		90	5605	6274	6443	6443	90	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2009	99	99	2	99		99	6269	6314	6595	6595	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2010	93	93	2	93		93	5869	6314	6780	6780	93	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2011	93	93	2	93		93	5986	6424	6967	6967	93	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2012	96	96	2	96		96	6167	6433	7052	7052	96	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2013	92	92	2	92	92	92			7086	7086	92	gov		R:	Estimate informed by reported data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2014	96	96	2	96		96	6089	6312	7063	7063	96	admin		R:	Estimate informed by reported administrative data.   Second dose recommended at 18 months of age from 2014.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2015	97	97	1	97	97	97	6059	6263	6977	6977	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2016	97	97	2	97	97	97	6477	6667	6842	6842	97	gov		R:	Estimate informed by reported data.   Programme reports a vaccine stockout of unclear duration.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2017	98	98	2	98	98	98	6237	6392	6692	6692	98	gov		R:	Estimate informed by reported data.   Programme reports a vaccine stockout of two months.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2018	98	98	2	98	98	98	6076	6223	6540	6540	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2019	98	98	2	98	98	98	6230	6325	6392	6392	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2020	97	97	2	97	97	97	5803	5986	6259	6259	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2021	99	99	2	99	99	99	5847	5932	6147	6147	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	mcv2	2022	99		2	99	99	99	6157	6250	6058	6058	99	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	1997	99	99	2		99	99			6503	6503	99	gov		R: AP	Legacy estimate.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	1998	98	98	2		98	98			6405	6405	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	1999	97	97	1	97	97	97	7165	7371	6347	6347	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2000	99	99	1	99	99	99	7376	7460	6326	6326	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2001	99	99	1	101		101	7401	7331	6323	6323	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 101 percent greater than 100 percent.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2002	99	99	2	99		99			6313	6313	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2003	99	99	2	99		99			6304	6304	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2004	92	92	2	92	92	92	6237	6768	6286	6286	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2005	93	93	1	109	109	109	7595	6955	6271	6271	93	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 109 percent greater than 100 percent.   Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2006	94	94	2	105	105	105			6281	6281	94	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 105 percent greater than 100 percent.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2007	95	95	2	95		95			6333	6333	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2008	97	97	2	102	102	102	6177	6070	6443	6443	97	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2009	99	99	2	100	99	99	6403	6433	6595	6595	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2010	99	99	2	99	99	99	6320	6384	6780	6780	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2011	96	96	2	101	101	101	6805	6710	6967	6967	96	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 101 percent greater than 100 percent.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2012	92	92	1	92		92	5753	6231	7052	7052	92	admin		R:	Estimate informed by reported administrative data.   Decline may be due to 10 months vaccine shortage.  Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2013	99	99	2	99	99	99			7086	7086	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2014	99	99	1	99		99	6251	6288	7063	7063	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2015	99	99	2	100	100	100	6424	6455	6977	6977	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2016	99	99	2	100	100	100	6472	6494	6842	6842	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2017	99	99	2	100	100	100	6259	6271	6692	6692	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2018	99	99	2	100	100	100	6219	6236	6540	6540	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2019	99	99	2	100	100	100	5968	5985	6392	6392	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2020	99	99	2	100	100	100	6002	6004	6259	6259	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2021	99	99	2	100	100	100	6304	6307	6147	6147	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	pol3	2022	99		1	100	100	100	6816	6819	6058	6058	100	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	1997	98	98	2						6503	6503				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	1998	99	99	2						6405	6405				R:	Estimate based on estimated MCV1.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	1999	94	94	1						6347	6347				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2000	99	99	1						6326	6326				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2001	99	99	1						6323	6323				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2002	99	99	2						6313	6313				R:	Estimate based on estimated MCV1.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2003	98	98	2						6304	6304				R:	Estimate based on estimated MCV1.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2004	99	99	2						6286	6286				R:	Estimate based on estimated MCV1.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2005	98	98	1						6271	6271				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2006	97	97	2						6281	6281				R:	Estimate based on estimated MCV1.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2007	97	97	2						6333	6333				R:	Estimate based on estimated MCV1.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2008	99	99	2						6443	6443				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2009	99	99	2						6595	6595				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2010	94	94	2						6780	6780				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2011	91	91	2						6967	6967				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2012	95	95	1						7052	7052				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2013	96	96	2						7086	7086				R:	Estimate based on estimated MCV1.    GoC=R+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2014	97	97	1						7063	7063				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2015	96	96	2						6977	6977				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2016	98	98	2				6368	6494	6842	6842				R:	Estimate based on estimated MCV1.   Programme reports a vaccine stockout of unclear duration.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2017	97	97	2				6065	6271	6692	6692				R:	Estimate based on estimated MCV1.   Programme reports a vaccine stockout of two months.  GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2018	99	99	2						6540	6540				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2019	97	97	2						6392	6392				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2020	99	99	2						6259	6259				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2021	99	99	2						6147	6147				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Brunei Darussalam	Wed Sep 06 18:40:37 2023	brn	rcv1	2022	97		1						6058	6058				R:	Estimate based on estimated MCV1.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	

@@ -1,0 +1,271 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	1997	82	82	2		82	82			80215	80215	82	gov		R: AP	Legacy estimate.   GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	1998	88	88	1		87	87			78828	78828	87	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	1999	91	91	1	93	89	89			79038	79038	89	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2000	95	95	1	92	92	92	72215	78178	78601	78601	92	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2001	91	91	1	87	87	87			77320	77320	87	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2002	96	96	1	91	91	91			74600	74600	91	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2003	93	93	1	87	87	87	63681	72938	73877	73877	87	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2004	97	97	1	90	90	90	64704	72247	73199	73199	90	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2005	96	96	1	88	88	88	62856	71548	73269	73269	88	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2006	95	95	1	87	87	87	62109	71291	73483	73483	87	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2007	99	99	1	91	91	91	66625	73144	74650	74650	91	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2008	99	99	1	91	90	90	64359	75187	76036	76036	90	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2009	91	91	1	81	81	81	61017	75000	75380	75380	81	gov		C:	Reported data calibrated to 1997 and 2015 levels.   Decline is due to change in BCG vaccination procedure in some hospitals (HIV testing required before vaccination)  Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2010	88	88	1	79	77	77	56170	70922	74096	74096	77	gov		C:	Reported data calibrated to 1997 and 2015 levels.  Costa Rica Multiple Indicator Cluster Survey 2011 results ignored by working group.  Survey results suggest national estimates may be conservative and actual coverage may be higher than reported.  Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2011	90	90	1	78	78	78	56950	73459	73774	73774	78	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2012	91	91	1	90	78	78	66243	73326	73305	73305	78	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2013	93	93	1	79	79	79	55473	70550	72281	72281	79	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2014	95	95	1	80	80	80	57231	71793	71914	71914	80	gov		C:	Reported data calibrated to 1997 and 2015 levels.    Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2015	99	99	1	83	83	83	59750	71819	71053	71053	83	gov	99	S: AP	Survey evidence does not support reported data. Estimate based on survey results. Survey evidence of 99 percent based on 1 survey(s).     Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2016	99	99	1	89	89	89	62418	70004	69914	69914	89	gov	100	S: AP	Survey evidence does not support reported data. Estimate based on survey results. Survey evidence of 100 percent based on 1 survey(s).     Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2017	99	99	1	90	90	90	61852	68811	69512	69512	90	gov		C:	Reported data calibrated to 2016 levels.   Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2018	99	99	1	92	92	92	63117	68449	68327	68327	92	gov		C:	Reported data calibrated to 2016 levels.   Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2019	99	99	1	93	88	88	59966	64274	65282	65282	88	gov		C:	Reported data calibrated to 2016 levels.   Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2020	99	99	1	89	89	89	51704	58156	62230	62230	89	gov		C:	Reported data calibrated to 2016 levels.   Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2021	88	88	1	73	71	71	42416	57848	61176	61176	89	extrapolated		W:	 Estimate for 2021 based on decline in the reported administrative coverage between 2020 and 2021 applied to the estimated coverage for 2020. Reported data excluded due to decline in reported coverage from 89 percent to 71 percent with increase to 84 percent.   Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	bcg	2022	99		1	84	84	84	44694	53435	60517	60517	89	extrapolated		C:	Reported data calibrated to 2016 levels. Reported data excluded due to sudden change in coverage from 71 level to 84 percent.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	1997	97	97	1						80215	80215	90	extrapolated		W: AP	Estimate of 97 percent assigned by working group. Legacy estimate.   GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	1998	95	95	1						78828	78828	90	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	1999	92	92	1						79038	79038	90	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2000	90	90	2	90	90	90	70345	78178	78601	78601	90	gov		R: AP	 Estimate based on reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2001	91	91	2	91		91			77320	77320	91	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2002	98	98	1						74600	74600	91	interpolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 94.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2003	90	90	2	90		90	64833	72201	73877	73877	90	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2004	96	96	1	89	89	89	64438	71579	73199	73199	89	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 90.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2005	97	97	1	90	89	89	63951	70848	73269	73269	89	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 91.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2006	89	89	2	90	89	89	63531	70599	73483	73483	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2007	90	90	2	90	90	90	65464	72409	74650	74650	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2008	90	90	2	91	90	90	67641	74514	76036	76036	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2009	91	91	2	91	91	91	68198	74337	75380	75380	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2010	96	96	1		83	83			74096	74096	83	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 88.  Costa Rica Multiple Indicator Cluster Survey 2011 results ignored by working group.  Survey results suggest national estimates may be conservative and actual coverage may be higher than reported.  Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2011	87	87	2		87	87			73774	73774	87	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2012	92	92	2		92	92			73305	73305	92	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2013	98	98	1	95	94	94	66272	69939	72281	72281	94	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 95.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2014	91	91	3	92	91	91	65246	71211	71914	71914	91	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2015	93	93	3	94	93	93	66910	71263	71053	71053	93	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2016	99	99	1	97	96	96	67286	69449	69914	69914	96	gov	98	RMF:	DTP1 coverage estimated based on DTP3 coverage of 97.    Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2017	99	99	3	100	99	99	68396	68266	69512	69512	99	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2018	95	95	3	96	95	95	65365	67876	68327	68327	95	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2019	96	96	2	103	96	96	65935	63744	65282	65282	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2020	99	99	2	100	100	100	57832	57699	62230	62230	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2021	97	99	1	88	88	88	51026	57848	61176	61176	88	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 93.   Estimate of 97 percent changed from previous revision value of 99 percent.  Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp1	2022	98		1	94	94	94	50449	53435	60517	60517	94	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 95.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Programme reports one month vaccine stockout at national level.  Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	1997	94	94	2		94	94			80215	80215	94	gov		R: AP	Legacy estimate.   GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	1998	85	85	2		85	85			78828	78828	85	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	1999	86	86	2	93	86	86			79038	79038	86	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2000	88	88	2	88	88	88	68820	78178	78601	78601	88	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2001	91	91	2	91	91	91			77320	77320	91	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2002	94	94	2	94	94	94			74600	74600	94	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2003	88	88	2	89	88	88	64106	72201	73877	73877	88	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2004	90	90	2	91	90	90	65330	71579	73199	73199	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2005	91	91	2	92	91	91	64938	70848	73269	73269	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2006	89	89	2	90	89	89	63464	70599	73483	73483	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2007	89	89	2	90	89	89	65235	72409	74650	74650	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2008	90	90	2	89	90	90	66056	74514	76036	76036	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2009	86	86	2	86	86	86	64375	74337	75380	75380	86	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2010	88	88	2	92	88	88	64302	70251	74096	74096	88	gov		R:	Estimate informed by reported data.  Costa Rica Multiple Indicator Cluster Survey 2011 results ignored by working group.  Survey results suggest national estimates may be conservative and actual coverage may be higher than reported.Costa Rica Multiple Indicator Cluster Survey 2011 card or history results of 94 percent modifed for recall bias to 99 percent based on 1st dose card or history coverage of 99 percent, 1st dose card only coverage of 92 percent and 3rd dose card only coverage of 92 percent.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2011	85	85	2		85	85			73774	73774	85	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2012	91	91	2		91	91			73305	73305	91	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2013	95	95	3	96	95	95	66809	69939	72281	72281	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2014	91	91	3	91	91	91	65084	71211	71914	71914	91	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2015	92	92	3	93	92	92	66382	71263	71053	71053	92	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).  Costa Rica Multiple Indicator Cluster Survey 2018 card or history results of 96 percent modifed for recall bias to 97 percent based on 1st dose card or history coverage of 97 percent, 1st dose card only coverage of 90 percent and 3rd dose card only coverage of 90 percent.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2016	97	97	3	98	97	97	68122	69449	69914	69914	97	gov	98	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 98 percent based on 1 survey(s).  Costa Rica Multiple Indicator Cluster Survey 2018 card or history results of 96 percent modifed for recall bias to 98 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 90 percent and 3rd dose card only coverage of 90 percent.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2017	96	96	3	97	96	96	66337	68266	69512	69512	96	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2018	94	94	3	95	94	94	64597	67876	68327	68327	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2019	95	95	2	103	95	95	64804	63744	65282	65282	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2020	97	97	2	97	97	97	55938	57699	62230	62230	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2021	93	99	2	92	93	93	53313	57848	61176	61176	93	gov		R:	Estimate informed by reported data.  Estimate of 93 percent changed from previous revision value of 99 percent.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	dtp3	2022	95		1	95	95	95	50885	53435	60517	60517	95	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Programme reports one month vaccine stockout at national level.  Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	1997	76	76	2		76	76			80215	80215	76	gov		R: AP	Legacy estimate.  HepB vaccine introduced nationally in 2000, reporting started in 1997.  GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	1998	86	86	2		86	86			78828	78828	86	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	1999	83	83	2	85	83	83			79038	79038	83	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2000	89	89	2	89	89	89	69709	78178	78601	78601	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2001	80	80	2	80	80	80			77320	77320	80	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2002	94	94	2		94	94			74600	74600	94	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2003	86	86	2	87	86	86	62864	72201	73877	73877	86	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2004	89	89	2	90	89	89	64569	71579	73199	73199	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2005	90	90	2	91	90	90	64331	70848	73269	73269	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2006	88	88	2	89	88	88	62956	70599	73483	73483	88	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2007	89	89	2	90	89	89	65262	72409	74650	74650	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2008	89	89	2	88	89	89	65277	74514	76036	76036	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2009	87	87	2	87	87	87	64849	74337	75380	75380	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2010	89	89	2	92	89	89	64302	70251	74096	74096	89	gov		R:	Estimate informed by reported data.  Costa Rica Multiple Indicator Cluster Survey 2011 results ignored by working group.  Survey results suggest national estimates may be conservative and actual coverage may be higher than reported.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2011	84	84	2	84	84	84	61570	72793	73774	73774	84	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2012	91	91	2		91	91			73305	73305	91	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2013	94	94	1	191	94	94	133270	69939	72281	72281	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2014	91	91	3	92	91	91	65358	71211	71914	71914	91	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2015	92	92	3	93	92	92	66142	71263	71053	71053	92	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).  Costa Rica Multiple Indicator Cluster Survey 2018 card or history results of 96 percent modifed for recall bias to 97 percent based on 1st dose card or history coverage of 99 percent, 1st dose card only coverage of 92 percent and 3rd dose card only coverage of 90 percent.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2016	97	97	3	97	97	97	67693	69449	69914	69914	97	gov	98	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 98 percent based on 1 survey(s).  Costa Rica Multiple Indicator Cluster Survey 2018 card or history results of 96 percent modifed for recall bias to 98 percent based on 1st dose card or history coverage of 99 percent, 1st dose card only coverage of 91 percent and 3rd dose card only coverage of 90 percent.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2017	97	97	3	97	97	97	66471	68266	69512	69512	97	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2018	98	98	3	99	98	98	67180	67876	68327	68327	98	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2019	94	97	1						65282	65282	94	interpolated		R:	Estimate informed by interpolation between reported data.   Estimate of 94 percent changed from previous revision value of 97 percent.  GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2020	91	95	2	102	101	101	58585	57699	62230	62230	91	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 101 percent greater than 100 percent.  Estimate of 91 percent changed from previous revision value of 95 percent.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2021	87	94	2	87	87	87	50533	57848	61176	61176	87	gov		R:	Estimate informed by reported data.  Estimate of 87 percent changed from previous revision value of 94 percent.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepb3	2022	94		1	94	94	94	50371	53435	60517	60517	94	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Programme reports two months HepB monovalent vaccine stockout at national level.  Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2001	87	87	2	87		87			77320	77320	87	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2002	87	87	1						74600	74600	87	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2003	86	86	2	86		86			73877	73877	86	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2004	89	89	2		89	89			73199	73199	89	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2005	89	89	1						73269	73269	89	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2006	89	89	1						73483	73483	89	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2007	89	89	1					73144	74650	74650	89	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2008	89	89	1						76036	76036	89	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2009	89	89	1					74963	75380	75380	89	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2010	89	89	2	89		89	63041	70922	74096	74096	89	admin		R:	Estimate informed by reported administrative data.  Costa Rica Multiple Indicator Cluster Survey 2011 results ignored by working group.  Survey results suggest national estimates may be conservative and actual coverage may be higher than reported.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2011	90	90	1						73774	73774	90	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2012	90	90	2	90	90	90	65901	73326	73305	73305	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2013	90	90	1						72281	72281	90	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2014	89	89	2	89	89	89	64063	71793	71914	71914	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2015	90	90	1						71053	71053	90	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2016	91	91	2	91	91	91	63400	70004	69914	69914	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2017	87	87	2	87	87	87	59609	68816	69512	69512	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2018	90	90	2	90	90	90	61617	68449	68327	68327	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2019	87	87	2	93	87	87	59757	64274	65282	65282	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2020	89	89	2	88	89	89	51469	58156	62230	62230	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2021	71	78	2	73	71	71	42416	57848	61176	61176	71	gov		R:	Estimate informed by reported data.  . Estimate of 71 percent changed from previous revision value of 78 percent.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hepbb	2022	71		1						60517	60517	71	extrapolated		R:	Estimate informed by extrapolation from reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	1998	26	26	2	26	26	26			78828	78828	26	gov		R:	Estimate informed by reported data.   Hib vaccine introduced in 1998.  GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	1999	68	68	2	68	68	68			79038	79038	68	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2000	92	92	2	92	92	92	73226	78178	78601	78601	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2001	89	89	2	89		89			77320	77320	89	admin		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2002	93	93	2	93	93	93			74600	74600	93	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2003	88	88	2	88		88	63289	72201	73877	73877	88	admin		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2004	90	90	2	91	90	90	64931	71579	73199	73199	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2005	89	89	2	89	89	89	63340	70848	73269	73269	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2006	88	88	2	89	88	88	62668	70599	73483	73483	88	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2007	88	88	2	88	88	88	63984	72409	74650	74650	88	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2008	87	87	2	88	87	87	65820	74514	76036	76036	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2009	87	87	2	87	87	87	64930	74337	75380	75380	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2010	90	90	2	92	90	90	64302	70251	74096	74096	90	gov		R:	Estimate informed by reported data.  Costa Rica Multiple Indicator Cluster Survey 2011 results ignored by working group.  Survey results suggest national estimates may be conservative and actual coverage may be higher than reported.Costa Rica Multiple Indicator Cluster Survey 2011 card or history results of 92 percent modifed for recall bias to 94 percent based on 1st dose card or history coverage of 97 percent, 1st dose card only coverage of 94 percent and 3rd dose card only coverage of 91 percent.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2011	81	81	2		81	81			73774	73774	81	gov		R:	Estimate informed by reported data.   Decline in coverage is consistent with patterns in coverage for other antigens.  GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2012	90	90	2		90	90			73305	73305	90	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2013	95	95	3	96	95	95	66809	69939	72281	72281	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2014	91	91	3	91	91	91	65084	71211	71914	71914	91	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2015	92	92	3	93	92	92	66382	71263	71053	71053	92	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).  Costa Rica Multiple Indicator Cluster Survey 2018 card or history results of 96 percent modifed for recall bias to 97 percent based on 1st dose card or history coverage of 97 percent, 1st dose card only coverage of 90 percent and 3rd dose card only coverage of 90 percent.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2016	97	97	3	98	97	97	68122	69449	69914	69914	97	gov	98	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 98 percent based on 1 survey(s).  Costa Rica Multiple Indicator Cluster Survey 2018 card or history results of 96 percent modifed for recall bias to 98 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 90 percent and 3rd dose card only coverage of 90 percent.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2017	96	96	3	97	96	96	66337	68266	69512	69512	96	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2018	94	94	3	95	94	94	64597	67876	68327	68327	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2019	96	96	1						65282	65282	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2020	97	97	2	97	97	97	55938	57699	62230	62230	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2021	92	99	2	92	92	92	53313	57848	61176	61176	92	gov		R:	Estimate informed by reported data.  Estimate of 92 percent changed from previous revision value of 99 percent.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	hib3	2022	95		1	95	95	95	50885	53435	60517	60517	95	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	ipv1	2015	93	93	3	94	93	93	66910	71263	71053	71053	93	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	ipv1	2016	96	96	3	97	96	96	67286	69449	69914	69914	96	gov	98	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 98 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	ipv1	2017	99	99	3	100	99	99	68396	68266	69512	69512	99	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	ipv1	2018	95	95	1	96	95	95	65365	67876	68327	68327	95	gov		W:	 Estimate based on estimated DTP1 coverage.   Estimate challenged by: R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	ipv1	2019	96	96	2	103	96	96	65935	63744	65282	65282	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	ipv1	2020	99	99	2	100	100	100	57832	57699	62230	62230	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	ipv1	2021	97	95	1	88	88	88	51026	57848	61176	61176	88	gov		W:	 Estimate informed by estimated DTP1 coverage level.  Estimate of 97 percent changed from previous revision value of 95 percent.  Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	ipv1	2022	98		1	94	94	94	50449	53435	60517	60517	94	gov		W:	 Estimate informed by estimated DTP1 coverage level (vaccine presentation is DTP-Hib-IPV) .  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	1997	99	99	2		99	99			80215	80215	99	gov		R: AP	Legacy estimate.   GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	1998	83	83	2		83	83			78828	78828	83	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	1999	88	88	2	93	88	88			79038	79038	88	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2000	82	82	2	82	82	82	64472	78526	78601	78601	82	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2001	82	82	2	85	82	82			77320	77320	82	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2002	94	94	2	94	94	94			74600	74600	94	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2003	89	89	2	88	89	89	63260	72201	73877	73877	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2004	88	88	2	87	88	88	63803	72938	73199	73199	88	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2005	89	89	2	91	89	89	64687	70848	73269	73269	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2006	90	90	2	91	90	90	64077	70599	73483	73483	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2007	90	90	2	90	90	90	64239	71291	74650	74650	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2008	89	89	2	89	89	89	64417	72409	76036	76036	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2009	81	81	2	81	81	81	60077	74337	75380	75380	81	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2010	83	83	2	83	83	83	59996	70275	74096	74096	83	gov		R:	Estimate informed by reported data.  Costa Rica Multiple Indicator Cluster Survey 2011 results ignored by working group.  Survey results suggest national estimates may be conservative and actual coverage may be higher than reported.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2011	83	83	2		83	83			73774	73774	83	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2012	90	90	2	92	90	90	66606	72793	73305	73305	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2013	91	91	3	91	91	91	66406	72702	72281	72281	91	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2014	95	95	3	95	95	95	66705	69938	71914	71914	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2015	93	93	3	93	93	93	65894	71218	71053	71053	93	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2016	93	93	3	93	93	93	66323	71218	69914	69914	93	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2017	96	96	3	96	96	96	66864	69449	69512	69512	96	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2018	94	94	2	94	94	94	65373	69248	68327	68327	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2019	95	95	2	95	95	95	64607	67906	65282	65282	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2020	95	95	2	95	95	95	62958	66347	62230	62230	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2021	89	89	2	89	89	89	50940	57386	61176	61176	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv1	2022	90		1	90	90	90	48197	53435	60517	60517	90	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2008	89	89	2	89		89	64414	72409	76036	76036	89	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2009	84	84	2	83	84	84	58725	74337	75380	75380	84	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2010	79	79	2	79	79	79	57124	70275	74096	74096	79	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2011	80	80	2		80	80			73774	73774	80	gov		R:	Estimate informed by reported data.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2012	95	95	2	98	95	95	69451	72793	73305	73305	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2013	92	92	2	91	92	92	64570	70599	72281	72281	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2014	90	90	2	90	90	90	65269	72409	71914	71914	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2015	90	90	2	87	90	90	65027	74514	71053	71053	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2016	87	87	2	87	87	87	64557	74337	69914	69914	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2017	93	93	2	93	93	93	65531	70251	69512	69512	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2018	93	93	1	103	103	103	72069	70251	68327	68327	89	interpolated		W:	. Reported data excluded because 103 percent greater than 100 percent.   Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2019	93	93	1	102	102	102	71898	70550	65282	65282	85	interpolated		W:	. Reported data excluded because 102 percent greater than 100 percent.   Estimate challenged by: D-R-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2020	81	81	1	81	81	81	56914	70550	62230	62230	81	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2021	69	69	1	69	69	69	48835	71212	61176	61176	69	gov		R:	Estimate informed by reported data.   Estimate based exceptionally on the reported coverage for MCV2 given a change in the recommended age from 7 years to 4 years in 2021.  Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	mcv2	2022	75		1	75	75	75	51749	69449	60517	60517	75	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2009	48	48	2	48	48	48	36158	74337	75380	75380	48	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2010	94	94	2	98	94	94	68678	70251	74096	74096	94	gov		R:	Estimate informed by reported data.  Costa Rica Multiple Indicator Cluster Survey 2011 results ignored by working group.  Survey results suggest national estimates may be conservative and actual coverage may be higher than reported.Costa Rica Multiple Indicator Cluster Survey 2011 card or history results of 93 percent modifed for recall bias to 96 percent based on 1st dose card or history coverage of 96 percent, 1st dose card only coverage of 91 percent and 3rd dose card only coverage of 91 percent. .  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2011	68	68	2	68	68	68	49674	72793	73774	73774	68	gov		R:	Estimate informed by reported data.   Vaccine stockout for one month.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2012	89	89	2	89	89	89	64908	72702	73305	73305	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2013	94	94	1						72281	72281	86	interpolated		W:	 Presentation changed from a 3+1 (2,4,6 months and 15 months of age) dose, 7 valent presentation to a 2+1 (2,4 months and 15 months of age) dose, 13 valent presentation in 2012. The WHO and UNICEF estimate is based on the reported second dose of PcV.   Estimate challenged by: S-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2014	83	83	3	83	83	83	58300	69938	71914	71914	83	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2015	94	94	3						71053	71053	89	interpolated	83	W:	 The WHO and UNICEF estimate informed by the reported second dose of PcV. Survey supports reported during a period of schedule transition.   GoC=Assigned by working group.  Survey supports reported data in 2015 given vaccine schedule transition.	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2016	94	94	3	94	94	94	66991	71218	69914	69914	94	gov		R:	Estimate informed by reported data.   GoC=Assigned by working group.  Survey supports reported data in 2015 given vaccine schedule transition.	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2017	96	96	3	96	96	96	66919	69449	69512	69512	96	gov		R:	Estimate informed by reported data.   GoC=Assigned by working group.  Survey supports reported data in 2015 given vaccine schedule transition.	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2018	96	96	2	96	96	96	66809	69248	68327	68327	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2019	95	95	2	95	95	95	64563	67906	65282	65282	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2020	94	94	2	94	94	94	62256	66347	62230	62230	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2021	87	92	2	92	87	87	52876	57386	61176	61176	87	gov		R:	Estimate informed by reported data.  Estimate of 87 percent changed from previous revision value of 92 percent.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pcv3	2022	92		1	92	92	92	49092	53435	60517	60517	92	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	1997	97	97	2		97	97			80215	80215	97	gov		R: AP	Legacy estimate.   GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	1998	85	85	2		85	85			78828	78828	85	gov		R:	Estimate informed by reported data.   GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	1999	84	84	2	93	84	84			79038	79038	84	gov		R:	Estimate informed by reported data.   GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2000	80	80	2	80	80	80	62207	78178	78601	78601	80	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2001	92	92	2	92	92	92			77320	77320	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2002	94	94	2	94	94	94			74600	74600	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2003	88	88	2	89	88	88	63969	72201	73877	73877	88	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2004	90	90	2	91	90	90			73199	73199	90	gov		R:	Estimate informed by reported data.   GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2005	91	91	2	92	91	91	64854	70848	73269	73269	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2006	89	89	2	89	89	89	63420		73483	73483	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2007	89	89	2	90	89	89	65179	72409	74650	74650	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2008	89	89	2	89	89	89	66217	74514	76036	76036	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2009	80	80	2	80	80	80	59977	74337	75380	75380	80	gov		R:	Estimate informed by reported data.  Vaccine stockout for 3-6 months  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2010	93	93	2	97	93	93	68339	70251	74096	74096	93	gov		R:	Estimate informed by reported data. Costa Rica Multiple Indicator Cluster Survey 2011 results ignored by working group.  Survey results suggest national estimates may be conservative and actual coverage may be higher than reported.Costa Rica Multiple Indicator Cluster Survey 2011 card or history results of 95 percent modifed for recall bias to 97 percent based on 1st dose card or history coverage of 100 percent, 1st dose card only coverage of 94 percent and 3rd dose card only coverage of 91 percent.  Increase in coverage most likely a return to 2008 pre-stockout levels.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2011	82	82	2	82	82	82	60437	72793	73774	73774	82	gov		R:	Estimate informed by reported data.  Decline in coverage is consistent with patterns in coverage for other antigens.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2012	90	90	2		90	90			73305	73305	90	gov		R:	Estimate informed by reported data.   GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2013	95	95	2	96	95	95	66809	69939	72281	72281	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2014	91	91	2	91	91	91	65084	71211	71914	71914	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2015	92	92	2	93	92	92	66382	71263	71053	71053	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2016	97	97	2	98	97	97	68122	69449	69914	69914	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2017	96	96	2	97	96	96	66337	68266	69512	69512	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2018	94	94	2	95	94	94	64597	67876	68327	68327	94	gov		R:	Estimate informed by reported data.  Programme reports three months vaccine stockout.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2019	96	96	1						65282	65282	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2020	97	97	2	97	97	97	55938	57699	62230	62230	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2021	92	99	2	92	92	92	53313	57848	61176	61176	92	gov		R:	Estimate informed by reported data.  Estimate of 92 percent changed from previous revision value of 99 percent.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	pol3	2022	95		1	95	95	95	50885	53435	60517	60517	95	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	1997	99	99	2						80215	80215				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	1998	83	83	2						78828	78828				R:	Estimate based on estimated MCV1.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	1999	88	88	2						79038	79038				R:	Estimate based on estimated MCV1.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2000	82	82	2						78601	78601				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2001	82	82	2						77320	77320				R:	Estimate based on estimated MCV1.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2002	94	94	2						74600	74600				R:	Estimate based on estimated MCV1.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2003	89	89	2						73877	73877				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2004	88	88	2						73199	73199				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2005	89	89	2						73269	73269				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2006	90	90	2						73483	73483				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2007	90	90	2						74650	74650				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2008	89	89	2						76036	76036				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2009	81	81	2						75380	75380				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2010	83	83	2						74096	74096				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2011	83	83	2						73774	73774				R:	Estimate based on estimated MCV1.    GoC=R+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2012	90	90	2						73305	73305				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2013	91	91	3						72281	72281				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2014	95	95	3						71914	71914				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2015	93	93	3						71053	71053			97	R: AP	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2016	93	93	3				66323	71218	69914	69914				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2017	96	96	3				66864	69449	69512	69512				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2018	94	94	2						68327	68327				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2019	95	95	2						65282	65282				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2020	95	95	2						62230	62230				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2021	89	89	2						61176	61176				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rcv1	2022	90		1						60517	60517				R:	Estimate based on estimated MCV1.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rotac	2019	59	59	2	64	59	59	40673	63744	65282	65282	59	gov		R:	Estimate informed by reported data.   Rotavirus vaccine introduced during February 2019.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rotac	2020	97	97	2	98	97	97	56380	57699	62230	62230	97	gov		R:	Estimate informed by reported data.   Substantial year-to-year increase in coverage is accepted during the introduction period.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rotac	2021	85	91	2	85	85	85	49191	57848	61176	61176	85	gov		R:	Estimate informed by reported data.   Estimate of 85 percent changed from previous revision value of 91 percent.  GoC=R+ D+	
+Costa Rica	Wed Sep 06 18:43:17 2023	cri	rotac	2022	89		1	89	89	89	47439	53435	60517	60517	89	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	

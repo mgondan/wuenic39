@@ -1,0 +1,289 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	1997	99	99	2	99	99	99			10505	10505	99	gov	96	R: AP	Legacy estimate.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	1998	99	99	2	100	100	100			10886	10886	100	gov		R:	Estimate informed by reported data.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	1999	99	99	2	100	100	100			11481	11481	100	gov		R:	Estimate informed by reported data.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2000	99	99	2	100	100	100	10992	10344	12183	12183	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2001	99	99	2	99	99	99	12038	12110	12838	12838	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2002	99	99	2	100	100	100	12204	12100	13016	13016	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2003	99	99	2	100	100	100	12821	12777	13138	13138	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2004	99	99	2	100	100	100	13181	13026	13016	13016	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2005	99	99	2	100	100	100	13483	13524	12728	12728	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2006	99	99	2	100	100	100	14378	13820	13145	13145	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2007	96	96	2	96	96	96	14815	15407	14391	14391	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2008	97	97	1						15503	15503	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2009	98	98	1	98	98	98	17945	18265	16522	16522	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2010	99	99	2	99	99	99	18913	19165	18161	18161	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2011	97	97	2	97	97	97	19803	20347	20036	20036	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2012	97	97	2	97	97	97	22038	22800	20938	20938	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2013	98	98	2	98	98	98	22761	23100	22097	22097	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2014	90	90	2	90	90	90	22786	25443	23038	23038	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2015	97	97	1	97	97	97	25887	26560	24016	24016	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2016	97	97	2	97	97	97	26279	27000	25480	25480	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2017	99	99	2	99	99	99	28407	28850	27496	27496	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2018	99	99	2	99	99	99	27643	28037	29263	29263	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2019	99	99	2	99		99	28154	28528	30078	30078	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2020	98	98	2	98	98	98	28421	29014	30968	30968	98	gov		R:	Estimate informed by reported data.  Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2021	99	99	2	99	99	99	26012	26308	26529	26529	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	bcg	2022	99		2	99	99	99	26625	26929	24497	24497	99	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	1997	97	97	2						10505	10505	92	extrapolated	95	W: AP	Estimate of 97 percent assigned by working group. Legacy estimate.   GoC=S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	1998	95	95	2						10886	10886	92	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	1999	94	94	2						11481	11481	92	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2000	92	92	1	91	92	92	9432	10344	12183	12183	92	gov		R: AP	 Estimate is based on reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2001	95	95	2	95	95	95	11363	11998	12838	12838	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2002	96	96	2	96	96	96	11554	12100	13016	13016	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2003	96	96	2	95	96	96	12077	12777	13138	13138	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2004	99	99	2	99	99	99	12786	12913	13016	13016	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2005	99	99	2	100	100	100	13671	13524	12728	12728	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2006	99	99	2	100	100	100	14244	13713	13145	13145	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2007	96	96	2	96	96	96	15004	15337	14391	14391	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2008	97	97	1						15503	15503	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2009	99	99	1	98	98	98	17968	18136	16522	16522	98	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    Estimate challenged by: R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2010	98	98	2	98	98	98	18685	19032	18161	18161	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2011	94	94	2	94	94	94	19133	20283	20036	20036	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2012	95	95	2	95	95	95	21394	22635	20938	20938	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2013	99	99	2	100	100	100	23018	22930	22097	22097	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2014	99	99	1	104	100	100	26555	25319	23038	23038	100	gov		R:	Estimate informed by reported data.  Unexplained decrease in reported coverage due in part to an unexplained sudden increase in the reported target population from 2013 to 2014.  Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2015	99	99	1	95	95	95	25219	26430	24016	24016	95	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    Estimate challenged by: R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2016	99	99	1	115	100	100	30875	26900	25480	25480	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2017	98	98	2	98	98	98	28319	28772	27496	27496	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2018	99	99	2	99	99	99	27558	27890	29263	29263	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2019	99	99	1	99		99	28115	28438	30078	30078	99	admin		W:	 Estimate is based on data reported in 2018 and in line with coverage trend observed for vaccine doses with data reported for 2019.   Estimate challenged by: R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2020	96	96	1	82	82	82	23552	28894	30968	30968	82	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 89.   Programme reports vaccine stockout of unspecified duration. Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  Estimate challenged by: D-R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2021	99	99	2	99	99	99	25850	26197	26529	26529	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp1	2022	99		2	99	99	99	26469	26789	24497	24497	99	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	1997	92	92	2	92	92	92			10505	10505	92	gov	90	R: AP	Legacy estimate.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	1998	94	94	2	94	94	94			10886	10886	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	1999	92	92	2	92	92	92			11481	11481	92	gov		R:	Estimate informed by reported data.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2000	80	80	2	80	80	80	8872	10344	12183	12183	80	gov		R:	Estimate informed by reported data.  Decline confirmed by Ministry of Health.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2001	93	93	2	93	93	93	11249	11998	12838	12838	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2002	96	96	2	96	96	96	11558	12100	13016	13016	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2003	92	92	2	92	92	92	11760	12777	13138	13138	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2004	96	96	2	96	96	96	12333	12913	13016	13016	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2005	97	97	2	97	97	97	12865	13524	12728	12728	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2006	96	96	2	96	96	96	13128	13713	13145	13145	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2007	94	94	2	94	94	94	14444	15337	14391	14391	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2008	97	97	1						15503	15503	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2009	99	99	1	99	99	99	18099	18136	16522	16522	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2010	97	97	2	97	97	97	18404	19032	18161	18161	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2011	93	93	2	93	93	93	18803	20283	20036	20036	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2012	92	92	2	93	92	92	20984	22635	20938	20938	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2013	97	97	2	100	97	97	22813	22930	22097	22097	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2014	89	89	2	89	89	89	22403	25036	23038	23038	89	gov		R:	Estimate informed by reported data.  Unexplained decrease in reported coverage due in part to an unexplained sudden increase in the reported target population from 2013 to 2014.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2015	99	99	1	99	99	99	26179	26364	24016	24016	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2016	98	98	2	98	98	98	26390	26870	25480	25480	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2017	97	97	2	97	97	97	27907	28728	27496	27496	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2018	98	98	2	98	98	98	27304	27863	29263	29263	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2019	98	98	1	98		98	27659	28237	30078	30078	98	admin		W:	 Estimate is based on data reported in 2018 and in line with coverage trend observed for vaccine doses with data reported for 2019.   Estimate challenged by: R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2020	89	89	2	89	89	89	25700	28872	30968	30968	89	gov		R:	Estimate informed by reported data.  Programme reports vaccine stockout of unspecified duration. Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2021	98	98	2	98	98	98	25654	26180	26529	26529	98	gov		R:	Estimate informed by reported data.  Increase in coverage from prior year aligns with recovery from likely COVID-19 disruptions as well as a 9 percent decrease in the reported target population from 2020 level.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	dtp3	2022	98		2	98	98	98	26317	26773	24497	24497	98	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	1997	90	90	2	90	90	90			10505	10505	90	gov	85	R: AP	Legacy estimate.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	1998	92	92	2	92	92	92			10886	10886	92	gov		R:	Estimate informed by reported data.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	1999	92	92	2	92	92	92			11481	11481	92	gov		R:	Estimate informed by reported data.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2000	89	89	1	89	89	89	9199	10344	12183	12183	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2001	93	93	2	93	93	93	11218	11998	12838	12838	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2002	98	98	2	98	98	98	11840	12100	13016	13016	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2003	93	93	2	93	93	93	11901	12777	13138	13138	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2004	97	97	2	97	97	97	12463	12913	13016	13016	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2005	97	97	2	97	97	97	12820	13524	12728	12728	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2006	96	96	2	96	96	96	13128	13713	13145	13145	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2007	94	94	2	94	94	94	14444	15337	14391	14391	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2008	97	97	1						15503	15503	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2009	99	99	1	99	99	99	18099	18136	16522	16522	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2010	97	97	2	97	97	97	18404	19032	18161	18161	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2011	93	93	2	93	93	93	18803	20283	20036	20036	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2012	93	93	2	93	93	93	20984	22635	20938	20938	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2013	97	97	2	100	97	97	22813	22930	22097	22097	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2014	89	89	2	89	89	89	22403	25036	23038	23038	89	gov		R:	Estimate informed by reported data.  Unexplained decrease in reported coverage due in part to an unexplained sudden increase in the reported target population from 2013 to 2014.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2015	99	99	1	99	99	99	26179	26364	24016	24016	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2016	98	98	2	98	98	98	26390	26870	25480	25480	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2017	97	97	2	97	97	97	27907	28728	27496	27496	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2018	98	98	2	98	98	98	27304	27863	29263	29263	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2019	98	98	1	98		98	27659	28237	30078	30078	98	admin		W:	 Estimate is based on data reported in 2018 and in line with coverage trend observed for vaccine doses with data reported for 2019.   Estimate challenged by: R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2020	89	89	2	89	89	89	25700	28872	30968	30968	89	gov		R:	Estimate informed by reported data.  Programme reports vaccine stockout of unspecified duration . Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2021	98	98	2	98	98	98	25654	26180	26529	26529	98	gov		R:	Estimate informed by reported data.  Increase in coverage from prior year aligns with recovery from likely COVID-19 disruptions as well as a 9 percent decrease in the reported target population from 2020 level.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepb3	2022	98		2	98	98	98	26317	26773	24497	24497	98	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2000	99	99	1	99	99	99	10221	10344	12183	12183	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2001	99	99	2	100	99	99	12553	12110	12838	12838	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2002	99	99	2	100	100	100	12707	12100	13016	13016	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2003	99	99	2	100	100	100	13921	12777	13138	13138	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2004	99	99	2	100	100	100	13010	13026	13016	13016	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2005	99	99	2	100	100	100	13356	13524	12728	12728	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2006	99	99	2	100	100	100	13796	13820	13145	13145	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2007	93	93	2	93	93	93	14388	15407	14391	14391	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2008	94	94	1						15503	15503	94	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2009	94	94	1	94	94	94	17220	18265	16522	16522	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2010	99	99	2	99	99	99	18962	19165	18161	18161	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2011	95	95	2	96	95	95	19470	20347	20036	20036	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2012	95	95	2	95	95	95	21556	22800	20938	20938	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2013	93	93	2	96	93	93	22110	23100	22097	22097	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2014	92	92	2	92	92	92	23352	25443	23038	23038	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2015	95	95	1	95	95	95	25320	26560	24016	24016	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2016	96	96	2	96	96	96	25813	27000	25480	25480	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2017	97	97	2	97	97	97	27945	28850	27496	27496	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2018	97	97	2	97	97	97	27232	28037	29263	29263	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2019	98	98	2	98		98	28070	28528	30078	30078	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2020	98	98	2	98	98	98	28409	29014	30968	30968	98	gov		R:	Estimate informed by reported data.   Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2021	99	99	2	99	99	99	26061	26308	26529	26529	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hepbb	2022	99		2	99	99	99	26597	26929	24497	24497	99	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	1997	92	92	2	92	92	92			10505	10505	92	gov		R: AP	Legacy estimate.  Hib vaccine introduced in 1996. Reporting started in 1997.  GoC=R+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	1998	94	94	2	94	94	94			10886	10886	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	1999	92	92	2	92	92	92			11481	11481	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2000	80	80	2	80	80	80	8872	10344	12183	12183	80	gov		R:	Estimate informed by reported data.  Decline confirmed by Ministry of Health.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2001	93	93	2	93	93	93	11249	11998	12838	12838	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2002	96	96	2	96	96	96	11578	12100	13016	13016	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2003	92	92	2	92	92	92	11760	12777	13138	13138	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2004	96	96	2	96	96	96	12333	12913	13016	13016	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2005	97	97	2	97	97	97	12865	13524	12728	12728	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2006	96	96	2	96	96	96	13128	13713	13145	13145	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2007	94	94	2	94	94	94	14444	15337	14391	14391	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2008	97	97	1						15503	15503	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2009	99	99	1	99	99	99	18099	18136	16522	16522	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2010	97	97	2	97	97	97	18404	19032	18161	18161	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2011	93	93	2	93	93	93	18803	20283	20036	20036	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2012	97	97	2	93	97	97	20984	22635	20938	20938	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2013	93	93	1	100	93	93	22813	22930	22097	22097	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2014	89	89	2	89	89	89	22403	25036	23038	23038	89	gov		R:	Estimate informed by reported data.  Unexplained decrease in reported coverage due in part to an unexplained sudden increase in the reported target population from 2013 to 2014.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2015	99	99	1	99	99	99	26179	26364	24016	24016	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2016	98	98	2	98	98	98	26390	26870	25480	25480	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2017	97	97	2	97	97	97	27907	28728	27496	27496	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2018	98	98	2	98	98	98	27304	27863	29263	29263	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2019	98	98	1	98		98	27659	28237	30078	30078	98	admin		W:	 Estimate is based on data reported in 2018 and in line with coverage trend observed for vaccine doses with data reported for 2019.   Estimate challenged by: R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2020	89	89	2	89	89	89	25700	28872	30968	30968	89	gov		R:	Estimate informed by reported data.  Programme reports vaccine stockout of unspecified duration . Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2021	98	98	2	98	98	98	25654	26180	26529	26529	98	gov		R:	Estimate informed by reported data.  Increase in coverage from prior year aligns with recovery from likely COVID-19 disruptions as well as a 9 percent decrease in the reported target population from 2020 level.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	hib3	2022	98		2	98	98	98	26317	26773	24497	24497	98	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	ipv1	2015	96	96	2	96	96	96	25447	26370	24016	24016	96	gov		R:	Estimate informed by reported data.   Inactivated polio vaccine in 2010 as part of a sequential schedule.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	ipv1	2016	99	99	1	115	100	100	30875	26900	25480	25480	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	ipv1	2017	98	98	2	98	98	98	28319	28772	27496	27496	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	ipv1	2018	99	99	2	99	99	99	27558	27890	29263	29263	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	ipv1	2019	99	99	1	99		99	28115	28438	30078	30078	99	admin		W:	 Estimate is based on data reported in 2018 and in line with coverage trend observed for vaccine doses with data reported for 2019.   Estimate challenged by: R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	ipv1	2020	82	82	2	82	82	82	23552	28894	30968	30968	82	gov		R:	Estimate informed by reported data.   Programme reports vaccine stockout of unspecified duration . Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	ipv1	2021	99	99	2	99	99	99	25850	26197	26529	26529	99	gov		R:	Estimate informed by reported data.   Increase in coverage from prior year aligns with recovery from likely COVID-19 disruptions as well as a 9 percent decrease in the reported target population from 2020 level.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	ipv1	2022	99		2	99	99	99	26469	26789	24497	24497	99	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	1997	87	87	2	87	87	87			10505	10505	87	gov	90	R: AP	Legacy estimate.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	1998	89	89	2	89	89	89			10886	10886	89	gov		R:	Estimate informed by reported data.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	1999	87	87	2	87	87	87			11481	11481	87	gov		R:	Estimate informed by reported data.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2000	91	91	2	91	91	91			12183	12183	91	gov		R:	Estimate informed by reported data.   GoC=R+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2001	92	92	2	92	92	92	11079	11998	12838	12838	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2002	99	99	2	100	100	100	12027	12000	13016	13016	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2003	93	93	2	93	93	93	11739	12650	13138	13138	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2004	99	99	2	99	99	99	12785	12913	13016	13016	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2005	99	99	2	100	100	100	13568	13524	12728	12728	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2006	99	99	2	99	99	99	13525	13713	13145	13145	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2007	92	92	2	92	92	92	14163	15337	14391	14391	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2008	96	96	1						15503	15503	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2009	99	99	1	102	100	100	18596	18136	16522	16522	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2010	99	99	2	99	99	99	18914	19032	18161	18161	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2011	98	98	1	100	114	114	21794	19032	20036	20036	98	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 114 percent greater than 100 percent. Reported data excluded due to an increase from 99 percent to 114 percent with decrease 97 percent.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2012	97	97	2	97	97	97	22029	22635	20938	20938	97	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2013	97	97	2	100	97	97	22914	22930	22097	22097	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2014	99	99	1	104	100	100	26045	25022	23038	23038	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2015	99	99	1	100	100	100	27399	26350	24016	24016	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2016	99	99	1	106	100	100	28352	26830	25480	25480	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2017	99	99	2	99	100	100	28694	28728	27496	27496	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2018	99	99	2	99	99	99	27838	27856	29263	29263	99	gov		R:	Estimate informed by reported data.  Programme reports one month vaccine stockout at national level.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2019	99	99	1	100		100	28072	28103	30078	30078	100	admin		W:	 Estimate is based on data reported in 2018 and in line with coverage trend observed for vaccine doses with data reported for 2019.   Estimate challenged by: R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2020	90	90	2	90	90	90	25843	28860	30968	30968	90	gov		R:	Estimate informed by reported data.  Programme reports vaccine stockout of unspecified duration . Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2021	99	99	2	100	100	100	26056	26175	26529	26529	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv1	2022	99		2	100	100	100	26652	26753	24497	24497	100	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2002	91	91	1	91	91	91	19965	22020	13016	13016	91	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2003	91	91	2		91	91		23150	13138	13138	91	gov		R:	Estimate informed by reported data.    GoC=R+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2004	95	95	1				10588	23227	13016	13016	95	interpolated		R:	Estimate informed by interpolation between reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2005	98	98	1	98	98	98	11054	11254	12728	12728	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2006	87	87	2	87	87	87	10491	12118	13145	13145	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2007	91	91	2	45	45	45	12111	27046	14391	14391	91	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded.  Denominator for reported data is based on a three year cohort of children aged 4 to 6 years.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2008	95	95	1						15503	15503	95	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2009	99	99	1	99	99	99	13360	13524	16522	16522	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2010	98	98	1	99	98	98	14132	14315	18161	18161	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2011	99	99	2	100	102	102	19340	19032	20036	20036	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2012	99	99	2	100	104	104	20801	20000	20938	20938	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 104 percent greater than 100 percent.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2013	99	99	2	100	100	100	22040	22000	22097	22097	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2014	95	95	2	95	95	95	23650	24994	23038	23038	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2015	91	91	2	91	91	91	24204	26338	24016	24016	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2016	92	92	2	92	92	92	24687	26800	25480	25480	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2017	93	93	2	93	93	93	26658	28728	27496	27496	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2018	95	95	2	95	95	95	26482	27831	29263	29263	95	gov		R:	Estimate informed by reported data.   Programme reports one month vaccine stockout at national level.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2019	98	98	2	98		98	27459	27943	30078	30078	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2020	88	88	2	88	88	88	25512	28854	30968	30968	88	gov		R:	Estimate informed by reported data.   Programme reports vaccine stockout of unspecified duration . Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2021	99	99	2	99	99	99	25800	26167	26529	26529	99	gov		R:	Estimate informed by reported data.   Increase in coverage from prior year aligns with recovery from likely COVID-19 disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	mcv2	2022	99		2	99	99	99	26405	26753	24497	24497	99	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2009	99	99	1	99	99	99	18164	18136	16522	16522	99	gov		R:	Estimate informed by reported data.   Pneumococcal conjugate vaccine introduced in 2005, reporting started in 2009.  Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2010	97	97	2	97	97	97	18391	19032	18161	18161	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2011	98	98	2	98	98	98			20036	20036	98	gov		R:	Estimate informed by reported data.    GoC=R+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2012	92	92	2	92	92	92	20971	22635	20938	20938	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2013	99	99	2	100	100	100	23032	22930	22097	22097	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2014	94	94	2	94	94	94	23466	25036	23038	23038	94	gov		R:	Estimate informed by reported data.   Unexplained decrease in reported coverage due in part to an unexplained sudden increase in the reported target population from 2013 to 2014.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2015	95	95	1	95	95	95	25331	26364	24016	24016	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2016	97	97	2	97	97	97	25945	26870	25480	25480	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2017	98	98	2	100	98	98	29072	28728	27496	27496	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2018	98	98	2	98	98	98	27421	27834	29263	29263	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2019	98	98	1	98		98	27769	28237	30078	30078	98	admin		W:	 Estimate is based on data reported in 2018 and in line with coverage trend observed for vaccine doses with data reported for 2019.   Estimate challenged by: R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2020	98	98	2	98	98	98	28159	28872	30968	30968	98	gov		R:	Estimate informed by reported data.   Programme reports vaccine stockout of unspecified duration . Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2021	98	98	2	98	98	98	25747	26180	26529	26529	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pcv3	2022	97		2	97	97	97	25897	26773	24497	24497	97	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	1997	92	92	2	92	92	92			10505	10505	92	gov	88	R: AP	Legacy estimate.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	1998	94	94	2	94	94	94			10886	10886	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	1999	92	92	2	92	92	92			11481	11481	92	gov		R:	Estimate informed by reported data.   GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2000	91	91	1	91	91	91	8739	10344	12183	12183	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2001	93	93	2	93	93	93	11290	11998	12838	12838	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2002	96	96	2	96	96	96	11582	12100	13016	13016	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2003	93	93	2	93	93	93	11896	12777	13138	13138	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2004	95	95	2	95	95	95	12227	12913	13016	13016	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2005	98	98	2	98	98	98	12939	13524	12728	12728	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2006	95	95	2	95	95	95	13071		13145	13145	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2007	97	97	2	97	97	97	14835		14391	14391	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2008	98	98	1						15503	15503	98	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2009	98	98	1	98	98	98	17926	18136	16522	16522	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2010	98	98	2	98	98	98	18670	19032	18161	18161	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2011	92	92	2	92	92	92	18754	20283	20036	20036	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2012	93	93	2	92	93	93	20914	22635	20938	20938	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2013	99	99	2	100	100	100	23096	22930	22097	22097	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2014	99	99	2	99	99	99	24871	25036	23038	23038	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2015	99	99	1	99	99	99	26250	26364	24016	24016	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2016	98	98	2	98	98	98	26353	26870	25480	25480	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2017	97	97	2	97	97	97	27860	28728	27496	27496	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2018	98	98	2	98	98	98	27297	27863	29263	29263	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2019	99	99	2	100		100	28113	28237	30078	30078	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2020	89	89	2	89	89	89	25604	28872	30968	30968	89	gov		R:	Estimate informed by reported data.  Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2021	98	98	2	98	98	98	25714	26180	26529	26529	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	pol3	2022	99		2	99	99	99	26386	26773	24497	24497	99	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	1997	87	87	2						10505	10505				R: AP	Estimate based on estimated MCV1.    GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	1998	89	89	2						10886	10886				R:	Estimate based on estimated MCV1.    GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	1999	87	87	2						11481	11481				R:	Estimate based on estimated MCV1.    GoC=R+ S+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2000	91	91	2						12183	12183				R:	Estimate based on estimated MCV1.    GoC=R+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2001	92	92	2						12838	12838				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2002	99	99	2						13016	13016				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2003	93	93	2						13138	13138				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2004	99	99	2						13016	13016				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2005	99	99	2						12728	12728				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2006	99	99	2						13145	13145				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2007	92	92	2						14391	14391				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2008	96	96	1						15503	15503				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2009	99	99	1						16522	16522				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2010	99	99	2						18161	18161				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2011	98	98	1						20036	20036				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2012	97	97	2						20938	20938				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2013	97	97	2						22097	22097				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2014	99	99	1						23038	23038				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2015	99	99	1						24016	24016				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2016	99	99	1				28352	26830	25480	25480				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2017	99	99	2				28694	28728	27496	27496				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2018	99	99	2						29263	29263				R:	Estimate based on estimated MCV1.   Programme reports one month vaccine stockout at national level.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2019	99	99	1						30078	30078				W:	.   Estimate challenged by: R-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2020	90	90	2						30968	30968				R:	Estimate based on estimated MCV1.   Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2021	99	99	2						26529	26529				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rcv1	2022	99		2						24497	24497				R:	Estimate based on estimated MCV1.   No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2009	59	59	1	59	59	59	7469	18136	16522	16522	59	gov		R:	Estimate informed by reported data.   Rotavirus vaccine introduced in 2008, reporting started in 2009.  Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2010	55	55	1	55	55	55	7519	19032	18161	18161	55	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2011	93	93	2	93	93	93	16758	20283	20036	20036	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2012	90	90	2	90	90	90	18311	22635	20938	20938	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2013	97	97	2	97	97	97	19999	22930	22097	22097	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2014	90	90	2	90	90	90	21309	25300	23038	23038	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2015	92	92	2	82	92	92	21908	26370	24016	24016	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2016	99	99	2	91	100	100	24494	26870	25480	25480	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2017	93	93	2	93	93	93	26672	28728	27496	27496	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2018	95	95	2	95	95	95	26468	27873	29263	29263	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2019	98	98	2	98		98	27888	28438	30078	30078	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2020	86	86	2	86	86	86	24950	28894	30968	30968	86	gov		R:	Estimate informed by reported data.   Decline in reported coverage for most vaccine doses is unexplained by country but aligns with COVID-19 pandemic service disruptions.  GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2021	98	98	2	98	98	98	25537	26188	26529	26529	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Qatar	Wed Sep 06 19:03:29 2023	qat	rotac	2022	95		2	95	95	95	25458	26778	24497	24497	95	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF are aware of a planned MICS and national immunization coverage survey and await the final results.  GoC=R+ D+	

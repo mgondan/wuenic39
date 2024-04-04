@@ -1,0 +1,235 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	1997	99	99	1		100	100			3467	3467	100	gov		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate. .  Estimate challenged by: R-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	1998	85	85	2		85	85			3308	3308	85	gov		R: AP	 Estimate based on reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	1999	99	99	2		99	99			3135	3135	99	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2000	91	91	2	91	91	91	2735	3013	2957	2957	91	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2001	99	99	2	110		110	3061	3793	2793	2793	110	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2002	95	95	2	95		95			2647	2647	95	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2003	95	95	2	95		95	2404	2601	2526	2526	95	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2004	99	99	2	100	100	100		2458	2423	2423	100	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2005	97	97	1				2522	2440	2345	2345	97	interpolated		R:	Estimate informed by interpolation between reported data.  .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2006	94	94	2	94	94	94	2036	2156	2290	2290	94	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2007	99	99	2	100	100	100	2145	2145	2248	2248	100	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2008	99	99	2	100	100	100	2164	2161	2211	2211	100	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2009	97	97	2	97	97	97	2172	2233	2180	2180	97	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2010	97	97	2	97	97	97	2110	2172	2152	2152	97	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2011	99	99	1	108	108	108	2006	1857	2159	2159	108	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2012	99	99	2	107	107	107	2112	1979	2163	2163	107	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2013	99	99	2	112	112	112	2242	1998	2165	2165	112	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2014	89	89	2	89	89	89	1851	2070	2166	2166	89	gov		R:	Estimate informed by reported data.  Programme reports three months stockout of BCG vaccine at national level..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2015	99	99	2	106	106	106	2096	1986	2164	2164	106	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2016	96	96	2	96	96	96	1988	2067	2157	2157	96	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2017	88	88	2	88	88	88	1772	2021	2146	2146	88	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2018	99	99	1	105	105	105	1963	1864	2132	2132	105	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2019	95	95	2	95	95	95	1797	1896	2113	2113	95	gov		R:	Estimate informed by reported data.  Programme reports a four months supply disruption of disposable syringes..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2020	89	89	2	89	89	89	1690	1896	2091	2091	89	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2021	81	81	2	81	81	81	1484	1830	2064	2064	81	gov		R:	Estimate informed by reported data.  Programme reports five month vaccine stockout at national level..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	bcg	2022	89		2	89	89	89	1637	1842	2035	2035	89	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage Programme reports three months vaccine stockout at national and subnational levels..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	1997	98	98	1						3467	3467	76	extrapolated		W: AP	Estimate of 98 percent assigned by working group. Legacy estimate. .  GoC=No accepted empirical data	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	1998	91	91	1						3308	3308	76	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.  .  GoC=No accepted empirical data	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	1999	96	96	1						3135	3135	76	extrapolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 89.  .  GoC=No accepted empirical data	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2000	76	76	2	76	76	76	2277	3013	2957	2957	76	gov		R: AP	 Estimate is base on the reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2001	99	99	2	107		107	2988	2793	2793	2793	107	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2002	99	99	1						2647	2647	99	interpolated		R:	Estimate informed by interpolation between reported data.  .  GoC=No accepted empirical data	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2003	90	90	2	90		90	2351	2601	2526	2526	90	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2004	99	99	2	100	100	100			2423	2423	100	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2005	99	99	2	103	103	103	2506	2440	2345	2345	103	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2006	94	94	2	94	94	94	2037	2156	2290	2290	94	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2007	99	99	2		100	100			2248	2248	100	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2008	99	99	2	99	99	99	2142	2161	2211	2211	99	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2009	99	99	2	99	99	99	2199	2233	2180	2180	99	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2010	98	98	2	98	98	98	2134	2172	2152	2152	98	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2011	99	99	1	101	101	101	1871	1857	2159	2159	101	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2012	99	99	2	101	101	101	1996	1979	2163	2163	101	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2013	99	99	1	102	102	102	2038	1998	2165	2165	102	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 103.  .  Estimate challenged by: R-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2014	99	99	2	101	101	101	2099	2070	2166	2166	101	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2015	99	99	2	114	114	114	2269	1986	2164	2164	114	gov		R:	Estimate informed by reported data.  Programme reports two months national stockout..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2016	95	95	2	95	95	95	1955	2067	2157	2157	95	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2017	89	89	2	89	89	89	1795	2021	2146	2146	89	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2018	99	99	1	103	103	103	1919	1864	2132	2132	103	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2019	99	99	1	100	100	100	1890	1896	2113	2113	100	gov		R:	Estimate informed by reported data.  Programme reports a four months supply disruption of disposable syringes..  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2020	90	90	2	90	90	90	1703	1896	2091	2091	90	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2021	89	89	2	89	89	89	1636	1830	2064	2064	89	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp1	2022	92		2	92	92	92	1690	1842	2035	2035	92	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	1997	98	98	2		98	98			3467	3467	98	gov		R: AP	Legacy estimate. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	1998	88	88	2		88	88			3308	3308	88	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	1999	89	89	2		89	89			3135	3135	89	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2000	70	70	2	70	70	70	2118	3013	2957	2957	70	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2001	99	99	2	104		104	2901	2793	2793	2793	104	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2002	74	74	2	74		74			2647	2647	74	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2003	90	90	2	90		90	2179	2601	2526	2526	90	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2004	91	91	2	91	91	91			2423	2423	91	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2005	95	95	2	95	95	95	2327	2440	2345	2345	95	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2006	85	85	2	85	85	85	1837	2156	2290	2290	85	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2007	99	99	2	99	100	100	2115	2145	2248	2248	100	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2008	96	96	2	96	96	96	2071	2161	2211	2211	96	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2009	95	95	2	95	95	95	2117	2233	2180	2180	95	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2010	97	97	2	97	97	97	2099	2172	2152	2152	97	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2011	99	99	1	100	99	99	1856	1857	2159	2159	99	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2012	98	98	2	98	98	98	1948	1979	2163	2163	98	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2013	99	99	2	103	103	103	2065	1998	2165	2165	103	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2014	99	99	2	99	99	99	2054	2070	2166	2166	99	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2015	99	99	2	107	107	107	2134	1986	2164	2164	107	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2016	95	95	2	95	95	95	1967	2067	2157	2157	95	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2017	80	80	2	80	80	80	1622	2021	2146	2146	80	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2018	95	95	1	95	95	95	1774	1864	2132	2132	95	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2019	92	92	2	92	92	92	1741	1896	2113	2113	92	gov		R:	Estimate informed by reported data.  Programme reports a four months supply disruption of disposable syringes..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2020	86	86	2	86	86	86	1624	1896	2091	2091	86	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2021	80	80	2	80	80	80	1457	1830	2064	2064	80	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	dtp3	2022	81		2	81	81	81	1487	1842	2035	2035	81	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2002	14	14	2	14		14			2647	2647	14	admin		R:	Estimate informed by reported administrative data.   HepB vaccine introduced in 2002. Vaccine presentation is DTP-HepB-Hib..  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2003	84	84	2	84	84	84	2112	2601	2526	2526	84	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2004	91	91	2	91	91	91			2423	2423	91	gov		R:	Estimate informed by reported data.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2005	95	95	2	95	95	95	2321	2440	2345	2345	95	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2006	85	85	2	85	85	85	1837	2156	2290	2290	85	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2007	99	99	2	99	100	100	2115	2145	2248	2248	100	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2008	96	96	2	96	96	96	2071	2161	2211	2211	96	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2009	95	95	2	95	95	95	2117	2233	2180	2180	95	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2010	97	97	2	97	97	97	2099	2172	2152	2152	97	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2011	99	99	1	99	99	99	1856	1857	2159	2159	99	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2012	98	98	2	98	98	98	1948	1979	2163	2163	98	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2013	99	99	2	103	103	103	2065	1998	2165	2165	103	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2014	99	99	2	99	99	99	2054	2070	2166	2166	99	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2015	99	99	2	107	107	107	2134	1986	2164	2164	107	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2016	95	95	2	95		95			2157	2157	95	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2017	80	80	1	80	80	80	1622	2021	2146	2146	80	gov		W:	 Estimate based on estimated DTP3 coverage.  Fluctuation in reported data is attributed to small birth cohort..  Estimate challenged by: R-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2018	95	95	1	95	95	95	1774	1864	2132	2132	95	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2019	92	92	2	92	92	92	1741	1896	2113	2113	92	gov		R:	Estimate informed by reported data.   Programme reports a four months supply disruption of disposable syringes..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2020	86	86	2	86	86	86	1624	1896	2091	2091	86	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2021	80	80	2	80	80	80	1457	1830	2064	2064	80	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepb3	2022	81		2	81	81	81	1487	1842	2035	2035	81	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepbb	2018	17	17	1	95	95	95	318	336	2132	2132	95	gov		W:	 Programme reports 95 percent coverage achieved in 18 percent of the national target population. Estimated coverage reflects annual coverage achieved in the national target population.  Hepatitis birth dose was introduced in November 2018..  Estimate challenged by: R-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepbb	2019	85	85	2	85	85	85	1609	1896	2113	2113	85	gov		R:	Estimate informed by reported data.   Programme reports a four months supply disruption of disposable syringes.. Estimate is based on reported data following introduction.  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepbb	2020	86	86	2	86	86	86	1627	1896	2091	2091	86	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepbb	2021	94	94	1	94	94	94	1714	1830	2064	2064	94	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hepbb	2022	82		2	82	82	82	1506	1842	2035	2035	82	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage Programme reports one month vaccine stockout at national and subnational levels..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2002	14	14	2	14	14	14			2647	2647	14	gov		R:	Estimate informed by reported data.   Hib vaccine introduced in 2002. Vaccine presentation is DTP-HepB-Hib..  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2003	84	84	2	84	84	84	2112	2601	2526	2526	84	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2004	91	91	2	91	91	91			2423	2423	91	gov		R:	Estimate informed by reported data.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2005	95	95	2	95	95	95	2326	2440	2345	2345	95	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2006	85	85	2	85	85	85	1837	2156	2290	2290	85	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2007	99	99	2	99	100	100	2115	2145	2248	2248	100	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2008	96	96	2	96	96	96	2071	2161	2211	2211	96	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2009	95	95	2	95	95	95	2117	2233	2180	2180	95	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2010	97	97	2	97	97	97	2099	2172	2152	2152	97	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2011	99	99	1	99	99	99	1856	1857	2159	2159	99	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2012	98	98	2	98	98	98	1948	1979	2163	2163	98	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2013	99	99	2	103	103	103	2065	1998	2165	2165	103	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2014	99	99	2	99	99	99	2054	2070	2166	2166	99	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2015	99	99	2	107	107	107	2134	1986	2164	2164	107	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2016	95	95	2	95		95			2157	2157	95	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2017	80	80	1	80	80	80	1622	2021	2146	2146	80	gov		W:	 Estimate based on estimated DTP3 coverage.  Fluctuation in reported data is attributed to small birth cohort..  Estimate challenged by: R-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2018	95	95	1	95	95	95	1774	1864	2132	2132	95	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2019	92	92	2	92	92	92	1741	1896	2113	2113	92	gov		R:	Estimate informed by reported data.   Programme reports a four months supply disruption of disposable syringes..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2020	86	86	2	86	86	86	1624	1896	2091	2091	86	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2021	80	80	2	80	80	80	1457	1830	2064	2064	80	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	hib3	2022	81		2	81	81	81	1487	1842	2035	2035	81	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	ipv1	2015	21	21	2	21	21	21	415	1986	2164	2164	21	gov		R:	Estimate informed by reported data.   Inactivated polio vaccine introduced in November 2015..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	ipv1	2016	95	95	2	95	95	95	1955	2067	2157	2157	95	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	ipv1	2017	89	89	2	89	89	89	1795	2021	2146	2146	89	gov		R:	Estimate informed by reported data.   Fluctuation in reported data is attributed to small birth cohort. Country reports stockout of two months..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	ipv1	2018	99	99	1	103	103	103	1919	1864	2132	2132	103	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	ipv1	2019	99	99	1	100	100	100	1889	1896	2113	2113	100	gov		R:	Estimate informed by reported data.   Programme reports a four months supply disruption of disposable syringes. Programme reports one month national level vaccine stockout..  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	ipv1	2020	90	90	2	90	90	90	1705	1896	2091	2091	90	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	ipv1	2021	90	90	1	90	90	90	1643	1830	2064	2064	90	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	ipv1	2022	90		2	90	90	90	1652	1842	2035	2035	90	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage Programme reports four months vaccine stockout at national and subnational levels..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	1997	95	95	2		95	95			3467	3467	95	gov		R: AP	Legacy estimate. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	1998	90	90	2		90	90			3308	3308	90	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	1999	95	95	2		95	95			3135	3135	95	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2000	88	88	2		88	88			2957	2957	88	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2001	89	89	2	89		89	2498	2793	2793	2793	89	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2002	98	98	2	98		98			2647	2647	98	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2003	90	90	2	90		90	2394	2793	2526	2526	90	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2004	95	95	2	95	95	95			2423	2423	95	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2005	94	94	2	94	94	94	2298	2440	2345	2345	94	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2006	94	94	2	94	94	94	2024	2156	2290	2290	94	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2007	94	94	2	94	94	94	2019	2156	2248	2248	94	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2008	99	99	2	100	100	100	2155	2161	2211	2211	100	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2009	99	99	2	101	101	101	2184	2161	2180	2180	101	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2010	95	95	2	95	95	95	2134	2243	2152	2152	95	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2011	91	91	2	91	91	91	1965	2172	2159	2159	91	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2012	99	99	1	103	103	103	1912	1857	2163	2163	103	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2013	99	99	2	101	101	101	2035	2009	2165	2165	101	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2014	99	99	2	102	102	102	2029	1998	2166	2166	102	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2015	97	97	2	97	97	97	1998	2070	2164	2164	97	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2016	99	99	2	105	105	105	2085	1986	2157	2157	105	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2017	87	87	2	87	87	87	1873	2146	2146	2146	87	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2018	86	86	2	86	86	86	1728	2006	2132	2132	86	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2019	96	96	1	96	96	96	1786	1864	2113	2113	96	gov		R:	Estimate informed by reported data.  Programme reports a four months supply disruption of disposable syringes. Programme reports two months national level vaccine stockout..  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2020	89	89	2	89	89	89	1695	1896	2091	2091	89	gov		R:	Estimate informed by reported data.  Programme reports a two months vaccine stockout at the national and subnational levels..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2021	77	77	2	77	77	77	1403	1830	2064	2064	77	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv1	2022	81		2	81	81	81	1497	1842	2035	2035	81	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage Programme reports two months vaccine stockout at national and subnational levels..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2000	89	89	2	89	89	89	2650	2969	2957	2957	89	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2001	73	73	2	73		73	2198	3013	2793	2793	73	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2002	71	71	1						2647	2647	71	interpolated		R:	Estimate informed by interpolation between reported data.  .  GoC=No accepted empirical data	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2003	69	69	1						2526	2526	69	interpolated		R:	Estimate informed by interpolation between reported data.  .  GoC=No accepted empirical data	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2004	67	67	2		67	67			2423	2423	67	gov		R:	Estimate informed by reported data.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2005	56	56	1						2345	2345	56	interpolated		R:	Estimate informed by interpolation between reported data.  .  GoC=No accepted empirical data	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2006	45	45	1						2290	2290	45	interpolated		R:	Estimate informed by interpolation between reported data.  .  GoC=No accepted empirical data	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2007	33	33	1						2248	2248	33	interpolated		R:	Estimate informed by interpolation between reported data.  .  GoC=No accepted empirical data	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2008	22	22	2	22		22	568	2601	2211	2211	22	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2009	63	63	2	63		63	1533	2435	2180	2180	63	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2010	74	74	1	74	74	74	1812	2450	2152	2152	74	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2011	72	72	2	72	72	72	1486	2074	2159	2159	72	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2012	80	80	2	80	80	80	1658	2074	2163	2163	80	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2013	62	62	2	62	62	62	1412	2265	2165	2165	62	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2014	79	79	2	79	79	79	1729	2192	2166	2166	79	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2015	95	95	1	95	95	95	1790	1882	2164	2164	95	gov		R:	Estimate informed by reported data.   Increase in coverage may reflect doses administered during vaccination intensification activities..  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2016	88	88	2	88	88	88	1755	1986	2157	2157	88	gov		R:	Estimate informed by reported data.   Recommended age for MMR2 changed from pre-school age to 18 months..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2017	73	73	2	73	73	73	1562	2146	2146	2146	73	gov		R:	Estimate informed by reported data.   Fluctuation in reported data is attributed to small birth cohort..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2018	68	68	2	68	68	68	1362	2006	2132	2132	68	gov		R:	Estimate informed by reported data.   Reported coverage does not reflect doses administered late, e.g., after 24 month of age..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2019	75	75	2	75	75	75	1397	1864	2113	2113	75	gov		R:	Estimate informed by reported data.   Programme reports a four months supply disruption of disposable syringes. Programme reports two months national level vaccine stockout..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2020	71	71	2	71	71	71	1355	1896	2091	2091	71	gov		R:	Estimate informed by reported data.   Programme reports a two months vaccine stockout at the national and subnational levels..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2021	66	66	2	66	66	66	1246	1896	2064	2064	66	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	mcv2	2022	63		2	63	63	63	1145	1830	2035	2035	63	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	1997	98	98	2		98	98			3467	3467	98	gov		R: AP	Legacy estimate. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	1998	88	88	2		88	88			3308	3308	88	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	1999	89	89	2		89	89			3135	3135	89	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2000	70	70	2	70	70	70	2118	3013	2957	2957	70	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2001	99	99	2	105		105	2925	2793	2793	2793	105	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2002	90	90	2	90		90			2647	2647	90	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2003	91	91	2	91		91	2199	2601	2526	2526	91	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2004	91	91	2	91	91	91			2423	2423	91	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2005	95	95	2	95	95	95	2327	2440	2345	2345	95	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2006	85	85	2	85	85	85	1839		2290	2290	85	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2007	99	99	2	99	100	100	2115		2248	2248	100	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2008	96	96	2	96	96	96	2071	2161	2211	2211	96	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2009	95	95	2	95	95	95	2111	2233	2180	2180	95	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2010	97	97	2	97	97	97	2099	2172	2152	2152	97	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2011	99	99	1	100	99	99	1856	1857	2159	2159	99	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2012	98	98	2	98	98	98	1948	1979	2163	2163	98	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2013	99	99	2	103	103	103	2065	1998	2165	2165	103	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2014	99	99	2		99	99			2166	2166	99	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2015	99	99	2	107	107	107	2134	1986	2164	2164	107	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2016	95	95	2	95	95	95	1967	2067	2157	2157	95	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2017	80	80	2	80	80	80	1622	2021	2146	2146	80	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2018	95	95	1	95	95	95	1774	1864	2132	2132	95	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2019	91	91	2	91	91	91	1724	1896	2113	2113	91	gov		R:	Estimate informed by reported data.  Programme reports a four months supply disruption of disposable syringes. Programme reports one month national level vaccine stockout..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2020	88	88	2	88	88	88	1675	1896	2091	2091	88	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2021	75	75	2	75	75	75	1368	1830	2064	2064	75	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	pol3	2022	80		2	80	80	80	1482	1842	2035	2035	80	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage Programme reports one month vaccine stockout at national and subnational levels..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	1997	95	95	2						3467	3467				R: AP	Estimate based on estimated MCV1.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	1998	90	90	2						3308	3308				R:	Estimate based on estimated MCV1.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	1999	95	95	2						3135	3135				R:	Estimate based on estimated MCV1.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2000	88	88	2						2957	2957				R:	Estimate based on estimated MCV1.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2001	89	89	2						2793	2793				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2002	98	98	2						2647	2647				R:	Estimate based on estimated MCV1.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2003	90	90	2						2526	2526				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2004	95	95	2						2423	2423				R:	Estimate based on estimated MCV1.  .  GoC=R+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2005	94	94	2						2345	2345				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2006	94	94	2						2290	2290				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2007	94	94	2						2248	2248				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2008	99	99	2						2211	2211				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2009	99	99	2						2180	2180				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2010	95	95	2						2152	2152				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2011	91	91	2						2159	2159				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2012	99	99	1						2163	2163				R:	Estimate based on estimated MCV1.  .  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2013	99	99	2						2165	2165				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2014	99	99	2						2166	2166				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2015	97	97	2						2164	2164				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2016	99	99	2						2157	2157				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2017	87	87	2						2146	2146				R:	Estimate based on estimated MCV1.   Fluctuation in reported data is attributed to small birth cohort..  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2018	86	86	2						2132	2132				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2019	96	96	1						2113	2113				R:	Estimate based on estimated MCV1.   Programme reports a four months supply disruption of disposable syringes..  Estimate challenged by: D-	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2020	89	89	2						2091	2091				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2021	77	77	2						2064	2064				R:	Estimate based on estimated MCV1.  .  GoC=R+ D+	
+Saint Lucia	Wed Sep 06 18:54:54 2023	lca	rcv1	2022	81		2						2035	2035				R:	Estimate based on estimated MCV1.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	

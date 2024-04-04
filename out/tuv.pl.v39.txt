@@ -1,0 +1,245 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	1997	99	99	1	100	100	100			274	274	100	gov		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	1998	99	99	1	100	100	100			267	267	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	1999	99	99	1	100	100	100	215	215	259	259	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: D-R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2000	99	99	1	99	100	100	313		251	251	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: D-R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2001	99	99	1	100	100	100	231	231	244	244	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2002	99	99	1	100	100	100	204	204	237	237	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: D-R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2003	99	99	1	100	100	100			231	231	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2004	99	99	1	100	100	100	253	253	228	228	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: D-R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2005	99	99	1	100	100	100	294	294	228	228	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: D-R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2006	99	99	1	100	100	100	224	224	235	235	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.  Survey results ignored. Sample size 80 less than 300.   Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2007	99	99	1	100	100	100	299	299	229	229	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: D-R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2008	99	99	1	100	100	100	281	281	229	229	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: D-R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2009	99	99	1	100	100	100	265	265	231	231	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: D-R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2010	99	99	1	100	100	100	241	241	235	235	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2011	99	99	1	100	100	100	244	244	240	240	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2012	99	99	1	100	100	100	233	233	246	246	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2013	99	99	1	100	100	100	250	250	245	245	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2014	99	99	1	100	100	100	258	258	244	244	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2015	99	99	1	100	100	100	228	228	245	245	100	gov		C:	Reported data calibrated to 1997 and 2016 levels.    Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2016	99	99	2	99	99	99	232	234	248	248	99	gov		R: AP	 Estimate based on reported data supported by survey results for following year cohort.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2017	99	99	2	99	100	100	230	233	251	251	100	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 99 less than 300.  Survey results support reported coverage.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2018	99	99	2	100	100	100	250	250	256	256	100	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 112 less than 300.  Survey results support reported coverage.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2019	99	99	2	100	100	100	267	267	259	259	100	gov		R:	Estimate informed by reported data.  Programme reports one-half month vaccine stockout.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2020	99	99	1	100	100	100	327	327	262	262	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2021	99	99	2	100	100	100	281	281	263	263	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	bcg	2022	99		2	100	100	100	285	285	265	265	100	gov		R:	Estimate informed by reported data.  Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	1997	91	91	1						274	274	80	extrapolated		W: AP	Estimate of 91 percent assigned by working group. Legacy estimate.   GoC=No accepted empirical data	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	1998	98	98	1						267	267	80	extrapolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 94.    GoC=No accepted empirical data	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	1999	84	84	1						259	259	80	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2000	93	93	1	82	80	80	215		251	251	80	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 82.    Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2001	99	99	2	100	100	100	231	231	244	244	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2002	99	99	1	100	100	100	204	204	237	237	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2003	99	99	2		100	100			231	231	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2004	99	99	1	100	100	100	253	253	228	228	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2005	99	99	1	100	100	100	294	294	228	228	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2006	99	99	2	99	99	99	218	221	235	235	99	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 80 less than 300.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2007	99	99	1	100	100	100	299	299	229	229	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2008	99	99	1	100	100	100	281	281	229	229	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2009	97	97	1	97	97	97	257	262	231	231	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2010	99	99	1	100	100	100	280	280	235	235	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2011	99	99	1	100	100	100	285	285	240	240	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2012	99	99	1	100	100	100	277	277	246	246	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2013	99	99	1	100	100	100	285	285	245	245	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2014	99	99	1	100	100	100	283	283	244	244	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2015	99	99	2	100	100	100	265	265	245	245	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2016	99	99	2	99	99	99	270	272	248	248	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2017	99	99	1	100	100	100	280	280	251	251	100	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 99 less than 300.  Survey results support reported coverage.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2018	99	99	1	99	100	100	287	289	256	256	100	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 112 less than 300.  Survey results support reported coverage.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2019	99	99	1	100	100	100	307	307	259	259	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2020	99	99	1	100	100	100	336	336	262	262	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2021	99	99	2	99	99	99	283	286	263	263	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp1	2022	99		2	100	100	100	290	290	265	265	100	gov		R:	Estimate informed by reported data.  Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	1997	77	77	2	77	77	77			274	274	77	gov		R: AP	Legacy estimate.   GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	1998	94	94	2	100	94	94			267	267	94	gov		R:	Estimate informed by reported data.  .  GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	1999	83	83	1	90	83	83	181	215	259	259	83	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2000	82	82	2	75	82	82	181		251	251	82	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2001	96	96	2	96	96	96	222	231	244	244	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2002	98	98	1	98	98	98	200	204	237	237	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2003	93	93	2	93	93	93			231	231	93	gov		R:	Estimate informed by reported data.    GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2004	98	98	1	98	98	98	247	253	228	228	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2005	93	93	1	93	93	93	273	294	228	228	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2006	97	97	2	97	97	97	215	221	235	235	97	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 80 less than 300. Tuvalu Demographic and Health Survey 2007 card or history results of 62 percent modifed for recall bias to 78 percent based on 1st dose card or history coverage of 78 percent, 1st dose card only coverage of 33 percent and 3rd dose card only coverage of 33 percent.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2007	97	97	1	97	97	97	292	299	229	229	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2008	99	99	1	99	99	99	278	280	229	229	99	gov		R: AP	.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2009	88	88	1	88	88	88	232	262	231	231	88	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2010	89	89	1	89	89	89	250	280	235	235	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2011	96	96	1	96	96	96	274	285	240	240	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2012	97	97	1	97	97	97	268	277	246	246	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2013	90	90	1	90	90	90	257	285	245	245	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2014	89	89	1	89	89	89	252	282	244	244	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2015	96	96	2	96	96	96	255	265	245	245	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2016	94	94	2	94	94	94	257	272	248	248	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2017	96	96	1	96	96	96	268	280	251	251	96	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 99 less than 300. Tuvalu Multiple Indicator Cluster Survey 2019-2020 card or history results of 71 percent modifed for recall bias to 96 percent based on 1st dose card or history coverage of 96 percent, 1st dose card only coverage of 36 percent and 3rd dose card only coverage of 36 percent.  Survey results support reported coverage.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2018	89	89	1	89	89	89	258	289	256	256	89	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 112 less than 300. Tuvalu Multiple Indicator Cluster Survey 2019-2020 card or history results of 80 percent modifed for recall bias to 99 percent based on 1st dose card or history coverage of 97 percent, 1st dose card only coverage of 53 percent and 3rd dose card only coverage of 54 percent.  Survey results support reported coverage.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2019	92	92	1	92	92	92	283	307	259	259	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2020	95	95	1	95	95	95	319	336	262	262	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2021	94	94	2	94	94	94	269	286	263	263	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	dtp3	2022	91		2	91	91	91	263	290	265	265	91	gov		R:	Estimate informed by reported data.  Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	1997	88	88	2	88	88	88			274	274	88	gov		R: AP	Legacy estimate.   GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	1998	96	96	2	80	96	96			267	267	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	1999	93	93	1	92	93	93	95	102	259	259	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2000	81	81	1	81	81	81	116		251	251	81	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2001	99	99	1	99	99	99	118	119	244	244	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2002	99	99	1	99	99	99	135	136	237	237	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2003	95	95	2	95	95	95			231	231	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2004	98	98	1	98	98	98	125	127	228	228	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2005	79	79	1	79	79	79	232	294	228	228	79	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2006	97	97	2	97	97	97	215	221	235	235	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2007	97	97	1	97	97	97	292	299	229	229	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2008	99	99	1	99	99	99	278	280	229	229	99	gov		R: AP	.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2009	91	91	1	91	91	91	242	262	231	231	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2010	89	89	1	89	89	89	250	280	235	235	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2011	96	96	1	96	96	96	274	285	240	240	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2012	97	97	1	97	97	97	268	277	246	246	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2013	90	90	1	90	90	90	257	285	245	245	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2014	89	89	1	89	89	89	252	282	244	244	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2015	96	96	2	96	96	96	255	265	245	245	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2016	94	94	2	94	94	94	257	272	248	248	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2017	96	96	1	96	96	96	268	280	251	251	96	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 99 less than 300. Tuvalu Multiple Indicator Cluster Survey 2019-2020 card or history results of 71 percent modifed for recall bias to 96 percent based on 1st dose card or history coverage of 96 percent, 1st dose card only coverage of 36 percent and 3rd dose card only coverage of 36 percent.  Survey results support reported coverage.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2018	89	89	1	89	89	89	258	289	256	256	89	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 112 less than 300. Tuvalu Multiple Indicator Cluster Survey 2019-2020 card or history results of 80 percent modifed for recall bias to 99 percent based on 1st dose card or history coverage of 97 percent, 1st dose card only coverage of 53 percent and 3rd dose card only coverage of 54 percent.  Survey results support reported coverage.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2019	92	92	1	92	92	92	283	307	259	259	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2020	93	93	1	93	93	93	311	336	262	262	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2021	94	94	2	94	94	94	269	286	263	263	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepb3	2022	91		2	91	91	91	263	290	265	265	91	gov		R:	Estimate informed by reported data.  Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2000	99	99	1	86	100	100	213		251	251	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2001	92	92	1	60	60	60	139	231	244	244	92	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded due to decline in reported coverage from 100 percent to 60 percent with increase to 83 percent.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2002	83	83	1	83	83	83	130	156	237	237	83	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2003	90	90	2	90		90			231	231	90	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2004	91	91	2	91	91	91	229	253	228	228	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2005	99	99	1	99	100	100	292	294	228	228	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2006	99	99	2	100	100	100	224	224	235	235	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2007	99	99	1	100	100	100	299	299	229	229	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2008	99	99	1	98	100	100	277	281	229	229	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2009	99	99	1	97	100	100	258	265	231	231	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2010	99	99	2	99	99	99	238	241	235	235	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2011	98	98	2	98	98	98	239	244	240	240	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2012	99	99	2	100	100	100	233	233	246	246	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2013	97	97	2	97	97	97	243	250	245	245	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2014	99	99	2	99	99	99	256	258	244	244	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2015	98	98	2	98	98	98	224	228	245	245	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2016	99	99	2	99	99	99	232	234	248	248	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2017	99	99	2	99	99	99	230	233	251	251	99	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 99 less than 300.  Survey results support reported coverage.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2018	99	99	2	99	99	99	247	250	256	256	99	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 112 less than 300.  Survey results support reported coverage.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2019	98	98	2	98	98	98	263	267	259	259	98	gov		R:	Estimate informed by reported data.   Programme reports one-half month vaccine stockout.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2020	99	99	1	99	99	99	325	327	262	262	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2021	99	99	2	100	100	100	280	281	263	263	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hepbb	2022	99		2	100	100	100	284	285	265	265	100	gov		R:	Estimate informed by reported data.   Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2009	84	84	1	84	84	84	220	262	231	231	84	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2010	89	89	1	89	89	89	250	280	235	235	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2011	96	96	1	96	96	96	274	285	240	240	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2012	97	97	1	97	97	97	268	277	246	246	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2013	90	90	1	90	90	90	257	285	245	245	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2014	89	89	1	89	89	89	252	282	244	244	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2015	96	96	2	96	96	96	255	265	245	245	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2016	94	94	2	94	94	94	257	272	248	248	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2017	96	96	1	96	96	96	268	280	251	251	96	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 99 less than 300. Tuvalu Multiple Indicator Cluster Survey 2019-2020 card or history results of 71 percent modifed for recall bias to 96 percent based on 1st dose card or history coverage of 96 percent, 1st dose card only coverage of 36 percent and 3rd dose card only coverage of 36 percent.  Survey results support reported coverage.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2018	89	89	1	89	89	89	258	289	256	256	89	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 112 less than 300. Tuvalu Multiple Indicator Cluster Survey 2019-2020 card or history results of 80 percent modifed for recall bias to 99 percent based on 1st dose card or history coverage of 97 percent, 1st dose card only coverage of 53 percent and 3rd dose card only coverage of 54 percent.  Survey results support reported coverage.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2019	92	92	1	92	92	92	283	307	259	259	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2020	93	93	1	93	93	93	311	336	262	262	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2021	94	94	2	94	94	94	269	286	263	263	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	hib3	2022	91		2	91	91	91	263	290	265	265	91	gov		R:	Estimate informed by reported data.   Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	ipv1	2015	99	99	2	100	100	100	265	265	245	245	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	ipv1	2016	99	99	2	99	99	99	270	272	248	248	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	ipv1	2017	99	99	1	100	100	100	280	280	251	251	100	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 99 less than 300.  Survey results support reported coverage.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	ipv1	2018	99	99	1	99	100	100	287	289	256	256	100	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 112 less than 300.  Survey results support reported coverage.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	ipv1	2019	99	99	1	100	100	100	307	307	259	259	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	ipv1	2020	99	99	1	100	100	100	336	336	262	262	100	gov		R:	Estimate informed by reported data.   Programme reports a two months vaccine stockout at national and subnational levels.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	ipv1	2021	99	99	2	99	99	99	283	286	263	263	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	ipv1	2022	99		2	100	100	100	290	290	265	265	100	gov		R:	Estimate informed by reported data.   Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	1997	99	99	1	100	100	100			274	274	100	gov		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	1998	96	96	2	96	96	96			267	267	96	gov		R: AP	 Estimate based on reported data.   GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	1999	94	94	1	94	94	94	96	102	259	259	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2000	81	81	2	81	81	81			251	251	81	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2001	99	99	1	100	100	100	119	119	244	244	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2002	99	99	1	99	99	99	135	136	237	237	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2003	95	95	2	95	95	95			231	231	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2004	97	97	1	98	97	97	125	127	228	228	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2005	62	62	1	79	62	62	232	294	228	228	62	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2006	84	84	1	84	84	84	170	202	235	235	84	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 80 less than 300.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2007	95	95	2	95	95	95	238	250	229	229	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2008	93	93	1	93	93	93	270	290	229	229	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2009	90	90	1	90	90	90	267	297	231	231	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2010	85	85	1	85	85	85	240	283	235	235	85	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2011	98	98	1	98	98	98	269	275	240	240	98	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2012	98	98	1	98	98	98	290	297	246	246	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2013	96	96	1	96	96	96	265	276	245	245	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2014	94	94	1	94	94	94	267	285	244	244	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2015	94	94	1	95	94	94	268	282	245	245	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2016	96	96	1	96	96	96	266	277	248	248	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2017	95	95	2	95	95	95	263	278	251	251	95	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 99 less than 300.  Survey results support reported coverage.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2018	88	88	2	88	88	88	247	280	256	256	88	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 112 less than 300.  Survey results support reported coverage.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2019	96	96	1	96	96	96	289	300	259	259	96	gov		R:	Estimate informed by reported data.  Programme reports national level vaccine stockout of unknown duration.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2020	93	93	1	93	93	93	298	321	262	262	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2021	93	93	1	93	93	93	306	328	263	263	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv1	2022	90		2	90	90	90	244	271	265	265	90	gov		R:	Estimate informed by reported data.  Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2001	99	99	1	100	100	100	1107	1110	244	244	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2002	97	97	1						237	237	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2003	93	93	1						231	231	93	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2004	90	90	1						228	228	90	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2005	86	86	1						228	228	86	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2006	83	83	2	83	83	83	172	208	235	235	83	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2007	74	74	2	74	74	74	177	237	229	229	74	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2008	82	82	1	82	82	82	220	270	229	229	82	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2009	84	84	1	84	84	84	250	297	231	231	84	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2010	87	87	2	70	70	70	200	284	235	235	87	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded due to decline in reported coverage from 84 percent to 70 percent with increase to 90 percent.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2011	90	90	1	90	90	90	260	290	240	240	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2012	93	93	1	93	93	93	270	290	246	246	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2013	84	84	1	84	84	84	233	277	245	245	84	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2014	91	91	1	91	91	91	250	274	244	244	91	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2015	86	86	1	86	86	86	236	273	245	245	86	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2016	92	92	1	92	92	92	276	300	248	248	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2017	94	94	1	95	94	94	263	278	251	251	94	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 99 less than 300.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2018	81	81	2	81	81	81	212	262	256	256	81	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 112 less than 300.  .  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2019	92	92	2	92	92	92	253	274	259	259	92	gov		R:	Estimate informed by reported data.   Programme reports national level vaccine stockout of unknown duration. Estimate is based on reported data consistent with other antigens.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2020	85	85	1	85	85	85	288	337	262	262	85	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2021	84	84	1	84	84	84	266	316	263	263	84	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	mcv2	2022	89		2	89	89	89	247	277	265	265	89	gov		R:	Estimate informed by reported data.   Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pcv3	2022	83		2	83	83	83	242	290	265	265	83	gov		R:	Estimate informed by reported data.   Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results. Pneumococcal conjugate vaccine introduced during 2021. Reporting began in 2022.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	1997	80	80	2	80	80	80			274	274	80	gov		R: AP	Legacy estimate.   GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	1998	78	78	2	100	78	78			267	267	78	gov		R:	Estimate informed by reported data.   GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	1999	84	84	1	84	84	84	179	215	259	259	84	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2000	82	82	1	82	82	82	318		251	251	82	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2001	96	96	2	96	96	96	222	231	244	244	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2002	98	98	1	98	98	98	200	204	237	237	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2003	93	93	2	93	93	93			231	231	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2004	98	98	1	98	98	98	247	253	228	228	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2005	99	99	1	93	100	100	273	294	228	228	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2006	97	97	2	97	97	97	215		235	235	97	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 80 less than 300. Tuvalu Demographic and Health Survey 2007 card or history results of 60 percent modifed for recall bias to 73 percent based on 1st dose card or history coverage of 80 percent, 1st dose card only coverage of 33 percent and 3rd dose card only coverage of 30 percent.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2007	97	97	1	97	97	97	292		229	229	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2008	99	99	1	99	99	99	278	280	229	229	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2009	85	85	1	85	85	85	224	262	231	231	85	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2010	89	89	1	89	89	89	250	280	235	235	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2011	96	96	1	96	96	96	274	285	240	240	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2012	97	97	1	97	97	97	268	277	246	246	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2013	90	90	1	90	90	90	257	285	245	245	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2014	89	89	1	89	89	89	252	282	244	244	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2015	96	96	2	96	96	96	255	265	245	245	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2016	94	94	2	94	94	94	257	272	248	248	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2017	96	96	1	96	96	96	268	280	251	251	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2018	89	89	1	89	89	89	258	289	256	256	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2019	92	92	1	92	92	92	283	307	259	259	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2020	90	90	1	90	90	90	304	336	262	262	90	gov		R:	Estimate informed by reported data.  Programme reports a two months vaccine stockout at national and subnational levels.  Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2021	87	87	2	87	87	87	250	286	263	263	87	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	pol3	2022	90		2	90	90	90	262	290	265	265	90	gov		R:	Estimate informed by reported data.  Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2005	62	62	1						228	228				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2006	84	84	1						235	235				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2007	95	95	2						229	229				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2008	93	93	1						229	229				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2009	90	90	1						231	231				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2010	85	85	1						235	235				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2011	98	98	1						240	240				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2012	98	98	1						246	246				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2013	96	96	1						245	245				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2014	94	94	1						244	244				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2015	94	94	1				268	282	245	245				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2016	96	96	1				266	277	248	248				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2017	95	95	2				263	278	251	251				R:	Estimate based on estimated MCV1.  Survey results ignored. Sample size 99 less than 300.  Survey results support reported coverage.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2018	88	88	2						256	256				R:	Estimate based on estimated MCV1.  Survey results ignored. Sample size 112 less than 300.  Survey results support reported coverage.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2019	96	96	1						259	259				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2020	93	93	1						262	262				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2021	93	93	1						263	263				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rcv1	2022	90		2						265	265				R:	Estimate based on estimated MCV1.   Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rotac	2021	59	59	1	92	92	92	170	185	263	263	92	gov		W:	 Rotavirus vaccine introduced during 2021. Reporting began in 2021. Reported coverage reflects that achieved in 65 percent of the national target population. Estimated coverage reflects that achieved in the annual total target population.   Estimate challenged by: R-	
+Tuvalu	Wed Sep 06 19:09:40 2023	tuv	rotac	2022	89		2	89	89	89	258	290	265	265	89	gov		R:	Estimate informed by reported data.   Programme reports a planned coverage survey during 2023-24. WHO and UNICEF await the final results.  GoC=R+ D+	

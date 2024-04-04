@@ -1,0 +1,243 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	1997	96	96	1						20307	20307	90	extrapolated		W: AP	Estimate of 96 percent assigned by working group. Legacy estimate.   GoC=No accepted empirical data	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	1998	94	94	1						20169	20169	90	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	1999	92	92	1						20283	20283	90	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.  Survey results ignored. Sample size 187 less than 300.   GoC=No accepted empirical data	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2000	90	90	1	90	90	90	16154	17956	20304	20304	90	gov		R: AP	 Estimate is based on the reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2001	91	91	1	91	91	91	16221	17929	20308	20308	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2002	98	98	1		90	90			20246	20246	90	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 96.    Estimate challenged by: R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2003	93	93	1	93	93	93	15574	16819	20325	20325	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2004	98	98	1		91	91			20297	20297	91	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 94.  Survey results ignored. Sample size 215 less than 300.   Estimate challenged by: R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2005	98	98	1		94	94	15515		20431	20431	94	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 95.    Estimate challenged by: D-R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2006	93	93	1	93	93	93	15850	17021	20803	20803	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2007	90	90	1	90	90	90	16136	17940	21113	21113	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2008	91	91	1	91		91	16661	18367	21186	21186	91	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2009	95	95	2	95	95	95	18320	19361	20870	20870	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2010	96	96	1	89	89	89	16715	18747	20949	20949	89	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 90.    Estimate challenged by: D-R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2011	96	96	1	89	89	89	16715	18747	21001	21001	89	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 90.    Estimate challenged by: D-R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2012	97	97	1	92	87	87	16491	17855	20850	20850	87	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 92.    Estimate challenged by: D-R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2013	94	94	1	94	94	94	16457	17571	20582	20582	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2014	93	93	1	93	93	93	16437	17727	20253	20253	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2015	98	98	1	91	91	91	16223	17798	19866	19866	91	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 96.    Estimate challenged by: D-R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2016	97	97	1	97	97	97	15991	16567	19529	19529	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2017	96	96	1	87	87	87	14249	16360	19076	19076	87	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 89.    Estimate challenged by: D-R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2018	99	99	1	100	100	100	15264	15286	18670	18670	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2019	97	97	1	91	91	91	14786	16186	18904	18904	91	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 93.    Estimate challenged by: D-R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2020	98	98	1	92	92	92	14006	15158	18119	18119	92	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 96.    Estimate challenged by: D-R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2021	95	95	1	95	95	95	13196	13826	17814	17814	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp1	2022	97		1	92	92	92	12239	13238	17429	17429	92	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 93.   WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	1997	90	90	2		90	90			20307	20307	90	gov		R: AP	Legacy estimate.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	1998	91	91	2		91	91			20169	20169	91	gov		R:	Estimate informed by reported data.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	1999	90	90	2	90	90	90			20283	20283	90	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 187 less than 300. Trinidad and Tobago Multiple Indicator Cluster Survey 2000, Preliminary Report card or history results of 81 percent modifed for recall bias to 91 percent based on 1st dose card or history coverage of 91 percent, 1st dose card only coverage of 72 percent and 3rd dose card only coverage of 72 percent.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2000	90	90	1	90	90	90	16170	17956	20304	20304	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2001	91	91	1	91	91	91	16387	17929	20308	20308	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2002	96	96	2	96	96	96			20246	20246	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2003	91	91	1	91	91	91	15232	16819	20325	20325	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2004	94	94	2		94	94			20297	20297	94	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 215 less than 300. Trinidad and Tobago Multiple Indicator Cluster Survey 3, 2006 card or history results of 77 percent modifed for recall bias to 81 percent based on 1st dose card or history coverage of 86 percent, 1st dose card only coverage of 73 percent and 3rd dose card only coverage of 69 percent.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2005	95	95	1		95	95	15825		20431	20431	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2006	92	92	1	92	92	92	15607	17021	20803	20803	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2007	88	88	1	88	88	88	15766	17940	21113	21113	88	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2008	90	90	1	90		90	16579	18367	21186	21186	90	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2009	90	90	2	90	90	90	17468	19361	20870	20870	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2010	90	90	2	90	90	90	16821	18747	20949	20949	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2011	90	90	2	90	90	90	16821	18747	21001	21001	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2012	92	92	1	92	92	92	16441	17855	20850	20850	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2013	92	92	1	92	92	92	16124	17571	20582	20582	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2014	92	92	1	92	92	92	16286	17727	20253	20253	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2015	96	96	2	96	96	96	17098	17798	19866	19866	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2016	97	97	1	97	97	97	16148	16567	19529	19529	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2017	89	89	1	89	89	89	14483	16360	19076	19076	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2018	99	99	1	100	100	100	15263	15286	18670	18670	100	gov		R:	Estimate informed by reported data. .  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2019	93	93	1	93	93	93	15073	16186	18904	18904	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2020	96	96	1	96	96	96	14597	15158	18119	18119	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2021	94	94	1	94	94	94	13055	13826	17814	17814	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	dtp3	2022	93		1	93	93	93	12323	13238	17429	17429	93	gov		R:	Estimate informed by reported data.  WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2002	5	5	2		5	5			20246	20246	5	gov		R:	Estimate informed by reported data.   HepB vaccine introduced nationally in 2003, reporting started in 2002. Vaccine presentation is DTP-HepB-Hib.  GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2003	76	76	1	76		76	12827	16819	20325	20325	76	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2004	94	94	2		94	94			20297	20297	94	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 215 less than 300. Trinidad and Tobago Multiple Indicator Cluster Survey 3, 2006 card or history results of 74 percent modifed for recall bias to 78 percent based on 1st dose card or history coverage of 82 percent, 1st dose card only coverage of 68 percent and 3rd dose card only coverage of 65 percent.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2005	95	95	1		95	95	16173		20431	20431	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2006	89	89	1	89	89	89	15062	17021	20803	20803	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2007	89	89	1	89	89	89	15934	17940	21113	21113	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2008	90	90	1	90		90	16579	18367	21186	21186	90	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2009	90	90	2	90	90	90	17468	19361	20870	20870	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2010	90	90	2	90	90	90	16821	18747	20949	20949	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2011	90	90	2	90	90	90	16821	18747	21001	21001	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2012	92	92	1	92	92	92	16441	17855	20850	20850	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2013	92	92	1	92	92	92	16124	17571	20582	20582	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2014	92	92	1	92	92	92	16286	17727	20253	20253	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2015	90	90	2	90	90	90	16083	17798	19866	19866	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2016	97	97	1	97	97	97	16148	16567	19529	19529	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2017	89	89	1	89	89	89	14483	16360	19076	19076	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2018	99	99	1	100	100	100	15263	15286	18670	18670	100	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2019	93	93	1	93	93	93	15073	16186	18904	18904	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2020	96	96	1	96	96	96	14597	15158	18119	18119	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2021	94	94	1	94	94	94	13055	13826	17814	17814	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hepb3	2022	93		1	93	93	93	12323	13238	17429	17429	93	gov		R:	Estimate informed by reported data.   WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	1998	8	8	2	8		8			20169	20169	8	admin		R:	Estimate informed by reported administrative data.   Hib vaccine introduced nationally in 1999, reporting started in 1998. Vaccine presentation is DTP-HepB-Hib.  GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	1999	49	49	2	49	49	49			20283	20283	49	gov		R:	Estimate informed by reported data.    GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2000	74	74	2	74	74	74	13369	17956	20304	20304	74	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2001	85	85	1	85	85	85	15188	17929	20308	20308	85	gov		R:	Estimate informed by reported data.   Estimate based on reported data.  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2002	59	59	2	59	59	59			20246	20246	59	gov		R:	Estimate informed by reported data.   DTP-HepB-Hib combination vaccine scheduled for introduction but vaccine unavailable. Immunization conducted with DTP and monovalent HepB and Hib vaccines.  GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2003	92	92	1	92	92	92	15548	16819	20325	20325	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2004	94	94	2		94	94			20297	20297	94	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 215 less than 300. Trinidad and Tobago Multiple Indicator Cluster Survey 3, 2006 card or history results of 16 percent modifed for recall bias to 12 percent based on 1st dose card or history coverage of 84 percent, 1st dose card only coverage of 73 percent and 3rd dose card only coverage of 10 percent.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2005	95	95	1		95	95	16171		20431	20431	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2006	89	89	1	89	89	89	15079	17021	20803	20803	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2007	88	88	1	88	88	88	15791	17940	21113	21113	88	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2008	90	90	1	90		90	16579	18367	21186	21186	90	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2009	90	90	2	90	90	90	17468	19361	20870	20870	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2010	90	90	2	90	90	90	16821	18747	20949	20949	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2011	90	90	2	90	90	90	16821	18747	21001	21001	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2012	92	92	1	92	92	92	16441	17855	20850	20850	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2013	92	92	1	92	92	92	16124	17571	20582	20582	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2014	92	92	1	92	92	92	16286	17727	20253	20253	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2015	90	90	2	90	90	90	16083	17798	19866	19866	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2016	97	97	1	97	97	97	16138	16567	19529	19529	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2017	89	89	1	89	89	89	14483	16360	19076	19076	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2018	99	99	1	100	100	100	15263	15286	18670	18670	100	gov		R:	Estimate informed by reported data.  .  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2019	93	93	1	93	93	93	15073	16186	18904	18904	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2020	96	96	1	96	96	96	14597	15158	18119	18119	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2021	94	94	1	94	94	94	13055	13826	17814	17814	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	hib3	2022	93		1	93	93	93	12326	13238	17429	17429	93	gov		R:	Estimate informed by reported data.   WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	ipv1	2015	6	6	1	108	108	108	1075	1000	19866	19866	96	extrapolated		W:	 Inactivated polio vaccine. introduced in December 2015. Programme reports one-hundred percent coverage achieved in six percent of the national birth cohort. Estimate is based on complete annual birth cohort. Reported data excluded because 108 percent greater than 100 percent.   Estimate challenged by: R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	ipv1	2016	96	96	1	96	96	96	15841	16567	19529	19529	96	gov		R:	Estimate informed by reported data.   Estimate is based on reported coverage following introduction.  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	ipv1	2017	90	90	1	90	90	90	14673	16360	19076	19076	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	ipv1	2018	99	99	1	100	100	100	15286	15286	18670	18670	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	ipv1	2019	92	92	1	92	92	92	14951	16186	18904	18904	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	ipv1	2020	92	92	1	92	92	92	13985	15158	18119	18119	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	ipv1	2021	96	96	1	96	96	96	13306	13826	17814	17814	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	ipv1	2022	97		1	92	92	92	12156	13238	17429	17429	92	gov		W:	 Estimate informed by DTP1 coverage estimate as IPV1 is recommended at the same age.  WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-R-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	1997	88	88	2		88	88			20307	20307	88	gov		R: AP	Legacy estimate.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	1998	90	90	2		90	90			20169	20169	90	gov		R:	Estimate informed by reported data.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	1999	88	88	2	88	88	88			20283	20283	88	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 187 less than 300.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2000	90	90	2	90	90	90	16257	18117	20304	20304	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2001	91	91	1	91	91	91	16380	17956	20308	20308	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2002	87	87	2	87	87	87			20246	20246	87	gov		R:	Estimate informed by reported data.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2003	88	88	2	88	88	88	15921	18096	20325	20325	88	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2004	95	95	2		95	95			20297	20297	95	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 215 less than 300.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2005	93	93	1		93	93	15578		20431	20431	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2006	89	89	1	89	89	89	15273	17254	20803	20803	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2007	91	91	1	91	91	91	15437	17021	21113	21113	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2008	91	91	1	91		91	16394	17940	21186	21186	91	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2009	94	94	1	94	94	94	17013	18025	20870	20870	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2010	92	92	2	92	92	92	17782	19334	20949	20949	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2011	92	92	2	92	92	92	17782	19334	21001	21001	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2012	85	85	2	86	85	85	15706	18324	20850	20850	85	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2013	91	91	1	91	91	91	16179	17854	20582	20582	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2014	96	96	1	91	96	96	16062	17727	20253	20253	96	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2015	89	89	2	89	89	89	15785	17727	19866	19866	89	gov		R:	Estimate informed by reported data.  Programme reports three months stockout at national level.  GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2016	86	86	2	86	86	86	15231	17798	19529	19529	86	gov		R:	Estimate informed by reported data.  Programme reports three months stockout.  GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2017	93	93	1	93	93	93	15372	16492	19076	19076	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2018	90	90	1	90	90	90	14930	16593	18670	18670	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2019	99	99	1	99	99	99	15177	15311	18904	18904	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2020	91	91	2	91	91	91	14695	16134	18119	18119	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2021	93	93	1	93	93	93	13448	14413	17814	17814	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv1	2022	92		1	92	92	92	12892	14000	17429	17429	92	gov		R:	Estimate informed by reported data.  WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2001	80	80	2	80	80	80	14362	17956	20308	20308	80	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2002	77	77	2		62	62			20246	20246	77	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded due to decline in reported coverage from 80 percent to 62 percent with increase to 73 percent.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2003	73	73	2	73	73	73	13151	18096	20325	20325	73	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2004	78	78	2		78	78			20297	20297	78	gov		R:	Estimate informed by reported data.    GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2005	84	84	2		84	84	15761		20431	20431	84	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2006	78	78	1	78	78	78	14046	18096	20803	20803	78	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2007	87	87	1	87	87	87	14069	16189	21113	21113	87	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2008	81	81	1	81		81	14562	17940	21186	21186	81	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2009	80	80	1	80	80	80	14361	18025	20870	20870	80	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2010	82	82	1	107	106	106	20598	19334	20949	20949	82	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 106 percent greater than 100 percent.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2011	83	83	1	107	106	106	20598	19334	21001	21001	83	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 106 percent greater than 100 percent.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2012	85	85	1		85	85	12893		20850	20850	85	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2013	86	86	1	86	86	86	15376	17854	20582	20582	86	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2014	93	93	1	92	93	93	15977	17459	20253	20253	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2015	79	79	2	79	79	79	14583	18551	19866	19866	79	gov		R:	Estimate informed by reported data.   Programme reports three months stockout at national level.  GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2016	65	65	2	65	65	65	11293	17459	19529	19529	65	gov		R:	Estimate informed by reported data.   Programme reports three months stockout.  GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2017	90	90	2	90	90	90	15748	17571	19076	19076	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2018	92	92	2	92	92	92	16266	17736	18670	18670	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2019	92	92	1	92	92	92	14809	16096	18904	18904	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2020	90	90	1	90	90	90	13828	15443	18119	18119	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2021	88	88	1	88	88	88	13323	15150	17814	17814	88	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	mcv2	2022	92		1	92	92	92	13824	15045	17429	17429	92	gov		R:	Estimate informed by reported data.   WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2012	39	39	2	39	39	39	6940	17855	20850	20850	39	gov		R:	Estimate informed by reported data.   Pneumococcal conjugate vaccine introduced in 2012.  GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2013	80	80	1	80	80	80	14049	17517	20582	20582	80	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2014	95	95	1	95	95	95	16763	17727	20253	20253	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2015	93	93	1						19866	19866	93	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2016	91	91	1	91	91	91	15051	16567	19529	19529	91	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2017	93	93	1	93	93	93	15222	16360	19076	19076	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2018	99	99	1	100	100	100	15286	15286	18670	18670	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2019	93	93	1	93	93	93	15036	16186	18904	18904	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2020	95	95	1	95	95	95	14414	15158	18119	18119	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2021	95	95	1	95	95	95	13109	13826	17814	17814	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pcv3	2022	93		1	93	93	93	12339	13238	17429	17429	93	gov		R:	Estimate informed by reported data.   WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	1997	91	91	2		91	91			20307	20307	91	gov		R: AP	Legacy estimate.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	1998	91	91	2		91	91			20169	20169	91	gov		R:	Estimate informed by reported data.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	1999	90	90	2	90	90	90			20283	20283	90	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 187 less than 300. Trinidad and Tobago Multiple Indicator Cluster Survey 2000, Preliminary Report card or history results of 81 percent modifed for recall bias to 91 percent based on 1st dose card or history coverage of 91 percent, 1st dose card only coverage of 72 percent and 3rd dose card only coverage of 72 percent.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2000	90	90	1	90	90	90	16178	17956	20304	20304	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2001	91	91	1	91		91	16378	17929	20308	20308	91	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2002	96	96	2	96	96	96			20246	20246	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2003	91	91	1	91	91	91	15257	16819	20325	20325	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2004	94	94	2		94	94			20297	20297	94	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 215 less than 300. Trinidad and Tobago Multiple Indicator Cluster Survey 3, 2006 card or history results of 86 percent modifed for recall bias to 95 percent based on 1st dose card or history coverage of 96 percent, 1st dose card only coverage of 80 percent and 3rd dose card only coverage of 79 percent.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2005	95	95	1		95	95	15857		20431	20431	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2006	89	89	1	89	89	89	15103		20803	20803	89	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2007	90	90	1	90	90	90	16069		21113	21113	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2008	91	91	1	91		91	16627	18367	21186	21186	91	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2009	90	90	2	90	90	90	17510	19361	20870	20870	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2010	91	91	2	91	91	91	17120	18747	20949	20949	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2011	91	91	2	91	91	91	17120	18747	21001	21001	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2012	91	91	1	91	91	91	16271	17855	20850	20850	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2013	94	94	1	92	94	94	16124	17571	20582	20582	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2014	94	94	2	99	94	94	17539	17727	20253	20253	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2015	88	88	2	88	88	88	15617	17798	19866	19866	88	gov		R:	Estimate informed by reported data.  Programme reports two months stockout at national level.  GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2016	84	84	2	84	84	84	15002	17798	19529	19529	84	gov		R:	Estimate informed by reported data.  Programme reports two months stockout.  GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2017	94	94	1	94	94	94	15314	16360	19076	19076	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2018	99	99	1	100	100	100	15286	15286	18670	18670	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2019	93	93	1	93	93	93	15108	16186	18904	18904	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2020	93	93	1	93	93	93	14145	15158	18119	18119	93	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2021	94	94	1	94	94	94	13020	13826	17814	17814	94	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	pol3	2022	94		1	926	926	926	122545	13238	17429	17429	94	extrapolated		R:	Estimate based on extrapolation from data reported by national government.  Reported data excluded because 926 percent greater than 100 percent. Reported data excluded due to sudden change in coverage from 94 level to 926 percent.  WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	1997	88	88	2						20307	20307				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	1998	90	90	2						20169	20169				R:	Estimate based on estimated MCV1.    GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	1999	88	88	2						20283	20283				R:	Estimate based on estimated MCV1.    GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2000	90	90	2						20304	20304				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2001	91	91	1						20308	20308				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2002	87	87	2						20246	20246				R:	Estimate based on estimated MCV1.    GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2003	88	88	2						20325	20325				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2004	95	95	2						20297	20297				R:	Estimate based on estimated MCV1.    GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2005	93	93	1						20431	20431				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2006	89	89	1						20803	20803				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2007	91	91	1						21113	21113				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2008	91	91	1						21186	21186				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2009	94	94	1						20870	20870				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2010	92	92	2						20949	20949				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2011	92	92	2						21001	21001				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2012	85	85	2						20850	20850				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2013	91	91	1						20582	20582				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2014	96	96	1						20253	20253				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2015	89	89	2						19866	19866				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2016	86	86	2				15231	17798	19529	19529				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2017	93	93	1						19076	19076				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2018	90	90	1						18670	18670				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2019	99	99	1						18904	18904				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2020	91	91	2						18119	18119				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2021	93	93	1						17814	17814				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	rcv1	2022	92		1						17429	17429				R:	Estimate based on estimated MCV1.   WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	1998	91	91	2	91		91			20169	20169	91	admin		R:	Estimate informed by reported administrative data.   YFV introduced in 1984 reporting started in 1998  GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	1999	91	91	1						20283	20283	91	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2000	91	91	1						20304	20304	91	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2001	91	91	1	91	91	91	16375	17956	20308	20308	91	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2002	88	88	2		88	88			20246	20246	88	gov		R:	Estimate informed by reported data.    GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2003	88	88	2	88	88	88	16002		20325	20325	88	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2004	90	90	2		90	90			20297	20297	90	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 215 less than 300.   GoC=R+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2005	93	93	1		93	93	15450		20431	20431	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2006	88	88	1	88	88	88	15216	17254	20803	20803	88	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2007	90	90	1	90	90	90	15333	17021	21113	21113	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2008	86	86	1	86		86	15512	17940	21186	21186	86	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2009	94	94	1	94	94	94	17031	18025	20870	20870	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2010	95	95	2	95	95	95	18348	19334	20949	20949	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2011	95	95	2	95		95	18348	19334	21001	21001	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2012	85	85	2	87	85	85	15926	18324	20850	20850	85	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2013	89	89	1	89	89	89	15797	17854	20582	20582	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2014	96	96	1	95	96	96	16837	17727	20253	20253	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2015	91	91	2	91	91	91	16166	17727	19866	19866	91	gov		R:	Estimate informed by reported data.   Programme reports three months stockout at national level.  GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2016	85	85	2	85	85	85	15146	17798	19529	19529	85	gov		R:	Estimate informed by reported data.   Programme reports three months stockout.  GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2017	95	95	1	95	95	95	15698	16492	19076	19076	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2018	88	88	1	88	88	88	14540	16593	18670	18670	88	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2019	98	98	1	98	98	98	14994	15311	18904	18904	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2020	89	89	2	89	89	89	14408	16134	18119	18119	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2021	91	91	1	91	91	91	13063	14413	17814	17814	91	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Trinidad and Tobago	Wed Sep 06 19:09:17 2023	tto	yfv	2022	93		1	93	93	93	13063	14000	17429	17429	93	gov		R:	Estimate informed by reported data.   WHO and UNICEF are aware of the 2022 Multiple Indicator Cluster Survey and await the final results.  Estimate challenged by: D-	

@@ -1,0 +1,241 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	1997	95	95	2		95	95			58716	58716	95	gov		R: AP	Legacy estimate.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	1998	93	93	2		93	93			57211	57211	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	1999	96	96	2	96	96	96			55735	55735	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2000	94	94	2	94	94	94	50637	53869	54803	54803	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2001	93	93	2	93	93	93	49392	53053	51368	51368	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2002	98	98	2	98	98	98	49524	50506	50883	50883	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2003	98	98	2	98	98	98	48648	49687	51953	51953	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2004	98	98	2	98	98	98	49414	50294	53708	53708	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2005	98	98	2	98	98	98	50497	51693	54633	54633	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2006	98	98	2	98	98	98	51318	52388	54274	54274	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2007	98	98	2	98	98	98	50256	51238	54691	54691	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2008	98	98	2	98	98	98	50723	51757	57495	57495	98	gov		R:	Estimate informed by reported data.  A national review of health care provider records supports reported high levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2009	97	97	1	97	97	97	52182	53796	61047	61047	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2010	98	98	2	98	98	98	55017	56374	60599	60599	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2011	97	97	2	97	97	97	54304	55941	60548	60548	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	bcg	2012	90	90	2	90	90	90	49844	55122	56140	56140	90	gov		R:	Estimate informed by reported data.  BCG no longer recommended in the national schedule after 2012.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	1997	99	99	1						58716	58716	99	extrapolated		R: AP	Legacy estimate.   GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	1998	99	99	1						57211	57211	99	extrapolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	1999	99	99	1						55735	55735	99	extrapolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2000	99	99	1	99		99	55908	56383	54803	54803	99	admin		C:	Reported data calibrated to 1997 and 2019 levels.    Estimate challenged by: R-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2001	99	99	1	99	99	99	54777	55135	51368	51368	99	gov		C:	Reported data calibrated to 1997 and 2019 levels.    Estimate challenged by: R-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2002	99	99	1	99	99	99	53579	53979	50883	50883	99	gov		C:	Reported data calibrated to 1997 and 2019 levels.    Estimate challenged by: R-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2003	99	99	1						51953	51953	99	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2004	99	99	1		99	99			53708	53708	99	gov		C:	Reported data calibrated to 1997 and 2019 levels.    Estimate challenged by: R-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2005	99	99	1		99	99			54633	54633	99	gov		C:	Reported data calibrated to 1997 and 2019 levels.    Estimate challenged by: R-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2006	99	99	1						54274	54274	99	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2007	99	99	1						54691	54691	99	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2008	99	99	1						57495	57495	99	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.   A national review of health care provider records supports reported high levels of coverage.  GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2009	99	99	1						61047	61047	99	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2010	99	99	1						60599	60599	98	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2011	99	99	1						60548	60548	98	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2012	99	99	1						56140	56140	98	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2013	99	99	1						55358	55358	98	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2014	99	99	1						55451	55451	98	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2015	99	99	1						55758	55758	98	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2016	99	99	1						57494	57494	98	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2017	99	99	1						57893	57893	98	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.   Programme reports district-level vaccine stockouts. Results of a 2017 facility-based survey are available at www.uvzsr.sk.  GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2018	99	99	1						57576	57576	97	interpolated		C:	Reported data calibrated to 1997 and 2019 levels.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2019	99	99	1						57020	57020	97	interpolated		W: AP	Estimate of 99 percent assigned by working group.  Estimate is based on extrapolation from last reported data point.  Reported target population reflects children registered in the health care system.  GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2020	98	98	1						55730	55730	97	interpolated		C:	Reported data calibrated to 2019 and 2021 levels.   Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.  GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2021	97	97	2	97	97	97	55685	57409	54351	54351	97	gov		R: AP	 Estimate is based on reported coverage.  Reported target population reflects children officially registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp1	2022	97		2	97	97	97	54782	56765	53357	53357	97	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	1997	99	99	2		99	99			58716	58716	99	gov		R: AP	Legacy estimate.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	1998	99	99	2		99	99			57211	57211	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	1999	99	99	2	99	99	99			55735	55735	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2000	99	99	2	99	99	99	55908	56383	54803	54803	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2001	99	99	2	99	99	99	54777	55135	51368	51368	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2002	99	99	2	99	99	99	53579	53979	50883	50883	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2003	99	99	2	99	99	99	49780	50482	51953	51953	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2004	99	99	2	99	99	99	49407	49737	53708	53708	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2005	99	99	2	99	99	99	49672	50065	54633	54633	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2006	99	99	2	99	99	99	51337	51870	54274	54274	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2007	99	99	2	99	99	99	51916	52258	54691	54691	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2008	99	99	2	99	99	99	51283	51584	57495	57495	99	gov		R:	Estimate informed by reported data.  A national review of health care provider records supports reported high levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2009	99	99	1	99	99	99	51437	51867	61047	61047	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2010	99	99	1	99	99	99	53611	54111	60599	60599	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2011	99	99	2	99	99	99	56122	56705	60548	60548	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2012	99	99	2	99	99	99	55129	55853	56140	56140	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2013	98	98	2	98	98	98	53796	54956	55358	55358	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2014	97	97	2	97	97	97	53853	55637	55451	55451	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2015	96	96	2	96	96	96	52472	54671	55758	55758	96	gov		R:	Estimate informed by reported data.  Programme reports 2-3 month district level stockout of hexavalent DTP-HepB-Hib-IPV vaccine.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2016	96	96	2	96	96	96	53121	55082	57494	57494	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2017	96	96	2	96	96	96	53974	56013	57893	57893	96	gov		R:	Estimate informed by reported data.  Programme reports district-level vaccine stockouts. Results of a 2017 facility-based survey are available at www.uvzsr.sk.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2018	96	96	2	96	96	96	55737	57761	57576	57576	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2019	97	97	2	97	97	97	56105	58022	57020	57020	97	gov		R:	Estimate informed by reported data.  Reported target population reflects children registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2020	97	97	2		97	97			55730	55730	97	gov		R:	Estimate informed by reported data.  Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.  GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2021	97	97	2	97	97	97	55685	57409	54351	54351	97	gov		R:	Estimate informed by reported data.  Reported target population reflects children officially registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	dtp3	2022	97		2	97	97	97	54782	56765	53357	53357	97	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2000	98	98	2	99	98	98	54581	55110	54803	54803	98	gov		R:	Estimate informed by reported data.   HepB vaccine introduced in 1998. Reporting started in 2000.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2001	99	99	2	99	99	99	54823	55135	51368	51368	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2002	99	99	2	99	99	99	53579	53979	50883	50883	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2003	99	99	2	99	99	99			51953	51953	99	gov		R:	Estimate informed by reported data.    GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2004	99	99	2	99	99	99	49407	49737	53708	53708	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2005	99	99	2	99	99	99	49672	50065	54633	54633	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2006	99	99	2	99	99	99	51337	51870	54274	54274	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2007	99	99	2	99	99	99	51916	52258	54691	54691	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2008	99	99	2	99	99	99	51283	51584	57495	57495	99	gov		R:	Estimate informed by reported data.   A national review of health care provider records supports reported high levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2009	99	99	1	99	99	99	51437	51867	61047	61047	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2010	99	99	1	99	99	99	53611	54111	60599	60599	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2011	99	99	2	99	99	99	56122	56705	60548	60548	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2012	99	99	2	99	99	99	55129	55853	56140	56140	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2013	98	98	2	98	98	98	53796	54956	55358	55358	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2014	97	97	2	97	97	97	53853	55637	55451	55451	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2015	96	96	2	96	96	96	52472	54671	55758	55758	96	gov		R:	Estimate informed by reported data.   Programme reports 2-3 month district level stockout of hexavalent DTP-HepB-Hib-IPV vaccine.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2016	96	96	2	96	96	96	53121	55082	57494	57494	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2017	96	96	2	96	96	96	53974	56013	57893	57893	96	gov		R:	Estimate informed by reported data.   Programme reports district-level vaccine stockouts. Results of a 2017 facility-based survey are available at www.uvzsr.sk.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2018	96	96	2	96	96	96	55737	57761	57576	57576	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2019	97	97	2	97	97	97	56105	58022	57020	57020	97	gov		R:	Estimate informed by reported data.   Reported target population reflects children registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2020	97	97	2		97	97			55730	55730	97	gov		R:	Estimate informed by reported data.   Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.  GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2021	97	97	2	97	97	97	55685	57409	54351	54351	97	gov		R:	Estimate informed by reported data.   Reported target population reflects children officially registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hepb3	2022	97		2	97	97	97	54782	56765	53357	53357	97	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	1997	30	30	2	30		30			58716	58716	30	admin		R: AP	Legacy estimate.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	1998	36	36	2	36		36			57211	57211	36	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	1999	47	47	1						55735	55735	47	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2000	59	59	1					30000	54803	54803	59	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2001	70	70	1		70	70	53094	53641	51368	51368	70	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2002	92	92	1	99	92	92	53249	53979	50883	50883	92	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2003	99	99	2	99	99	99	50117	50482	51953	51953	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2004	99	99	2	99	99	99	49407	49737	53708	53708	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2005	99	99	2	99	99	99	49672	50065	54633	54633	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2006	99	99	2	99	99	99	51337	51870	54274	54274	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2007	99	99	2	99	99	99	51916	52258	54691	54691	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2008	99	99	2	99	99	99	51283	51584	57495	57495	99	gov		R:	Estimate informed by reported data.  A national review of health care provider records supports reported high levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2009	99	99	1	99	99	99	51437	51867	61047	61047	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2010	99	99	1	99	99	99	53611	54111	60599	60599	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2011	99	99	2	99	99	99	56122	56705	60548	60548	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2012	99	99	2	99	99	99	55129	55853	56140	56140	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2013	98	98	2	98	98	98	53796	54956	55358	55358	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2014	97	97	2	97	97	97	53853	55637	55451	55451	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2015	96	96	2	96	96	96	52472	54671	55758	55758	96	gov		R:	Estimate informed by reported data.  Programme reports 2-3 month district level stockout of hexavalent DTP-HepB-Hib-IPV vaccine.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2016	96	96	2	96	96	96	53121	55082	57494	57494	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2017	96	96	2	96	96	96	53974	56013	57893	57893	96	gov		R:	Estimate informed by reported data.  Programme reports district-level vaccine stockouts. Results of a 2017 facility-based survey are available at www.uvzsr.sk.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2018	96	96	2	96	96	96	55737	57761	57576	57576	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2019	97	97	2	97	97	97	56105	58022	57020	57020	97	gov		R:	Estimate informed by reported data.  Reported target population reflects children registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2020	97	97	2		97	97			55730	55730	97	gov		R:	Estimate informed by reported data.  Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.  GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2021	97	97	2	97	97	97	55685	57409	54351	54351	97	gov		R:	Estimate informed by reported data.  Reported target population reflects children officially registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	hib3	2022	97		2	97	97	97	54782	56765	53357	53357	97	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	ipv1	2015	98	98	1						55758	55758	97	extrapolated		W:	 Inactivated polio vaccine administered as part of DTP-HepB-Hib-IPV combination vaccine. Estimate is based on estimated DTP1 coverage.   GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	ipv1	2016	98	98	1						57494	57494	97	extrapolated		W:	 Estimate is based on estimated DTP1 coverage.   GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	ipv1	2017	98	98	1						57893	57893	97	extrapolated		W:	 Estimate is based on estimated DTP1 coverage.  Programme reports district-level vaccine stockouts. Results of a 2017 facility-based survey are available at www.uvzsr.sk.  GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	ipv1	2018	97	97	1						57576	57576	97	extrapolated		W:	 Estimate is based on estimated DTP1 coverage.   GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	ipv1	2019	97	97	1						57020	57020	97	extrapolated		W:	 Estimate is based on estimated DTP1 coverage.  Reported target population reflects children registered in the health care system.  GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	ipv1	2020	97	97	1						55730	55730	97	extrapolated		W:	 Estimate is based on estimated DTP1 coverage.  Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.  GoC=No accepted empirical data	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	ipv1	2021	97	97	1	97	97	97	55685	57409	54351	54351	97	gov		W:	 Estimate is based on estimated DTP1 coverage.  Reported target population reflects children officially registered in the health care system.  Estimate challenged by: R-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	ipv1	2022	97		2	97	97	97	54782	56765	53357	53357	97	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	1997	99	99	2		99	99			58716	58716	99	gov		R: AP	Legacy estimate.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	1998	99	99	2		99	99			57211	57211	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	1999	99	99	2	99	99	99			55735	55735	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2000	98	98	2	98	98	98	55430	56383	54803	54803	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2001	99	99	1	99	99	99	79390	79852	51368	51368	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2002	99	99	2	99	99	99	53249	53979	50883	50883	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2003	99	99	2	99	99	99	49769	50482	51953	51953	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2004	99	99	2	99	99	99	49019	49737	53708	53708	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2005	98	98	2	98	98	98	49263	50065	54633	54633	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2006	98	98	2	98	98	98	51038	51870	54274	54274	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2007	99	99	2	99	99	99	51634	52258	54691	54691	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2008	99	99	1	99	99	99	50999	51584	57495	57495	99	gov		R:	Estimate informed by reported data.  A national review of health care provider records supports reported high levels of coverage.  Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2009	99	99	1	99	99	99	51278	51867	61047	61047	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2010	98	98	1	98	98	98	53286	54111	60599	60599	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2011	98	98	2	98	98	98	55728	56705	60548	60548	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2012	99	99	2		99	99			56140	56140	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2013	98	98	2	98	98	98	54734	55752	55358	55358	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2014	97	97	2	97	97	97	52992	54853	55451	55451	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2015	95	95	2	95	95	95	52935	55587	55758	55758	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2016	95	95	2	95	95	95	52167	54824	57494	57494	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2017	96	96	2	96	96	96	53072	55404	57893	57893	96	gov		R:	Estimate informed by reported data.  Programme reports district-level vaccine stockouts. Results of a 2017 facility-based survey are available at www.uvzsr.sk.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2018	96	96	2	96	96	96	53594	55777	57576	57576	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2019	96	96	2	96	96	96	55690	57894	57020	57020	96	gov		R:	Estimate informed by reported data.  Reported target population reflects children registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2020	96	96	2		96	96			55730	55730	96	gov		R:	Estimate informed by reported data.  Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.  GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2021	95	95	2	95	95	95	54779	57409	54351	54351	95	gov		R:	Estimate informed by reported data.  Reported target population reflects children officially registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv1	2022	95		2	95	95	95	53750	56765	53357	53357	95	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2000	99	99	2	99		99	57586	58022	54803	54803	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2001	99	99	2		99	99			51368	51368	99	gov		R:	Estimate informed by reported data.    GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2002	99	99	1	100	100	100	76440	76813	50883	50883	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2003	99	99	1	100	100	100	76772	77126	51953	51953	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2004	98	98	1	100	98	98	74906	75239	53708	53708	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2005	98	98	1	100	98	98	70836	71206	54633	54633	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2006	99	99	1	99	99	99	63022	63926	54274	54274	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2007	98	98	2	98	98	98	58319	59233	54691	54691	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2008	99	99	2	99	99	99	57801	58144	57495	57495	99	gov		R:	Estimate informed by reported data.   A national review of health care provider records supports reported high levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2009	99	99	2	99	99	99	56376	56771	61047	61047	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2010	99	99	2	99	99	99	54764	55182	60599	60599	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2011	99	99	1	99	99	99	53822	54330	60548	60548	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2012	99	99	2	99	99	99	52076	52622	56140	56140	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2013	99	99	1	99	99	99	48485	49133	55358	55358	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2014	98	98	1	98	98	98	47420	48356	55451	55451	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2015	98	98	1	98	98	98	47761	48915	55758	55758	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2016	97	97	1	97	97	97	48937	50243	57494	57494	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2017	97	97	1	97	97	97	49651	50963	57893	57893	97	gov		R:	Estimate informed by reported data.   Programme reports district-level vaccine stockouts. Results of a 2017 facility-based survey are available at www.uvzsr.sk.  Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2018	97	97	1	97	97	97	48999	50308	57576	57576	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2019	98	98	1	98	98	98	48779	49889	57020	57020	98	gov		R:	Estimate informed by reported data.   Reported target population reflects children registered in the health care system.  Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2020	98	98	2		98	98			55730	55730	98	gov		R:	Estimate informed by reported data.   Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.  GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2021	96	96	2	96	96	96	52724	54719	54351	54351	96	gov		R:	Estimate informed by reported data.   Reported target population reflects children officially registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	mcv2	2022	96		2	96	96	96	52564	54915	53357	53357	96	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2009	99	99	1	99	99	99	51437	51867	61047	61047	99	gov		R:	Estimate informed by reported data.   Pneumococcal conjugate vaccine introduced in 2009.  Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2010	99	99	1	99	99	99	53611	54111	60599	60599	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2011	99	99	2	99	99	99			60548	60548	99	gov		R:	Estimate informed by reported data.    GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2012	99	99	2	99	99	99	55058	55853	56140	56140	99	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2013	98	98	2	98	98	98	53711	54956	55358	55358	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2014	96	96	2	96	96	96	53680	55637	55451	55451	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2015	96	96	2	96	96	96	52309	54671	55758	55758	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2016	96	96	2	96	96	96	52956	55082	57494	57494	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2017	96	96	2	96	96	96	53888	56013	57893	57893	96	gov		R:	Estimate informed by reported data.   Results of a 2017 facility-based survey are available at www.uvzsr.sk.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2018	96	96	2	96	96	96	55594	57761	57576	57576	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2019	96	96	2	96	96	96	55987	58022	57020	57020	96	gov		R:	Estimate informed by reported data.   Reported target population reflects children registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2020	96	96	2		96	96			55730	55730	96	gov		R:	Estimate informed by reported data.   Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.  GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2021	97	97	2	97	97	97	55606	57409	54351	54351	97	gov		R:	Estimate informed by reported data.   Reported target population reflects children officially registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pcv3	2022	96		2	96	96	96	54732	56765	53357	53357	96	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	1997	98	98	2		98	98			58716	58716	98	gov		R: AP	Legacy estimate.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	1998	98	98	2		98	98			57211	57211	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	1999	99	99	2	99	99	99			55735	55735	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2000	98	98	1	99	98	98	109995	111513	54803	54803	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2001	99	99	2	99	99	99	54532	55135	51368	51368	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2002	98	98	2	98	98	98	52656	53979	50883	50883	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2003	98	98	2	98	98	98	49349	50482	51953	51953	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2004	99	99	2	99	99	99	49088	49737	53708	53708	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2005	99	99	2	99	99	99	49407	50065	54633	54633	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2006	99	99	2	99	99	99	51337		54274	54274	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2007	99	99	2	99	99	99	51916		54691	54691	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2008	99	99	2	99	99	99	51283	51584	57495	57495	99	gov		R:	Estimate informed by reported data.  A national review of health care provider records supports reported high levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2009	99	99	1	99	99	99	51437	51867	61047	61047	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2010	99	99	1	99	99	99	53611	54111	60599	60599	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2011	99	99	2	99	99	99	56122	56705	60548	60548	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2012	99	99	2	99	99	99	55129	55853	56140	56140	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2013	98	98	2	98	98	98	53796	54956	55358	55358	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2014	97	97	2	97	97	97	53853	55639	55451	55451	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2015	96	96	2	96	96	96	52472	54671	55758	55758	96	gov		R:	Estimate informed by reported data.  Programme reports 2-3 month district level stockout of hexavalent DTP-HepB-Hib-IPV vaccine.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2016	96	96	2	96	96	96	53121	55082	57494	57494	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2017	96	96	2	96	96	96	53974	56013	57893	57893	96	gov		R:	Estimate informed by reported data.  Programme reports district-level vaccine stockouts. Results of a 2017 facility-based survey are available at www.uvzsr.sk.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2018	96	96	2	96	96	96	55737	57761	57576	57576	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2019	97	97	2	97	97	97	56105	58022	57020	57020	97	gov		R:	Estimate informed by reported data.  Reported target population reflects children registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2020	97	97	2		97	97			55730	55730	97	gov		R:	Estimate informed by reported data.  Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.  GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2021	97	97	2	97	97	97	55685	57409	54351	54351	97	gov		R:	Estimate informed by reported data.  Reported target population reflects children officially registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	pol3	2022	97		2	97	97	97	54782	56765	53357	53357	97	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	1997	99	99	2						58716	58716				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	1998	99	99	2						57211	57211				R:	Estimate based on estimated MCV1.    GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	1999	99	99	2						55735	55735				R:	Estimate based on estimated MCV1.    GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2000	98	98	2						54803	54803				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2001	99	99	1						51368	51368				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2002	99	99	2						50883	50883				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2003	99	99	2						51953	51953				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2004	99	99	2						53708	53708				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2005	98	98	2						54633	54633				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2006	98	98	2						54274	54274				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2007	99	99	2						54691	54691				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2008	99	99	1						57495	57495				R:	Estimate based on estimated MCV1.   A national review of health care provider records supports reported high levels of coverage.  Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2009	99	99	1						61047	61047				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2010	98	98	1						60599	60599				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2011	98	98	2						60548	60548				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2012	99	99	2						56140	56140				R:	Estimate based on estimated MCV1.    GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2013	98	98	2						55358	55358				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2014	97	97	2						55451	55451				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2015	95	95	2						55758	55758				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2016	95	95	2				52167	54824	57494	57494				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2017	96	96	2				53072	55404	57893	57893				R:	Estimate based on estimated MCV1.   Programme reports district-level vaccine stockouts. Results of a 2017 facility-based survey are available at www.uvzsr.sk.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2018	96	96	2						57576	57576				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2019	96	96	2						57020	57020				R:	Estimate based on estimated MCV1.   Reported target population reflects children registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2020	96	96	2						55730	55730				R:	Estimate based on estimated MCV1.   Official estimates reflect data for children aged two years. Therefore, there is no empirical data yet to assess whether the COVID-19 pandemic has affected coverage among young children.  GoC=R+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2021	95	95	2						54351	54351				R:	Estimate based on estimated MCV1.   Reported target population reflects children officially registered in the health care system.  GoC=R+ D+	
+Slovakia	Wed Sep 06 19:07:08 2023	svk	rcv1	2022	95		2						53357	53357				R:	Estimate based on estimated MCV1.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	

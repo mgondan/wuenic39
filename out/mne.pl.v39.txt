@@ -1,0 +1,161 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2006	98	98	2	98	98	98	7318	7447	8227	8227	98	gov		R:	Estimate informed by reported data.   Montenegro was admitted to the UN and became a WHO member state in June 2006.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2007	98	98	2	98	98	98	7522	7658	8502	8502	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2008	98	98	2	98	98	98	7997	8156	8878	8878	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2009	95	95	2	95	95	95	7870	8287	9133	9133	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2010	95	95	2	95	95	95	7619	7996	7857	7857	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2011	97	97	2	97	97	97	7754	7982	7538	7538	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2012	95	95	2	95	95	95	7378	7795	7785	7785	95	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 255 less than 300.   GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2013	93	93	2	93	93	93	7295	7855	7821	7821	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2014	91	91	2	91	91	91	7016	7700	7863	7863	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2015	88	88	2	88	88	88	6977	7889	7725	7725	88	gov		R:	Estimate informed by reported data.   Programme reports a one month stockout at the national level.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2016	85	85	2	85	76	85	6487	7668	7848	7848	85	admin		R:	Estimate informed by reported administrative data.  .  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2017	83	83	2	83	83	83	6366	7709	7712	7712	83	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2018	93	93	2	93	93	93	6761	7288	7529	7529	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2019	80	80	1						7429	7429	80	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2020	67	67	2	67	67	67	4600	6856	7114	7114	67	gov		R:	Estimate informed by reported data.   Unexplained decline in BCG coverage.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2021	76	76	2	76	76	76	5240	6867	6965	6965	76	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	bcg	2022	86		2	86	86	86	5939	6942	6859	6859	86	gov		R:	Estimate informed by reported data.   No nationally representative household survey assessment of vaccination coverage within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Programme reports one-half month vaccine stockout at national and subnational levels.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2006	95	95	1	99	95	95	6955	7009	8227	8227	95	gov		R:	Estimate informed by reported data.   Montenegro was admitted to the UN and became a WHO member state in June 2006.  Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2007	98	98	1	99	98	98	7015	7095	8502	8502	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2008	98	98	1	99	98	98	7304	7366	8878	8878	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2009	96	96	2	96	96	96	7881	8250	9133	9133	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2010	97	97	2	97	97	97	8041	8293	7857	7857	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2011	98	98	2	98	98	98	7826	7982	7538	7538	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2012	98	98	2	98	98	98	7608	7795	7785	7785	98	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 255 less than 300.   GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2013	98	98	2	98	98	98	7696	7855	7821	7821	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2014	97	97	2	97	97	97	7456	7700	7863	7863	97	gov		R:	Estimate informed by reported data.   Programme reports two months stockout of DTP containing vaccine at national level.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2015	96	96	2	96	96	96	7533	7889	7725	7725	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2016	97	97	2	97	97	97	7404	7668	7848	7848	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2017	95	95	2	95	95	95	7358	7709	7712	7712	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2018	94	94	2	94	94	94	7153	7574	7529	7529	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2019	94	94	1						7429	7429	94	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2020	94	94	2	94	94	94	6830	7239	7114	7114	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2021	94	94	2	94	94	94	6630	7088	6965	6965	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp1	2022	93		2	93	93	93	6635	7128	6859	6859	93	gov		R:	Estimate informed by reported data.   No nationally representative household survey assessment of vaccination coverage within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2006	90	90	1	93	90	90	6508	7009	8227	8227	90	gov		R:	Estimate informed by reported data.   Montenegro was admitted to the UN and became a WHO member state in June 2006.  Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2007	92	92	1	93	92	92	6606	7095	8502	8502	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2008	95	95	1	96	95	95	7077	7366	8878	8878	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2009	92	92	2	92	92	92	7556	8250	9133	9133	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2010	94	94	2	94	94	94	7767	8293	7857	7857	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2011	95	95	2	95	95	95	7562	7982	7538	7538	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2012	94	94	2	94	94	94	7351	7795	7785	7785	94	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 255 less than 300. Montenegro Multiple Indicator Cluster Survey 2013 card or history results of 91 percent modifed for recall bias to 92 percent based on 1st dose card or history coverage of 97 percent, 1st dose card only coverage of 90 percent and 3rd dose card only coverage of 85 percent.   GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2013	94	94	2	94	94	94	7402	7855	7821	7821	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2014	91	91	2	91	91	91	7025	7700	7863	7863	91	gov		R:	Estimate informed by reported data.   Programme reports two months stockout of DTP containing vaccine at national level.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2015	89	89	2	89	89	89	7045	7889	7725	7725	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2016	89	89	2	89	89	89	6830	7668	7848	7848	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2017	87	87	2	87	87	87	6679	7709	7712	7712	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2018	86	86	2	86	86	86	6500	7574	7529	7529	86	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2019	85	85	1						7429	7429	85	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2020	84	84	2	84	84	84	6093	7239	7114	7114	84	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2021	83	83	2	83	83	83	5890	7088	6965	6965	83	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	dtp3	2022	80		2	80	80	80	5720	7128	6859	6859	80	gov		R:	Estimate informed by reported data.   No nationally representative household survey assessment of vaccination coverage within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2006	90	90	1	92	90	90	6397	6919	8227	8227	90	gov		R:	Estimate informed by reported data.   HepB vaccine introduced in 2006. Vaccine presentation is monovalent HepB.  Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2007	90	90	1	92	90	90	6428	7020	8502	8502	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2008	93	93	1	95	93	93	6964	7366	8878	8878	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2009	87	87	2	87	87	87	7200	8250	9133	9133	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2010	90	90	2	90	90	90	7486	8293	7857	7857	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2011	91	91	2	91	91	91	7274	7982	7538	7538	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2012	90	90	2	90	90	90	6996	7795	7785	7785	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2013	90	90	2	90	90	90	7050	7855	7821	7821	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2014	87	87	2	87	87	87	6670	7700	7863	7863	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2015	82	82	2	82	82	82	6440	7889	7725	7725	82	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2016	75	75	2	75	75	75	5772	7668	7848	7848	75	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2017	73	73	2	73	73	73	5662	7709	7712	7712	73	gov		R:	Estimate informed by reported data.   Country reports one month stockout of HepB vaccine.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2018	72	72	2	72	72	72	5448	7574	7529	7529	72	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2019	62	62	1						7429	7429	62	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2020	52	52	2	52	52	52	3778	7239	7114	7114	52	gov		R:	Estimate informed by reported data.   Programme reports a nine month vaccine stockout at national and district levels.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2021	51	51	2	51	51	51	3592	7088	6965	6965	51	gov		R:	Estimate informed by reported data.   Programme reports a three months vaccine stockout at national and district levels.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hepb3	2022	45		2	45	45	45	3188	7128	6859	6859	45	gov		R:	Estimate informed by reported data.   No nationally representative household survey assessment of vaccination coverage within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Programme reports four months vaccine stockout at national and subnational levels.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2006	90	90	1	71	90	90	2614	3689	8227	8227	90	gov		R:	Estimate informed by reported data.   Hib vaccine introduced in 2006. Vaccine presentation is monovalent Hib.  Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2007	89	89	1	89	89	89	6362	7135	8502	8502	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2008	93	93	1	95	93	93	7005	7366	8878	8878	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2009	87	87	2	87	87	87	7166	8250	9133	9133	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2010	90	90	2	90	90	90	7421	8293	7857	7857	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2011	90	90	2	90	90	90	7204	7982	7538	7538	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2012	94	94	2	94	94	94	7307	7795	7785	7785	94	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 255 less than 300. Montenegro Multiple Indicator Cluster Survey 2013 card or history results of 86 percent modifed for recall bias to 87 percent based on 1st dose card or history coverage of 93 percent, 1st dose card only coverage of 87 percent and 3rd dose card only coverage of 81 percent.   GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2013	94	94	2	94	94	94	7367	7855	7821	7821	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2014	91	91	2	91		91	6985	7700	7863	7863	91	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2015	89	89	2	89	89	89	7026	7889	7725	7725	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2016	89	89	2	89	89	89	6830	7668	7848	7848	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2017	87	87	2	87	87	87	6679	7709	7712	7712	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2018	86	86	2	86	86	86	6500	7574	7529	7529	86	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2019	85	85	1						7429	7429	85	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2020	84	84	2	84	84	84	6093	7239	7114	7114	84	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2021	83	83	2	83	83	83	5890	7088	6965	6965	83	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	hib3	2022	80		2	80	80	80	5720	7128	6859	6859	80	gov		R:	Estimate informed by reported data.   No nationally representative household survey assessment of vaccination coverage within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Programme reports five months vaccine stockout at national and subnational levels.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	ipv1	2015	96	96	2	96	96	96	7531	7889	7725	7725	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	ipv1	2016	97	97	2	97	97	97	7404	7668	7848	7848	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	ipv1	2017	95	95	2	95	95	95	7358	7709	7712	7712	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	ipv1	2018	94	94	2	94	94	94	7153	7574	7529	7529	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	ipv1	2019	94	94	1						7429	7429	94	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	ipv1	2020	94	94	2	94	94	94	6830	7239	7114	7114	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	ipv1	2021	94	94	2	94	94	94	6630	7088	6965	6965	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	ipv1	2022	93		2	93	93	93	6635	7128	6859	6859	93	gov		R:	Estimate informed by reported data.   No nationally representative household survey assessment of vaccination coverage within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2006	90	90	1	92	90	90	6315	6880	8227	8227	90	gov		R:	Estimate informed by reported data.   Montenegro was admitted to the UN and became a WHO member state in June 2006.  Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2007	90	90	1	92	90	90	6391	6974	8502	8502	90	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2008	89	89	1	90	89	89	6590	7366	8878	8878	89	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2009	86	86	2	86	86	86	7087	8250	9133	9133	86	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2010	90	90	2	90	90	90	7465	8293	7857	7857	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2011	91	91	2	91	91	91	7239	7982	7538	7538	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2012	90	90	2	90	90	90	7042	7795	7785	7785	90	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 255 less than 300.   GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2013	88	88	2	88	88	88	6913	7855	7821	7821	88	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2014	76	76	2	76	76	76	5853	7700	7863	7863	76	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2015	64	64	2	64	64	64	5047	7889	7725	7725	64	gov		R:	Estimate informed by reported data.   Programme reports a two months stockout at the national level.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2016	47	47	2	47	47	47	3572	7668	7848	7848	47	gov		R:	Estimate informed by reported data.   Programme reports circulating rumours of linkages between measles containing vaccine and autism which may partly explain the decline in reported coverage between 2015 and 2016; otherwise, decline in measles coverage from 88 to 47 percent over the past several years is unexplained.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2017	58	58	2	58	58	58	4458	7709	7712	7712	58	gov		R:	Estimate informed by reported data.   Increase possibly explained by time elapsed since the negative rumours of 2016. Please see prior year comments.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2018	42	42	2	42	42	42	3186	7574	7529	7529	42	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2019	33	33	1						7429	7429	33	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2020	24	24	2	24	24	24	1729	7239	7114	7114	24	gov		R:	Estimate informed by reported data.   Unexplained decline in MCV1 coverage.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2021	18	18	2	18	18	18	1295	7088	6965	6965	18	gov		R:	Estimate informed by reported data.   Country indicates that MMR1 vaccination is often delayed.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv1	2022	33		2	33	33	33	2342	7128	6859	6859	33	gov		R:	Estimate informed by reported data.   No nationally representative household survey assessment of vaccination coverage within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Reported coverage reflects an 80 percent increase in doses administered from 2021 levels.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2007	95	95	1	97	95	95	20485	21052	8502	8502	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2008	96	96	2	98	96	96	7964	8101	8878	8878	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2009	96	96	1	96	96	96	7023	7281	9133	9133	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2010	97	97	1						7857	7857	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2011	97	97	2	97		97	6689	6885	7538	7538	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2012	97	97	2	97	97	97	7038	7243	7785	7785	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2013	94	94	2	94	94	94	7044	7245	7821	7821	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2014	95	95	2	95	95	95	7112	7469	7863	7863	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2015	94	94	2	94	94	94	7567	8092	7725	7725	94	gov		R:	Estimate informed by reported data.   Programme reports a two months stockout at the national level.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2016	86	86	2	86	86	86	6448	7460	7848	7848	86	gov		R:	Estimate informed by reported data.   Programme reports circulating rumours of linkages between measles containing vaccine and autism which may partly explain the decline in reported coverage between 2015 and 2016.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2017	83	83	2	86	83	83	6637	8015	7712	7712	83	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2018	86	86	2	86	86	86	6299	7331	7529	7529	86	gov		R:	Estimate informed by reported data.   WHO and UNICEF are aware that estimated coverage for the second dose of measles containing vaccine is greater than that for the first dose during 2015-2018. The difference in coverage levels may be partly explained by the recommended age for the second dose at 6 years.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2019	81	81	1						7429	7429	81	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2020	76	76	1	76	76	76	6261	8220	7114	7114	76	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2021	79	79	1	79	79	79	6589	8328	6965	6965	79	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	mcv2	2022	70		1	70	70	70	5749	8271	6859	6859	70	gov		R:	Estimate informed by reported data.   No nationally representative household survey assessment of vaccination coverage within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2006	90	90	1	93	90	90	6502		8227	8227	90	gov		R:	Estimate informed by reported data.   Montenegro was admitted to the UN and became a WHO member state in June 2006.  Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2007	92	92	1	93	92	92	6613		8502	8502	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2008	95	95	1	96	95	95	7074	7366	8878	8878	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2009	91	91	2	91	91	91	7545	8250	9133	9133	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2010	93	93	2	93	93	93	7721	8293	7857	7857	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2011	95	95	2	95	95	95	7560	7982	7538	7538	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2012	94	94	2	94	94	94	7343	7795	7785	7785	94	gov		R:	Estimate informed by reported data.  Survey results ignored. Sample size 255 less than 300. Montenegro Multiple Indicator Cluster Survey 2013 card or history results of 86 percent modifed for recall bias to 87 percent based on 1st dose card or history coverage of 94 percent, 1st dose card only coverage of 86 percent and 3rd dose card only coverage of 80 percent.   GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2013	94	94	2	94	94	94	7393	7855	7821	7821	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2014	91	91	2	91	91	91	7020	7700	7863	7863	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2015	89	89	2	89	89	89	7040	7889	7725	7725	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2016	89	89	2	89	89	89	6830	7668	7848	7848	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2017	87	87	2	87	87	87	6679	7709	7712	7712	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2018	86	86	2	86	86	86	6500	7574	7529	7529	86	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2019	85	85	1						7429	7429	85	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2020	84	84	2	84	84	84	6093	7239	7114	7114	84	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2021	83	83	2	83	83	83	5890	7088	6965	6965	83	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	pol3	2022	80		2	80	80	80	5720	7128	6859	6859	80	gov		R:	Estimate informed by reported data.   No nationally representative household survey assessment of vaccination coverage within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage. Programme reports three months OPV stockout at national and subnational levels.  GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2006	90	90	1						8227	8227				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2007	90	90	1						8502	8502				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2008	89	89	1						8878	8878				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2009	86	86	2						9133	9133				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2010	90	90	2						7857	7857				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2011	91	91	2						7538	7538				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2012	90	90	2						7785	7785				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2013	88	88	2						7821	7821				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2014	76	76	2						7863	7863				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2015	64	64	2						7725	7725				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2016	47	47	2				3572	7668	7848	7848				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2017	58	58	2						7712	7712				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2018	42	42	2				3186	7574	7529	7529				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2019	33	33	1						7429	7429				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2020	24	24	2						7114	7114				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2021	18	18	2						6965	6965				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Montenegro	Wed Sep 06 18:57:37 2023	mne	rcv1	2022	33		2						6859	6859				R:	Estimate based on estimated MCV1.   No nationally representative household survey assessment of vaccination coverage within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage.  GoC=R+ D+	

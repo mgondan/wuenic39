@@ -1,0 +1,260 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	1997	72	72	1		72	72			48622	48622	72	gov		R: AP	Legacy estimate.   Estimate challenged by: S-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	1998	95	95	2		95	95			45399	45399	95	gov	96	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 96 percent based on 1 survey(s).    GoC=R+ S+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	1999	93	93	1	93	93	93	33643	39753	42867	42867	93	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2000	97	97	1	97	97	97	32502	33593	39951	39951	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2001	96	96	1	96	96	96	30940	32087	38353	38353	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2002	97	97	1	97	97	97	31403	32380	38062	38062	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2003	92	92	2	92	92	92	33652	36538	38688	38688	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2004	96	96	2	96	96	96	36223	37811	39508	39508	96	gov		R:	Estimate informed by reported data.  Armenia Demographic and Health Survey 2005 results ignored by working group.  Survey results inconsistent with other survey results. Drop out rates in excess of 20 percentage conflict with other surveys findings of less than 5 percent drop out.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2005	94	94	2	94	94	94	33791	36031	39919	39919	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2006	91	91	2	90	91	91	33849	37456	35754	35754	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2007	94	94	3	94	94	94	35117	36895	37998	37998	94	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2008	98	98	3	98	98	98	36383	37120	39111	39111	98	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2009	99	99	3	99	99	99	38363	38820	42504	42504	99	gov	100	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 100 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2010	95	95	3	95	95	95	38763	40742	41164	41164	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2011	96	96	3	96	96	96	38587	40085	41348	41348	96	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2012	96	96	3	96	96	96	38300	39960	44225	44225	96	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2013	99	99	3	99	99	99	39574	39962	43892	43892	99	gov	99	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 99 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2014	99	99	3	99	99	99	42556	43160	46014	46014	99	gov	99	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 99 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2015	99	99	3	99	99	99	40066	40347	42325	42325	99	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2016	99	99	3	99	99	99	38582	38920	41759	41759	99	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2017	99	99	2	99	99	99	37284	37643	38968	38968	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2018	99	99	2	99	99	99	34463	34929	37912	37912	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2019	99	99	2	99	99	99	33455	33876	36521	36521	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2020	99	99	2	99	99	99	33021	33355	35016	35016	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2021	98	98	2	98	98	98	32823	33325	33700	33700	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	bcg	2022	98		2	98	98	98	32777	33339	32556	32556	98	gov		R:	Estimate informed by reported data.  No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	1997	96	96	1						48622	48622	96	extrapolated		R: AP	Legacy estimate.   GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	1998	93	93	1						45399	45399	96	extrapolated		RMF	Estimate based on DTP3 coverage of 82.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	1999	97	97	1						42867	42867	96	extrapolated		RMF	Estimate based on DTP3 coverage of 91.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2000	97	97	1						39951	39951	96	extrapolated		RMF	Estimate based on DTP3 coverage of 93.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2001	98	98	1						38353	38353	96	extrapolated		RMF	Estimate based on DTP3 coverage of 94.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2002	98	98	1					31946	38062	38062	96	extrapolated		RMF	Estimate based on DTP3 coverage of 94.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2003	98	98	1						38688	38688	96	extrapolated		RMF	Estimate based on DTP3 coverage of 94.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2004	97	97	1					37528	39508	39508	96	extrapolated		RMF	Estimate based on DTP3 coverage of 91.  Armenia Demographic and Health Survey 2005 results ignored by working group.  Survey results inconsistent with other survey results. Drop out rates in excess of 20 percentage conflict with other surveys findings of less than 5 percent drop out.  GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2005	96	96	1						39919	39919	96	extrapolated		RMF	Estimate based on DTP3 coverage of 90.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2006	95	95	1						35754	35754	96	extrapolated		RMF	Estimate based on DTP3 coverage of 87.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2007	96	96	2						37998	37998	96	extrapolated		RMF	Estimate based on DTP3 coverage of 88.    GoC=S+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2008	96	96	2		96	96			39111	39111	96	gov		R:	Estimate informed by reported data.    GoC=R+ S+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2009	97	97	3	97	97	97	37739	38820	42504	42504	97	gov	99	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 99 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2010	98	98	1	50	98	98	20716	41050	41164	41164	98	gov		R:	Estimate informed by reported data.   DTP-HepB-Hib vaccine was introduced in September 2009. Administrative data includes only DTP-HepB-Hib. Official estimate includes DTP as well.  Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2011	98	98	3	98	98	98	40621	41443	41348	41348	98	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2012	98	98	3	98	98	98	39562	40387	44225	44225	98	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2013	97	97	3	97	97	97	38940	39962	43892	43892	97	gov	96	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 96 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2014	97	97	3	97	97	97	42040	43160	46014	46014	97	gov	98	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 98 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2015	97	97	3	97	97	97	39241	40347	42325	42325	97	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2016	97	97	3	97	97	97	37806	38920	41759	41759	97	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2017	97	97	2	97	97	97	36475	37643	38968	38968	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2018	96	96	2	96	96	96	33597	34929	37912	37912	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2019	96	96	2	96	96	96	32473	33876	36521	36521	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2020	96	96	2	96	96	96	32043	33355	35016	35016	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2021	96	96	2	96	96	96	31995	33325	33700	33700	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp1	2022	96		2	96	96	96	31994	33339	32556	32556	96	gov		R:	Estimate informed by reported data.  No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	1997	88	88	2		88	88			48622	48622	88	gov		R: AP	Legacy estimate.   GoC=R+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	1998	82	82	2		82	82			45399	45399	82	gov		R:	Estimate informed by reported data.  Evaluation of the National Immunization Program of the Republic of Armenia 1999 results ignored by working group.  Estimates based on reported data. Survey confirms reported coverage for all other vaccines.  GoC=R+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	1999	91	91	2	91	91	91	36234	39753	42867	42867	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2000	93	93	2	93	93	93	33842	36281	39951	39951	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2001	94	94	1	94	94	94	32107	34277	38353	38353	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2002	94	94	1	94	94	94	30024	31946	38062	38062	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2003	94	94	2	94	94	94	33993	36240	38688	38688	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2004	91	91	2	90	91	91	33888	37528	39508	39508	91	gov		R:	Estimate informed by reported data.  Armenia Demographic and Health Survey 2005 results ignored by working group.  Survey results inconsistent with other survey results; drop out rates in excess of 20 percentage conflict with other surveys findings of less than 5 percent drop out.Armenia Demographic and Health Survey 2005 card or history results of 71 percent modifed for recall bias to 73 percent based on 1st dose card or history coverage of 94 percent, 1st dose card only coverage of 87 percent and 3rd dose card only coverage of 68 percent.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2005	90	90	2	90	90	90	33108	36732	39919	39919	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2006	87	87	2	87	87	87	32511	37456	35754	35754	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2007	88	88	3	88	88	88	32302	36895	37998	37998	88	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2008	89	89	3	89	89	89	32882	37120	39111	39111	89	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2009	93	93	3	93	93	93	35925	38820	42504	42504	93	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).  Armenia Demographic and Health Survey 2010 card or history results of 95 percent modifed for recall bias to 97 percent based on 1st dose card or history coverage of 99 percent, 1st dose card only coverage of 92 percent and 3rd dose card only coverage of 90 percent.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2010	94	94	1	48	94	94	19918	41050	41164	41164	94	gov		R:	Estimate informed by reported data.   DTP-HepB-Hib vaccine was introduced in September 2009. Administrative data includes only DTP-HepB-Hib. Official estimate includes DTP as well.  Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2011	95	95	3	95	95	95	39316	41443	41348	41348	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2012	95	95	3	95	95	95	38346	40387	44225	44225	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2013	95	95	3	95	95	95	37786	39962	43892	43892	95	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2014	93	93	3	94	93	93	40362	43160	46014	46014	93	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2015	94	94	3	94	94	94	38072	40347	42325	42325	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2016	94	94	3	94	94	94	36683	38920	41759	41759	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2017	94	94	2	94	94	94	35341	37643	38968	38968	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2018	92	92	2	92	92	92	32303	34929	37912	37912	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2019	92	92	2	92	92	92	31080	33876	36521	36521	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2020	91	91	2	92	91	91	30588	33355	35016	35016	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2021	93	93	2	93	93	93	31045	33325	33700	33700	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	dtp3	2022	93		2	93	93	93	30969	33339	32556	32556	93	gov		R:	Estimate informed by reported data.  No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2000	55	55	2	55	55	55	18416	33593	39951	39951	55	gov		R:	Estimate informed by reported data.   HepB vaccine introduced in 1999. Reporting started in 2000. Vaccine presentation is HepB .  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2001	69	69	2	69	69	69	23788	34277	38353	38353	69	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2002	91	91	1	91	91	91	29151	31946	38062	38062	91	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2003	93	93	2	93	93	93	33776	36240	38688	38688	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2004	91	91	2	91	91	91	34075	37528	39508	39508	91	gov		R:	Estimate informed by reported data.  Armenia Demographic and Health Survey 2005 results ignored by working group.  Survey results inconsistent with other survey results; drop out rates in excess of 20 percentage conflict with other surveys findings of less than 5 percent drop out.Armenia Demographic and Health Survey 2005 card or history results of 75 percent modifed for recall bias to 78 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 90 percent and 3rd dose card only coverage of 72 percent.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2005	91	91	2	91	91	91	33250	36732	39919	39919	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2006	78	78	2	78	78	78	29261	37456	35754	35754	78	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2007	85	85	3	85	85	85	31267	36895	37998	37998	85	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2008	89	89	3	89	89	89	33011	37120	39111	39111	89	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2009	93	93	3	93	93	93	36039	38820	42504	42504	93	gov	91	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 91 percent based on 1 survey(s).  Armenia Demographic and Health Survey 2010 card or history results of 90 percent modifed for recall bias to 91 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 92 percent and 3rd dose card only coverage of 85 percent.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2010	94	94	1	48	94	94	19918	41050	41164	41164	94	gov		R:	Estimate informed by reported data.   DTP-HepB-Hib vaccine was introduced in September 2009. Administrative data includes only DTP-HepB-Hib. Official estimate includes monovalent HepB3 as well.  Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2011	95	95	3	95	95	95	39316	41443	41348	41348	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2012	95	95	3	95	95	95	38346	40387	44225	44225	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2013	95	95	3	95	95	95	37786	39962	43892	43892	95	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2014	93	93	3	94	93	93	40851	43160	46014	46014	93	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2015	94	94	3	94	94	94	38072	40347	42325	42325	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2016	94	94	3	94	94	94	36683	38920	41759	41759	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2017	94	94	2	94	94	94	35341	37643	38968	38968	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2018	92	92	2	92	92	92	32303	34929	37912	37912	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2019	92	92	2	92	92	92	31080	33876	36521	36521	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2020	92	92	2	92	92	92	30588	33355	35016	35016	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2021	93	93	2	93	93	93	31045	33325	33700	33700	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepb3	2022	96		2	96	96	96	31994	33339	32556	32556	96	gov		R:	Estimate informed by reported data.  No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2000	97	97	1	97	97	97	32502	33593	39951	39951	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2001	96	96	1	96	96	96	30940	32037	38353	38353	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2002	95	95	1					32380	38062	38062	95	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2003	95	95	1						38688	38688	95	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2004	94	94	1					37811	39508	39508	94	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2005	93	93	1						39919	39919	93	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2006	92	92	1						35754	35754	92	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2007	92	92	1						37998	37998	92	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2008	91	91	2		91	91			39111	39111	91	gov		R:	Estimate informed by reported data.    GoC=R+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2009	92	92	2	92	92	92	37203	40399	42504	42504	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2010	94	94	2	94	94	94	38220	40742	41164	41164	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2011	95	95	3	95	95	95	38229	40085	41348	41348	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2012	95	95	3	95	95	95	38052	39960	44225	44225	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2013	98	98	3	98	98	98	39121	39962	43892	43892	98	gov	98	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 98 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2014	98	98	1	95	98	98	40362	43160	46014	46014	98	gov	98	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 98 percent based on 1 survey(s).    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2015	98	98	3	98	98	98	39508	40347	42325	42325	98	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2016	98	98	3	98	98	98	38034	38920	41759	41759	98	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2017	97	97	2	97	97	97	36654	37643	38968	38968	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2018	97	97	2	97	97	97	33893	34929	37912	37912	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2019	96	96	2	96	96	96	32391	33876	36521	36521	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2020	97	97	2	97	97	97	32452	33355	35016	35016	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2021	94	94	2	94	94	94	30868	32764	33700	33700	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hepbb	2022	96		2	96	96	96	32012	33339	32556	32556	96	gov		R:	Estimate informed by reported data.  No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2010	48	48	2	48	94	48	19918	41050	41164	41164	48	admin		R:	Estimate informed by reported data.   DTP-HepB-Hib vaccine was introduced in September 2009.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2011	95	95	3	95	98	95	39316	41443	41348	41348	95	admin		R:	Estimate informed by reported data.   DTP-HepB-Hib combination used, inconsistent reporting.  GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2012	95	95	3	95	95	95	38346	40387	44225	44225	95	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2013	95	95	3	95	95	95	37786	39962	43892	43892	95	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2014	93	93	3	94	93	93	40362	43160	46014	46014	93	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2015	94	94	3	94	94	94	38072	40347	42325	42325	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2016	94	94	3	94	94	94	36683	38920	41759	41759	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2017	94	94	2	94	94	94	35341	37643	38968	38968	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2018	92	92	2	92	92	92	32303	34929	37912	37912	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2019	92	92	2	92	92	92	31080	33876	36521	36521	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2020	92	92	2	92	92	92	30588	33355	35016	35016	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2021	93	93	2	93	93	93	31045	33325	33700	33700	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	hib3	2022	96		2	96	96	96	31994	33339	32556	32556	96	gov		R:	Estimate informed by reported data.  No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	ipv1	2016	34	34	2	34	34	34	13371	38920	41759	41759	34	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	ipv1	2017	92	92	2	92	92	92	34773	37643	38968	38968	92	gov		R:	Estimate informed by reported data.   National roll out after introduction.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	ipv1	2018	93	93	2	93	93	93	32264	34929	37912	37912	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	ipv1	2019	92	92	2	92	92	92	31093	33785	36521	36521	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	ipv1	2020	79	79	2	79	79	79	26498	33355	35016	35016	79	gov		R:	Estimate informed by reported data.   Decline in coverage is unexplained.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	ipv1	2021	96	96	2	96	96	96	31995	33325	33700	33700	96	gov		R:	Estimate informed by reported data.   Increase in coverage reflects transition to hexavalent DTP-HepB-Hib-IPV vaccine.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	ipv1	2022	96		2	96	96	96	31994	33339	32556	32556	96	gov		R:	Estimate informed by reported data.   No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	1997	92	92	2		92	92			48622	48622	92	gov		R: AP	Legacy estimate.   GoC=R+ S+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	1998	94	94	2		94	94			45399	45399	94	gov	87	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 87 percent based on 1 survey(s).    GoC=R+ S+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	1999	92	92	3	91	92	92	40465	44452	42867	42867	92	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2000	92	92	3	92	92	92	36176	39504	39951	39951	92	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2001	93	93	2	93	93	93	34214	35781	38353	38353	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2002	91	91	1	91	91	91	20194	33918	38062	38062	91	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2003	94	94	1	94	94	94	30782	32817	38688	38688	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2004	92	92	1	92	92	92	31280	34185	39508	39508	92	gov		R:	Estimate informed by reported data.  Armenia Demographic and Health Survey 2005 results ignored by working group.  Survey results inconsistent with other survey results; drop out rates in excess of 20 percentage conflict with other surveys findings of less than 5 percent drop out.  Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2005	94	94	2	94	94	94	34036	36177	39919	39919	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2006	92	92	2	92	92	92	34292	37325	35754	35754	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2007	92	92	3		92	92	33962	37005	37998	37998	92	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2008	94	94	3	94	94	94	33206	35142	39111	39111	94	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2009	96	96	1	96	96	96	35925	37366	42504	42504	96	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2010	97	97	3	97	97	97	37662	38698	41164	41164	97	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2011	97	97	3	97	97	97	39981	41086	41348	41348	97	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2012	97	97	3	97	97	97	39845	40987	44225	44225	97	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2013	97	97	3	97	97	97	38464	39581	43892	43892	97	gov	93	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 93 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2014	97	97	3	97	97	97	40432	40707	46014	46014	97	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2015	97	97	3	97	97	97	37797	38967	42325	42325	97	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2016	97	97	2	97	97	97	38376	39551	41759	41759	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2017	96	96	2	96	96	96	36854	38217	38968	38968	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2018	95	95	2	95	95	95	35461	37216	37912	37912	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2019	95	95	2	95	95	95	32911	34539	36521	36521	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2020	94	94	2	94	94	94	31733	33600	35016	35016	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2021	94	94	2	94	94	94	30868	32764	33700	33700	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv1	2022	95		2	95	95	95	31058	32814	32556	32556	95	gov		R:	Estimate informed by reported data.  No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	1999	92	92	1	92	92	92	46405	50244	42867	42867	92	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2000	94	94	1	94	94	94	44351	47445	39951	39951	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2001	96	96	1	96	96	96	41010	42601	38353	38353	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2002	95	95	1	62	62	62	24247	39213	38062	38062	95	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded due to decline in reported coverage from 96 percent to 62 percent with increase to 93 percent.   Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2003	93	93	2	93	93	93	39844	42760	38688	38688	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2004	94	94	2	94	94	94	37766	40012	39508	39508	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2005	92	92	2	92	92	92	36220	39215	39919	39919	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2006	85	85	2		85	85			35754	35754	85	gov		R:	Estimate informed by reported data.    GoC=R+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2007	93	93	2	93		93	32620	34063	37998	37998	93	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2008	94	94	1	94	94	94	29194	31137	39111	39111	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2009	96	96	1	96	96	96	31659	32888	42504	42504	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2010	97	97	1	97	97	97	33520	34359	41164	41164	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2011	98	98	1	98	98	98	34138	34928	41348	41348	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2012	97	97	1	97	97	97	34471	35392	44225	44225	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2013	97	97	1	97	97	97	34113	35152	43892	43892	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2014	97	97	1	95	97	97	38279	40192	46014	46014	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2015	97	97	1	97	97	97	36369	37438	42325	42325	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2016	97	97	2	97	97	97	38142	39325	41759	41759	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2017	97	97	2	97	97	97	37328	38626	38968	38968	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2018	96	96	2	96	96	96	35710	37338	37912	37912	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2019	96	96	2	96	96	96	35404	37020	36521	36521	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2020	94	94	2	94	94	94	34901	36968	35016	35016	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2021	94	94	1	94	94	94	35477	37839	33700	33700	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	mcv2	2022	94		1	94	94	94	34526	36663	32556	32556	94	gov		R:	Estimate informed by reported data.   No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pcv3	2015	44	44	2	44	44	44	17715	40347	42325	42325	44	gov		R:	Estimate informed by reported data.   Pneumococcal conjugate vaccine introduced during 2014. Reporting started during 2015.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pcv3	2016	94	94	2	94	94	94	36608	38920	41759	41759	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pcv3	2017	94	94	2	94	94	94	35331	37643	38968	38968	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pcv3	2018	92	92	2	92	92	92	32263	34929	37912	37912	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pcv3	2019	92	92	2	92	92	92	31029	33876	36521	36521	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pcv3	2020	92	92	2	92	92	92	30586	33355	35016	35016	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pcv3	2021	93	93	2	93	93	93	30987	33325	33700	33700	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pcv3	2022	93		2	93	93	93	30971	33339	32556	32556	93	gov		R:	Estimate informed by reported data.   No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	1997	95	95	2		95	95			48622	48622	95	gov		R: AP	Legacy estimate.   GoC=R+ S+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	1998	96	96	2		96	96			45399	45399	96	gov	99	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 99 percent based on 1 survey(s).    GoC=R+ S+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	1999	97	97	3	96	97	97	38372	39753	42867	42867	97	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2000	96	96	3	96	96	96	34802	36281	39951	39951	96	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2001	97	97	1	97	97	97	33192	34277	38353	38353	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2002	96	96	1	96	96	96	30605	31946	38062	38062	96	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2003	96	96	2	96	96	96			38688	38688	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2004	93	93	2	93	93	93	34901	37528	39508	39508	93	gov		R:	Estimate informed by reported data.  Armenia Demographic and Health Survey 2005 results ignored by working group.  Survey results inconsistent with other survey results; drop out rates in excess of 20 percentage conflict with other surveys findings of less than 5 percent drop out.Armenia Demographic and Health Survey 2005 card or history results of 77 percent modifed for recall bias to 78 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 90 percent and 3rd dose card only coverage of 72 percent.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2005	92	92	2	92	92	92	33750	36732	39919	39919	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2006	87	87	2	87	87	87	32743		35754	35754	87	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2007	90	90	3	90	90	90	33195		37998	37998	90	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2008	91	91	3	91	91	91	33802	37120	39111	39111	91	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2009	94	94	3	94	94	94	36608	38820	42504	42504	94	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).  Armenia Demographic and Health Survey 2010 card or history results of 95 percent modifed for recall bias to 97 percent based on 1st dose card or history coverage of 99 percent, 1st dose card only coverage of 92 percent and 3rd dose card only coverage of 90 percent.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2010	96	96	3	96	96	96	39222	41050	41164	41164	96	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2011	96	96	3	96	96	96	39947	41443	41348	41348	96	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2012	96	96	3	96	96	96	38890	40387	44225	44225	96	gov		R:	Estimate informed by reported data.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2013	96	96	3	96	96	96	38306	39962	43892	43892	96	gov	97	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 97 percent based on 1 survey(s).  Armenia Demographic and Health Survey 2015-2016 card or history results of 96 percent modifed for recall bias to 97 percent based on 1st dose card or history coverage of 99 percent, 1st dose card only coverage of 92 percent and 3rd dose card only coverage of 90 percent.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2014	95	95	3	96	95	95	41324	43160	46014	46014	95	gov	95	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 95 percent based on 1 survey(s).  Armenia Demographic and Health Survey 2015-2016 card or history results of 93 percent modifed for recall bias to 95 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 94 percent and 3rd dose card only coverage of 91 percent.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2015	96	96	3	96	96	96	38822	40347	42325	42325	96	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2016	96	96	3	96	96	96	37352	38920	41759	41759	96	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2017	96	96	2	96	96	96	35988	37643	38968	38968	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2018	92	92	2	92	92	92	32303	34929	37912	37912	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2019	94	94	2	94	94	94	31731	33876	36521	36521	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2020	86	86	2	86	86	86	28724	33355	35016	35016	86	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2021	93	93	1						33700	33700	86	extrapolated		W:	 Estimate is based on reported DTP3 coverage following transition to use of hexavalent DTP-HepB-Hib-IPV vaccine.   GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	pol3	2022	93		1						32556	32556	86	extrapolated		W:	 Estimate informed by reported DTP3 coverage following transition to use of hexavalent DTP-HepB-Hib-IPV vaccine.  No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=No accepted empirical data	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2002	91	91	1						38062	38062				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2003	94	94	1						38688	38688				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2004	92	92	1						39508	39508				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2005	94	94	2						39919	39919				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2006	92	92	2						35754	35754				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2007	92	92	3						37998	37998				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2008	94	94	3						39111	39111				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2009	96	96	1						42504	42504				R: AP	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2010	97	97	3						41164	41164				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2011	97	97	3						41348	41348				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2012	97	97	3						44225	44225				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2013	97	97	3						43892	43892			93	R: AP	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2014	97	97	3						46014	46014				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2015	97	97	3						42325	42325				R:	Estimate based on estimated MCV1.    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2016	97	97	2				38376	39551	41759	41759				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2017	96	96	2				36854	38217	38968	38968				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2018	95	95	2						37912	37912				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2019	95	95	2						36521	36521				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2020	94	94	2						35016	35016				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2021	94	94	2						33700	33700				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rcv1	2022	95		2						32556	32556				R:	Estimate based on estimated MCV1.   No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rotac	2013	33	33	1	90	90	90	13104	14508	43892	43892	90	gov	87	W:	 Rotavirus vaccine introduced in 2013. Ninety percent coverage attained in 36 percent of the national target population. Estimate is based on annualized coverage among national birth cohort.   Estimate challenged by: R-S-	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rotac	2014	91	91	3	88	91	91	37603	43160	46014	46014	91	gov	90	R: AP	Estimate informed by reported data supported by survey. Survey evidence of 90 percent based on 1 survey(s).    GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rotac	2015	93	93	3	93	93	93	37664	40347	42325	42325	93	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rotac	2016	94	94	3	94	94	94	36503	38920	41759	41759	94	gov		R:	Estimate informed by reported data.   GoC=R+ S+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rotac	2017	94	94	2	94	94	94	35389	37643	38968	38968	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rotac	2018	93	93	2	93	93	93	32322	34929	37912	37912	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rotac	2019	92	92	2	92	92	92	31059	33876	36521	36521	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rotac	2020	92	92	2	92	92	92	30740	33355	35016	35016	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rotac	2021	92	92	2	92	92	92	30761	33325	33700	33700	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Armenia	Wed Sep 06 18:36:48 2023	arm	rotac	2022	92		2	92	92	92	30628	33339	32556	32556	92	gov		R:	Estimate informed by reported data.  No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	

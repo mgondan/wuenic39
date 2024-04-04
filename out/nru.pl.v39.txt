@@ -1,0 +1,245 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	1997	78	78	2		78	78			305	305	78	gov		R: AP	Legacy estimate.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	1998	89	89	2		89	89			303	303	89	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	1999	95	95	1		95	95	188	303	302	302	95	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2000	93	93	2		93	93	272	292	302	302	93	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2001	99	99	2		100	100			301	301	100	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2002	99	99	2	95	100	100	286	300	297	297	100	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2003	97	97	1						295	295	97	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2004	93	93	1				313	332	297	297	93	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2005	90	90	2	100	90	90	279	273	302	302	90	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2006	99	99	2	100	100	100	286	287	309	309	100	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 63 less than 300.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2007	99	99	2	100	100	100	319	319	321	321	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2008	99	99	2	100	100	100	319	319	333	333	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2009	99	99	2	100	100	100	359	359	346	346	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2010	99	99	2	100	100	100	332	332	357	357	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2011	99	99	2	100	100	100	385	385	363	363	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2012	99	99	2	100	100	100	361	361	361	361	100	gov		R:	Estimate informed by reported data. .  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2013	99	99	1						359	359	100	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2014	99	99	2	100	98	100	342	342	357	357	100	admin		R:	Estimate informed by reported administrative data.   Programme reports national level stockout (duration unspecified). Adjustments to administrative data to obtain official estimates are unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2015	99	99	2	100	100	100	377	377	357	357	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2016	99	99	1	100	100	100	400	400	357	357	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2017	99	99	2	100	100	100	333	333	355	355	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2018	99	99	2	100	100	100	323	323	355	355	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2019	99	99	2	100	100	100	335	335	355	355	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2020	99	99	2	100	100	100	328	328	350	350	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2021	99	99	2	100	100	100	346	346	346	346	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	bcg	2022	99		1						341	341	100	extrapolated		R:	Estimate based on extrapolation from data reported by national government.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	1997	74	74	1						305	305	85	extrapolated		W: AP	Estimate of 74 percent assigned by working group. Legacy estimate.  Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	1998	78	78	1						303	303	85	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	1999	81	81	1						302	302	85	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2000	85	85	2	85	85	85	247	289	302	302	85	gov		R: AP	 Estimate is based on reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2001	98	98	1		90	90			301	301	90	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 95.   Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: R-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2002	99	99	2	100	100	100	312	300	297	297	100	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2003	97	97	1						295	295	97	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2004	93	93	2				292	332	297	297	93	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2005	90	90	2	100	90	90	268	268	302	302	90	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2006	98	98	1	98	98	98	264	270	309	309	98	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 63 less than 300.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2007	99	99	2	100	100	100	300	300	321	321	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2008	99	99	2	100	100	100	319	319	333	333	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2009	99	99	2		100	100			346	346	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2010	99	99	2	100	100	100	324	324	357	357	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2011	99	99	2	100	100	100	386	386	363	363	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2012	98	98	2		98	98			361	361	98	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2013	99	99	1						359	359	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2014	99	99	2	100	98	100	352	345	357	357	100	admin		R:	Estimate informed by reported administrative data.   Programme reports national level stockout (duration unspecified). Adjustments to administrative data to obtain official estimates are unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2015	98	98	1	98	98	98	391	398	357	357	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2016	99	99	1	99	99	99	397	400	357	357	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2017	99	99	2	100	100	100	364	365	355	355	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2018	99	99	1	99	100	100	314	317	355	355	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2019	99	99	2	105	105	105	343	326	355	355	100	extrapolated		R:	Estimate based on extrapolation from data reported by national government.  Reported data excluded because 105 percent greater than 100 percent.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2020	99	99	2	102	102	102	335	328	350	350	100	extrapolated		R:	Estimate based on extrapolation from data reported by national government.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2021	99	99	2	101	101	101	351	346	346	346	100	extrapolated		R:	Estimate based on extrapolation from data reported by national government.  Reported data excluded because 101 percent greater than 100 percent.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp1	2022	99		1						341	341	100	extrapolated		R:	Estimate based on extrapolation from data reported by national government.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	1997	50	50	2		50	50			305	305	50	gov		R: AP	Legacy estimate.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	1998	72	72	2		72	72			303	303	72	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	1999	64	64	2		64	64	195	303	302	302	64	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2000	44	44	2		44	44	127	288	302	302	44	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2001	95	95	2		95	95			301	301	95	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2002	80	80	2	80	80	80	239	300	297	297	80	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2003	80	80	1						295	295	80	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2004	80	80	1				166	332	297	297	80	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2005	80	80	1	33	80	80	89	268	302	302	80	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2006	72	72	1	72	72	72	175	257	309	309	72	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 63 less than 300. Republic of Nauru Demographic and Health Survey 2007 card or history results of 89 percent modifed for recall bias to 91 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 96 percent and 3rd dose card only coverage of 89 percent.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2007	99	99	2	100	100	100	290	290	321	321	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2008	99	99	2	100	100	100	319	319	333	333	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2009	99	99	2		100	100			346	346	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2010	99	99	1	100	100	100	313	313	357	357	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2011	99	99	2	100	100	100	380	380	363	363	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2012	79	79	2		79	79			361	361	79	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2013	87	87	1						359	359	87	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2014	95	95	2	95	75	95	330	345	357	357	95	admin		R:	Estimate informed by reported administrative data.   Programme reports national level stockout (duration unspecified). Adjustments to administrative data to obtain official estimates are unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2015	91	91	1	91	91	91	365	398	357	357	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2016	97	97	1	97	97	97	388	399	357	357	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2017	87	87	2	87	87	87	318	365	355	355	87	gov		R:	Estimate informed by reported data.  Decline in reported coverage unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2018	90	90	2	90	90	90	286	317	355	355	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2019	96	96	2	96	96	96	314	326	355	355	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2020	95	95	2	95	95	95	313	328	350	350	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2021	98	98	2	98	98	98	339	346	346	346	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	dtp3	2022	98		1						341	341	98	extrapolated		R:	Estimate based on extrapolation from data reported by national government.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	1997	86	86	2		86	86			305	305	86	gov		R: AP	Legacy estimate.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	1998	29	29	2		29	29			303	303	29	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	1999	62	62	2		62	62	186	303	302	302	62	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2000	58	58	2		58	58	168	288	302	302	58	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2001	95	95	2		95	95			301	301	95	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2002	75	75	2	75		75	225	300	297	297	75	admin		R:	Estimate informed by reported administrative data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2003	77	77	1						295	295	77	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2004	78	78	2				219	332	297	297	78	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2005	80	80	1	55	80	80	149	268	302	302	80	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2006	99	99	1	100	100	100	244	244	309	309	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2007	99	99	2	100	100	100	291	291	321	321	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2008	99	99	2	100	100	100	319	319	333	333	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2009	99	99	2	100		100	359	359	346	346	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2010	99	99	1	100	100	100	313	313	357	357	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2011	99	99	2	100	100	100	373	373	363	363	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2012	79	79	2		79	79			361	361	79	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2013	87	87	1						359	359	87	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2014	95	95	2	95		95	330	345	357	357	95	admin		R:	Estimate informed by reported administrative data.   Programme reports national level stockout (duration unspecified). Adjustments to administrative data to obtain official estimates are unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2015	91	91	1	91	91	91	365	398	357	357	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2016	97	97	1	98	97	97	392	399	357	357	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2017	87	87	2	87	87	87	318	365	355	355	87	gov		R:	Estimate informed by reported data.  Decline in reported coverage unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2018	90	90	2	90	90	90	286	317	355	355	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2019	96	96	2	96	96	96	314	326	355	355	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2020	95	95	2	95	95	95	313	328	350	350	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2021	98	98	2	98	98	98	339	346	346	346	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepb3	2022	98		1						341	341	98	extrapolated		R:	Estimate based on extrapolation from data reported by national government.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2000	98	98	2	98	98	98	285	292	302	302	98	gov		R:	Estimate informed by reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2001	99	99	2		100	100			301	301	100	gov		R:	Estimate informed by reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2002	99	99	1	85	100	100	255	300	297	297	100	gov		R:	Estimate informed by reported data.   Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2003	95	95	1						295	295	95	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2004	90	90	2		90	90		332	297	297	90	gov		R:	Estimate informed by reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2005	98	98	2	100	98	98	286	273	302	302	98	gov		R:	Estimate informed by reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2006	99	99	2	100	100	100		283	309	309	100	gov		R:	Estimate informed by reported data.    GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2007	99	99	2	100	100	100	315	315	321	321	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2008	99	99	2	100	100	100	313	313	333	333	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2009	99	99	2	100	100	100	359	359	346	346	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2010	99	99	2	100	100	100	332	332	357	357	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2011	99	99	2	100	100	100	385	385	363	363	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2012	99	99	2	100	100	100	361	361	361	361	100	gov		R:	Estimate informed by reported data.  .  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2013	99	99	1						359	359	100	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2014	99	99	2	100	98	100	342	342	357	357	100	admin		R:	Estimate informed by reported administrative data.   Adjustments to administrative data to obtain official estimates are unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2015	99	99	2	100	100	100	377	377	357	357	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2016	99	99	1	100	100	100	400	400	357	357	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2017	99	99	2	100	100	100	333	333	355	355	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2018	99	99	2	100	100	100	323	323	355	355	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2019	99	99	2	100	100	100	335	335	355	355	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2020	99	99	2	100	100	100	328	328	350	350	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2021	99	99	2	100	100	100	346	346	346	346	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hepbb	2022	99		1						341	341	100	extrapolated		R:	Estimate informed by extrapolation from reported data.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2009	99	99	2	100		100	359	359	346	346	100	admin		R:	Estimate informed by reported administrative data.   Hib vaccine introduced in 2009  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2010	99	99	1	100	100	100	313	313	357	357	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2011	99	99	2	100	100	100	373	373	363	363	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2012	79	79	2		79	79			361	361	79	gov		R:	Estimate informed by reported data.  .  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2013	87	87	1						359	359	87	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2014	95	95	2	95	75	95	330	345	357	357	95	admin		R:	Estimate informed by reported administrative data.   Programme reports national level stockout (duration unspecified). Adjustments to administrative data to obtain official estimates are unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2015	91	91	1	91	91	91	365	398	357	357	91	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2016	97	97	1	98	97	97	392	399	357	357	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2017	87	87	2	87	87	87	318	365	355	355	87	gov		R:	Estimate informed by reported data.   Decline in reported coverage unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2018	90	90	2	90	90	90	286	317	355	355	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2019	96	96	2	96	96	96	314	326	355	355	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2020	95	95	2	95	95	95	313	328	350	350	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2021	98	98	2	98	98	98	339	346	346	346	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	hib3	2022	98		1						341	341	98	extrapolated		R:	Estimate informed by extrapolation from reported data.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	ipv1	2015	91	91	1	91	91	91	365	398	357	357	91	gov		R:	Estimate informed by reported data.   Inactivated polio vaccine in October 2015.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	ipv1	2016	97	97	1	97	97	97	388	399	357	357	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	ipv1	2017	99	99	2	100		100	364	365	355	355	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	ipv1	2018	99	99	1	99	99	99	314	317	355	355	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	ipv1	2019	96	96	2	96	96	96	314	326	355	355	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	ipv1	2020	95	95	2	95	95	95	313	328	350	350	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	ipv1	2021	99	99	2	100	100	100	346	346	346	346	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	ipv1	2022	99		1						341	341	100	extrapolated		R:	Estimate informed by extrapolation from reported data.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	1997	99	99	1		100	100			305	305	100	gov		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.  Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: R-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	1998	90	90	2		90	90			303	303	90	gov		R: AP	 Estimate is based on reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	1999	49	49	1						302	302	49	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2000	8	8	2		8	8	23	288	302	302	8	gov		R:	Estimate informed by reported data.  Decline in 2000 unexplained. Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2001	95	95	2		95	95			301	301	95	gov		R:	Estimate informed by reported data.  Increase in 2001 unexplained. Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2002	40	40	1	40		40	448		297	297	40	admin		R:	Estimate informed by reported administrative data.   Decline in 2002 unexplained. Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2003	53	53	1						295	295	53	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2004	67	67	1					257	297	297	67	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2005	80	80	1	63	80	80	101	159	302	302	80	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2006	99	99	1	100	100	100	238	238	309	309	100	gov		R:	Estimate informed by reported data. Survey results ignored. Sample size 63 less than 300.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2007	99	99	1	100	100	100	242	242	321	321	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2008	99	99	2	100	100	100	319	319	333	333	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2009	99	99	1	100	100	100	310	312	346	346	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2010	99	99	2	100	100	100	361	361	357	357	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2011	99	99	1	100	100	100	309	309	363	363	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2012	96	96	2		96	96			361	361	96	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2013	97	97	1						359	359	97	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2014	98	98	1	98	65	98	308	313	357	357	98	admin		R:	Estimate informed by reported administrative data.   Programme reports national level stockout (duration unspecified). Adjustments to administrative data to obtain official estimates are unexplained.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2015	98	98	2	98	98	98	355	362	357	357	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2016	98	98	1	98	98	98	392	399	357	357	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2017	95	95	1	95	95	95	385	405	355	355	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2018	99	99	2	96	100	100	335	350	355	355	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2019	95	95	1	95	95	95	294	308	355	355	95	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2020	98	98	2	98	98	98	329	335	350	350	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2021	98	98	2	102	102	102	334	328	346	346	98	extrapolated		R:	Estimate based on extrapolation from data reported by national government.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv1	2022	98		1						341	341	98	extrapolated		R:	Estimate based on extrapolation from data reported by national government.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2001	95	95	2		95	95			301	301	95	gov		R:	Estimate informed by reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2002	83	83	1						297	297	83	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2003	72	72	1						295	295	72	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2004	60	60	1	29	60	60	50	170	297	297	60	gov		R:	Estimate informed by reported data.   Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2005	50	50	1	88	50	50	62	70	302	302	50	gov		R:	Estimate informed by reported data.   Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2006	97	97	1	97	97	97	228	235	309	309	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2007	99	99	1	100	100	100	260	260	321	321	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2008	99	99	2	100	100	100	319	319	333	333	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2009	92	92	2	92	92	92	286	312	346	346	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2010	99	99	2	100	100	100	344	344	357	357	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2011	99	99	2	100	100	100	339	339	363	363	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2012	81	81	2		81	81			361	361	81	gov		R:	Estimate informed by reported data.  .  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2013	88	88	1						359	359	88	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2014	94	94	1	94	49	94	291	309	357	357	94	admin		R:	Estimate informed by reported administrative data.   Adjustments to administrative data to obtain official estimates are unexplained.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2015	96	96	2	96	96	96	324	335	357	357	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2016	97	97	2	97		97	376	387	357	357	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2017	94	94	1	95	94	94	383	404	355	355	94	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2018	94	94	2	95	94	94	361	382	355	355	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2019	95	95	1	96	95	95	292	305	355	355	95	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2020	97	97	2	97	97	97	328	338	350	350	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2021	97	97	2	101	101	101	331	328	346	346	97	extrapolated		R:	Estimate informed by extrapolation from reported data.  Reported data excluded because 101 percent greater than 100 percent.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	mcv2	2022	97		1						341	341	97	extrapolated		R:	Estimate informed by extrapolation from reported data.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pcv3	2021	59	59	2	59	59	59	205	346	346	346	59	gov		R:	Estimate informed by reported data.   Pneumococcal conjugate vaccine introduced during 2021.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pcv3	2022	59		1						341	341	59	extrapolated		R:	Estimate informed by extrapolation from reported data.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	1997	36	36	2		36	36			305	305	36	gov		R: AP	Legacy estimate.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	1998	72	72	2		72	72			303	303	72	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	1999	64	64	2		64	64	195	303	302	302	64	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2000	27	27	2		27	27	77	288	302	302	27	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2001	99	99	2		100	100			301	301	100	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2002	59	59	2	59	59	59	176	300	297	297	59	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2003	66	66	1						295	295	66	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2004	73	73	2				196	332	297	297	73	interpolated		R:	Estimate informed by interpolation between reported data.   Fluctuation in reported data is attributed to small birth cohort.  GoC=D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2005	80	80	1	44	80	80	118	268	302	302	80	gov		R:	Estimate informed by reported data.  Fluctuation in reported data is attributed to small birth cohort.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2006	90	90	1	45	45	45	126		309	309	90	interpolated		R:	Estimate informed by interpolation between reported data.  Survey results ignored. Sample size 63 less than 300. Republic of Nauru Demographic and Health Survey 2007 card or history results of 91 percent modifed for recall bias to 93 percent based on 1st dose card or history coverage of 98 percent, 1st dose card only coverage of 96 percent and 3rd dose card only coverage of 91 percent. Reported data excluded due to decline in reported coverage from 80 percent to 45 percent with increase to 100 percent.  Decline in 2006 is due to OPV stockout caused by a prolonged power loss.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2007	99	99	2	100	100	100	298		321	321	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2008	99	99	2	100	100	100	319	319	333	333	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2009	99	99	2	100	100	100	359	359	346	346	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2010	99	99	1	100	100	100	313	313	357	357	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2011	99	99	2	100	100	100	373	373	363	363	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2012	79	79	2		79	79			361	361	79	gov		R:	Estimate informed by reported data. .  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2013	87	87	1						359	359	87	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2014	95	95	2	95	75	95	330	345	357	357	95	admin		R:	Estimate informed by reported administrative data.   Programme reports national level stockout (duration unspecified). Adjustments to administrative data to obtain official estimates are unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2015	91	91	1	91	91	91	365	398	357	357	91	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2016	97	97	1	98	97	97	392	399	357	357	97	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2017	87	87	2	87	87	87	318	365	355	355	87	gov		R:	Estimate informed by reported data.  Decline in reported coverage unexplained.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2018	90	90	2	90	90	90	286	317	355	355	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2019	96	96	2	96	96	96	314	326	355	355	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2020	95	95	2	95	95	95	313	328	350	350	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2021	98	98	2	98	98	98	339	346	346	346	98	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	pol3	2022	98		1						341	341	98	extrapolated		R:	Estimate based on extrapolation from data reported by national government.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2006	97	97	1						309	309				R:	First dose of rubella vaccine given with second dose of measles containing vaccine. Estimate based on MCV2 estimate   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2007	99	99	1						321	321				R:	First dose of rubella vaccine given with second dose of measles containing vaccine. Estimate based on MCV2 estimate   Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2008	99	99	2						333	333				R:	First dose of rubella vaccine given with second dose of measles containing vaccine. Estimate based on MCV2 estimate   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2009	92	92	2						346	346				R:	First dose of rubella vaccine given with second dose of measles containing vaccine. Estimate based on MCV2 estimate   GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2010	99	99	2						357	357				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2011	99	99	1						363	363				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2012	96	96	2						361	361				R:	Estimate based on estimated MCV1.  .  GoC=R+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2013	97	97	1						359	359				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2014	98	98	1						357	357				R:	Estimate based on estimated MCV1.   Adjustments to administrative data to obtain official estimates are unexplained.  Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2015	98	98	2						357	357				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2016	98	98	1				392	399	357	357				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2017	95	95	1						355	355				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2018	99	99	2						355	355				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2019	95	95	1						355	355				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2020	98	98	2						350	350				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2021	98	98	2						346	346				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rcv1	2022	98		1						341	341				R:	Estimate based on estimated MCV1.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rotac	2021	60	60	2	60	60	60	209	346	346	346	60	gov		R:	Estimate informed by reported data.   Rotavirus vaccine introduced during 2021.  GoC=R+ D+	
+Nauru	Wed Sep 06 19:00:37 2023	nru	rotac	2022	60		1						341	341	60	extrapolated		R:	Estimate informed by extrapolation from reported data.   WHO and UNICEF are aware of an ongoing 2023 Multiple Indicator Cluster Survey and await the final results.  GoC=No accepted empirical data	

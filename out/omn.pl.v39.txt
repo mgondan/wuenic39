@@ -1,0 +1,273 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	1997	96	96	2		96	96			60495	60495	96	gov		R: AP	Legacy estimate.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	1998	96	96	2		96	96			60185	60185	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	1999	98	98	2	98	98	98		47623	59876	59876	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2000	98	98	2	98	98	98		48048	58354	58354	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2001	98	98	1	98	98	98	46766	47681	57310	57310	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2002	98	98	1	98	98	98	47395	48323	56218	56218	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2003	98	98	1	98	98	98	47916	48854	55495	55495	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2004	99	99	2	99		99	48890	49384	54876	54876	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2005	98	98	2	98		98	48448	49417	53764	53764	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2006	99	99	2	99		99	50919	51428	53009	53009	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2007	99	99	2	99		99	54328	54871	53495	53495	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2008	99	99	2	104		104	58954	56527	56034	56034	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 104 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2009	99	99	2	102		102	64254	63000	60145	60145	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2010	99	99	2	99		99	65142	65500	64416	64416	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2011	99	99	2	101		101	68866	68000	69578	69578	100	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 101 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2012	99	99	2	100		100	73099	73000	74735	74735	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2013	99	99	2	100		100	78509	78151	80629	80629	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2014	99	99	2	100		100	81885	82000	84830	84830	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2015	99	99	2	100	100	100	86583	86226	87985	87985	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2016	99	99	2	100		100	90228	90228	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2017	99	99	2	100	100	100	92396	92396	92131	92131	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2018	99	99	2	100	100	100	91061	91061	91717	91717	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2019	99	99	2	100	100	100	89106	89106	89872	89872	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2020	99	99	2	100	100	100	84022	84051	86916	86916	100	gov		R:	Estimate informed by reported data.  Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2021	99	99	2	100	100	100	83179	83184	83496	83496	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	bcg	2022	99		2	100	100	100	82699	82699	81043	81043	100	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	1997	99	99	1						60495	60495	98	extrapolated		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   GoC=No accepted empirical data	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	1998	99	99	1						60185	60185	98	extrapolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 100.    GoC=No accepted empirical data	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	1999	99	99	1						59876	59876	98	extrapolated		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    GoC=No accepted empirical data	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2000	99	99	1	98	98	98	46760	47624	58354	58354	98	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 100.    Estimate challenged by: D-R-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2001	99	99	1	98	98	98	46129	47292	57310	57310	98	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 100.    Estimate challenged by: D-R-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2002	99	99	1	98	98	98	47043	47928	56218	56218	98	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    Estimate challenged by: D-R-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2003	99	99	1	98	98	98		48467	55495	55495	98	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    Estimate challenged by: R-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2004	99	99	1	99		99	48085	48571	54876	54876	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2005	99	99	2	100		100	49204	49417	53764	53764	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2006	98	98	2	98		98	50551	51428	53009	53009	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2007	99	99	2	100		100	54612	54871	53495	53495	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2008	99	99	1	97		97	55039	56527	56034	56034	97	admin		RMF:	DTP1 coverage estimated based on DTP3 coverage of 99.    Estimate challenged by: R-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2009	99	99	2	101		101	63927	63000	60145	60145	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 101 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2010	99	99	2	100		100	65464	65500	64416	64416	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2011	99	99	2	100		100	68085	68000	69578	69578	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2012	99	99	2	99		99	71995	73000	74735	74735	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2013	99	99	2	100		100	78266	78151	80629	80629	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2014	99	99	2	100		100	81631	82000	84830	84830	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2015	99	99	2	100	100	100	86030	85956	87985	87985	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2016	99	99	2	100		100	86280	86288	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2017	99	99	2	100	100	100	91037	91040	92131	92131	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2018	99	99	2	100	100	100	87305	87332	91717	91717	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2019	99	99	2	100	100	100	85691	85702	89872	89872	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2020	99	99	2	100	100	100	80985	81151	86916	86916	100	gov		R:	Estimate informed by reported data.  Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2021	99	99	2	100	100	100	80698	80773	83496	83496	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp1	2022	99		2	100	100	100	79703	79945	81043	81043	100	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	1997	99	99	2		99	99			60495	60495	99	gov		R: AP	Legacy estimate.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	1998	99	99	2		100	100			60185	60185	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	1999	99	99	1	99	99	99	46134	46784	59876	59876	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2000	99	99	1	100	100	100	47573	47201	58354	58354	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2001	99	99	1	100	100	100	46891	46902	57310	57310	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2002	99	99	1	99	99	99	46865	47533	56218	56218	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2003	99	99	1	99	99	99	47478	48079	55495	55495	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2004	99	99	1	99		99	48194	48194	54876	54876	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2005	99	99	2	101		101	49977	49417	53764	53764	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 101 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2006	98	98	2	98		98	50451	51428	53009	53009	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2007	99	99	2	100		100	55076	54871	53495	53495	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2008	99	99	2	99		99	52078	56527	56034	56034	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2009	98	98	2	98		98	61734	63000	60145	60145	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2010	99	99	2	99		99	64620	65500	64416	64416	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2011	99	99	2	100		100	68179	68000	69578	69578	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2012	98	98	2	98		98	71279	73000	74735	74735	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2013	98	98	2	98		98	76444	78151	80629	80629	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2014	99	99	2	99		99	81467	82000	84830	84830	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2015	99	99	2	99	100	100	85326	85867	87985	87985	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2016	99	99	2	100		100	86105	86288	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2017	99	99	2	100	100	100	91013	91040	92131	92131	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2018	99	99	2	99	100	100	86997	87677	91717	91717	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2019	99	99	2	100	100	100	85681	85702	89872	89872	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2020	99	99	2	100	100	100	81137	81151	86916	86916	100	gov		R:	Estimate informed by reported data.  Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2021	99	99	2	100	100	100	80698	80773	83496	83496	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	dtp3	2022	99		2	100	100	100	79617	79945	81043	81043	100	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	1997	99	99	1		100	100			60495	60495	100	gov		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	1998	99	99	2		99	99			60185	60185	99	gov		R: AP	 Estimate is based on estimated DTP coverage level.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	1999	99	99	1	100	100	100	47680	46784	59876	59876	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2000	99	99	1	100	100	100	48515	47201	58354	58354	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2001	99	99	1	100	100	100	47580	46902	57310	57310	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2002	99	99	1	100	100	100	47995	47533	56218	56218	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2003	99	99	1	100	100	100	48095	48079	55495	55495	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2004	99	99	1	99		99	47628	48109	54876	54876	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2005	99	99	2	102		102	50392	49417	53764	53764	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2006	99	99	2	99		99	50748	51428	53009	53009	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2007	99	99	2	100		100	55076	54871	53495	53495	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2008	99	99	2	99		99	52078	56527	56034	56034	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2009	98	98	2	98		98	61734	63000	60145	60145	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2010	99	99	2	99		99	64620	65500	64416	64416	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2011	99	99	2	100		100	68179	68000	69578	69578	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2012	98	98	2	98		98	71279	73000	74735	74735	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2013	98	98	2	98		98	76444	78151	80629	80629	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2014	99	99	2	99		99	81467	82000	84830	84830	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2015	99	99	2	98	100	100	84776	86226	87985	87985	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2016	99	99	2	100		100	86280	86288	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2017	99	99	2	100	100	100	91013	91040	92131	92131	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2018	99	99	2	100	100	100	87305	87322	91717	91717	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2019	99	99	2	100	100	100	85691	85702	89872	89872	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2020	99	99	2	100	100	100	81137	81151	86916	86916	100	gov		R:	Estimate informed by reported data.  Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2021	99	99	2	100	100	100	80758	80773	83496	83496	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepb3	2022	99		2	100	100	100	79615	79945	81043	81043	100	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2000	99	99	2	99	99	99		48048	58354	58354	99	gov		R:	Estimate informed by reported data.    GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2001	97	97	1	97	97	97	46147	47681	57310	57310	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2002	97	97	1	99	97	97	47922	48323	56218	56218	97	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2003	99	99	1	99	99	99	48198	48854	55495	55495	99	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2004	99	99	1	99		99	48076	48562	54876	54876	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2005	99	99	2	99		99	48708	49417	53764	53764	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2006	99	99	2	100		100	51180	51428	53009	53009	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2007	99	99	2	99		99	54459	54871	53495	53495	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2008	99	99	2	105		105	59448	56527	56034	56034	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 105 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2009	99	99	2	102		102	64197	63000	60145	60145	100	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2010	99	99	2	100		100	65486	65500	64416	64416	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2011	99	99	2	99		99	67126	68000	69578	69578	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2012	99	99	2	101		101	73905	73000	74735	74735	100	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 101 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2013	99	99	2	100		100	78683	78151	80629	80629	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2014	99	99	2	100		100	82066	82000	84830	84830	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2015	99	99	2	101	100	100	86826	86226	87985	87985	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2016	99	99	2	100		100	90228	90228	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2017	99	99	2	100	100	100	92396	92396	92131	92131	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2018	99	99	2	100	100	100	91061	91061	91717	91717	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2019	99	99	2	100	100	100	89106	89106	89872	89872	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2020	99	99	2	100	100	100	80966	81151	86916	86916	100	gov		R:	Estimate informed by reported data.   Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2021	99	99	2	100	100	100	83179	83184	83496	83496	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hepbb	2022	99		2	100	100	100	82699	82699	81043	81043	100	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2002	97	97	1	97	97	97	30870	47533	56218	56218	97	gov		R:	Estimate informed by reported data.   Hib vaccine introduced in 2001. Reporting started in 2002. Vaccine presentation is DTP-HepB-Hib.  Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2003	99	99	1	100	100	100	48040	48079	55495	55495	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2004	99	99	1	99		99	47628	48109	54876	54876	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2005	99	99	2	102		102	50381	49417	53764	53764	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2006	98	98	2	98		98	50446	51428	53009	53009	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2007	99	99	2	100		100	55076	54871	53495	53495	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2008	99	99	2	99		99	52078	56527	56034	56034	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2009	98	98	2	98		98	61734	63000	60145	60145	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2010	99	99	2	99		99	64620	65500	64416	64416	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2011	99	99	2	100		100	68179	68000	69578	69578	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2012	98	98	2	98		98	71279	73000	74735	74735	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2013	98	98	2	98		98	76444	78151	80629	80629	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2014	99	99	2	99		99	81467	82000	84830	84830	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2015	99	99	2	98	100	100	84776	86226	87985	87985	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2016	99	99	2	100		100	86280	86288	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2017	99	99	2	100	100	100	91013	91040	92131	92131	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2018	99	99	2	100	100	100	87305	87322	91717	91717	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2019	99	99	2	100	100	100	85691	85702	89872	89872	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2020	99	99	2	100	100	100	81137	81151	86916	86916	100	gov		R:	Estimate informed by reported data.   Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2021	99	99	2	100	100	100	80758	80773	83496	83496	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	hib3	2022	99		2	100	100	100	79615	79945	81043	81043	100	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	ipv1	2015	99	99	2		100	100			87985	87985	100	gov		R:	Estimate informed by reported data.   Inactivated polio vaccine introduced in 2010.  GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	ipv1	2016	99	99	2	100		100	86280	86288	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	ipv1	2017	99	99	2	100	100	100	91037	91040	92131	92131	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	ipv1	2018	99	99	2	100	100	100	87306	87332	91717	91717	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	ipv1	2019	99	99	2	100	100	100	85691	85702	89872	89872	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	ipv1	2020	99	99	2	100	100	100	80985	81151	86916	86916	100	gov		R:	Estimate informed by reported data.   Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	ipv1	2021	99	99	2	100	100	100	80758	80773	83496	83496	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	ipv1	2022	99		2	100	100	100	79703	79945	81043	81043	100	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	1997	98	98	2		98	98			60495	60495	98	gov		R: AP	Legacy estimate.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	1998	98	98	2		98	98			60185	60185	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	1999	99	99	1	99	99	99	46177	46784	59876	59876	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2000	99	99	1	100	100	100	47098	47201	58354	58354	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2001	99	99	1	100	100	100	47112	46902	57310	57310	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2002	99	99	1	99	99	99	35787	47533	56218	56218	99	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2003	98	98	1	98	98	98	47063	48079	55495	55495	98	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2004	98	98	1	98		98	47550	48520	54876	54876	98	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2005	98	98	2	98		98	48348	49417	53764	53764	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2006	96	96	2	96		96	49221	51428	53009	53009	96	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2007	97	97	2	97		97	52719	54328	53495	53495	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2008	98	98	2	102		102	55711	54871	56034	56034	98	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 102 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2009	99	99	2	105		105	60607	57694	60145	60145	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 105 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2010	99	99	2	103		103	65728	64088	64416	64416	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 103 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2011	99	99	2	100		100	68173	65340	69578	69578	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2012	99	99	2	105		105	70912	67311	74735	74735	100	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 105 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2013	99	99	2	103		103	75132	73000	80629	80629	100	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 103 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2014	99	99	2	100		100	78363	78624	84830	84830	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2015	99	99	2	100	100	100	81769	82071	87985	87985	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2016	99	99	2	100		100	84889	84897	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2017	99	99	2	100	100	100	88322	88391	92131	92131	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2018	99	99	2	100	100	100	87677	87677	91717	91717	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2019	99	99	2	100	100	100	85681	85702	89872	89872	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2020	99	99	2	100	100	100	85981	85981	86916	86916	100	gov		R:	Estimate informed by reported data.  Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2021	99	99	2	100	100	100	80116	80141	83496	83496	100	gov		R:	Estimate informed by reported data.  Although not reflected in reported coverage, the number of doses administered declined 7 percent from 2020 to 2021 alongside a corresponding decline in the reported target population.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv1	2022	97		2	99	97	97	78490	79669	81043	81043	97	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	1999	99	99	1	100	100	100	47577	46784	59876	59876	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2000	99	99	1	100	100	100	47314	47201	58354	58354	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2001	99	99	1	100	100	100	48284	46902	57310	57310	100	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2002	98	98	1	98	98	98	46783	47533	56218	56218	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2003	98	98	1	98	98	98	46967	48079	55495	55495	98	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2004	98	98	1	98		98	47311	48277	54876	54876	98	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2005	97	97	2	97		97	47893	49417	53764	53764	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2006	97	97	2	97		97	49690	51428	53009	53009	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2007	95	95	2	95		95	51484	54328	53495	53495	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2008	98	98	2	98		98	53563	54871	56034	56034	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2009	99	99	2	99		99	56852	57694	60145	60145	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2010	99	99	2	99		99	63335	64088	64416	64416	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2011	99	99	2	99		99	67028	65340	69578	69578	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2012	99	99	2	103		103	69460	67311	74735	74735	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 103 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2013	99	99	2	103		103	74846	73000	80629	80629	99	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 103 percent greater than 100 percent.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2014	99	99	2	99		99	78064	78624	84830	84830	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2015	98	98	2	97	98	98	79453	82071	87985	87985	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2016	99	99	2	100		100	84596	84897	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2017	99	99	2	100	100	100	88250	88391	92131	92131	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2018	99	99	2	99	100	100	86949	87677	91717	91717	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2019	99	99	2	100	100	100	85626	85702	89872	89872	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2020	99	99	2	100	100	100	85977	85981	86916	86916	100	gov		R:	Estimate informed by reported data.   Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2021	99	99	2		100	100			83496	83496	100	gov		R:	Estimate informed by reported data.    GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	mcv2	2022	98		2		98	98			81043	81043	98	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2009	96	96	2	96		96	60571	63000	60145	60145	96	admin		R:	Estimate informed by reported administrative data.   Pneumococcal conjugate vaccine introduced in 2008, reporting started in 2009.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2010	99	99	2	100		100	65198	65500	64416	64416	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2011	99	99	2	99		99			69578	69578	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2012	99	99	1	100		100	67221	67311	74735	74735	100	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2013	99	99	2	99		99	77319	78151	80629	80629	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2014	98	98	2	98		98	80644	82000	84830	84830	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2015	98	98	2	98	98	98	80566	80759	87985	87985	98	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2016	99	99	2	100		100	84891	84897	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2017	99	99	2	100	100	100	88322	88391	92131	92131	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2018	99	99	2	100	100	100	87677	87677	91717	91717	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2019	99	99	2	100	100	100	85681	85702	89872	89872	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2020	99	99	2		100	100			86916	86916	100	gov		R:	Estimate informed by reported data.   Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2021	99	99	2	100	100	100	80116	80141	83496	83496	100	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pcv3	2022	97		2	98	97	97	77930	79428	81043	81043	97	gov		R:	Estimate informed by reported data.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	1997	99	99	2		99	99			60495	60495	99	gov		R: AP	Legacy estimate.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	1998	99	99	2		99	99			60185	60185	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	1999	99	99	1	100	100	100	47510	46784	59876	59876	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2000	99	99	1	100	100	100	48433	47201	58354	58354	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2001	99	99	1	100	100	100	47609	46902	57310	57310	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2002	99	99	1	100	100	100	48155	47533	56218	56218	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2003	99	99	1	100	100	100	48119	48079	55495	55495	100	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2004	99	99	1	99		99	47815	48298	54876	54876	99	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2005	99	99	2	99		99	48958	49417	53764	53764	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2006	98	98	2	98		98	50489		53009	53009	98	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2007	97	97	2	97		97	53268		53495	53495	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2008	97	97	1	109		109	61517	56527	56034	56034	97	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded because 109 percent greater than 100 percent. Reported data excluded due to an increase from 97 percent to 109 percent with decrease 96 percent.  Increase in reported coverage is due to a change in recommended ages for polio vaccination.  Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2009	96	96	2	96		96	60587	63000	60145	60145	96	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2010	99	99	2	99		99	64520	65500	64416	64416	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2011	99	99	2	100		100	68287	68000	69578	69578	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2012	99	99	2	99		99	71933	73000	74735	74735	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2013	99	99	2	100		100	78108	78151	80629	80629	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2014	99	99	2	99		99	81467	82000	84830	84830	99	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2015	99	99	2	98	100	100	84776	86226	87985	87985	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2016	99	99	2	100		100	86280	86288	90334	90334	100	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2017	99	99	2	100	100	100	91013	91040	92131	92131	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2018	99	99	2	99	100	100	86997	87677	91717	91717	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2019	99	99	2	100	100	100	85626	85702	89872	89872	100	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2020	99	99	2	100	100	100	85977	85981	86916	86916	100	gov		R:	Estimate informed by reported data.  Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2021	99	99	2	100	100	100	80116	80141	83496	83496	100	gov		R:	Estimate informed by reported data.  Although not reflected in reported coverage, the number of doses administered declined 7 percent from 2020 to 2021 alongside a corresponding decline in the reported target population.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	pol3	2022	97		2	99	97	97	77496	78649	81043	81043	97	gov		R:	Estimate informed by reported data.  No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	1997	98	98	2						60495	60495				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	1998	98	98	2						60185	60185				R:	Estimate based on estimated MCV1.    GoC=R+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	1999	99	99	1						59876	59876				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2000	99	99	1						58354	58354				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2001	99	99	1						57310	57310				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2002	99	99	1						56218	56218				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2003	98	98	1						55495	55495				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2004	98	98	1						54876	54876				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2005	98	98	2						53764	53764				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2006	96	96	2						53009	53009				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2007	97	97	2						53495	53495				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2008	98	98	2						56034	56034				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2009	99	99	2						60145	60145				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2010	99	99	2						64416	64416				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2011	99	99	2						69578	69578				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2012	99	99	2						74735	74735				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2013	99	99	2						80629	80629				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2014	99	99	2						84830	84830				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2015	99	99	2						87985	87985				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2016	99	99	2				84889	84897	90334	90334				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2017	99	99	2						92131	92131				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2018	99	99	2						91717	91717				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2019	99	99	2						89872	89872				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2020	99	99	2						86916	86916				R:	Estimate based on estimated MCV1.   Inconsistencies in reported denominators across vaccine-doses recommended at the same age. Declines in number of vaccine doses administered in 2020 compared to 2019 for most vaccine-doses.  GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2021	99	99	2						83496	83496				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Oman	Wed Sep 06 19:00:57 2023	omn	rcv1	2022	97		2						81043	81043				R:	Estimate based on estimated MCV1.   No nationally representative household survey within the last 5 years. WHO and UNICEF recommend a high-quality survey to confirm reported levels of coverage and a review of administrative data.  GoC=R+ D+	

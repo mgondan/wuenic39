@@ -1,0 +1,234 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	1997	98	98	1		99	99			5451	5451	99	gov		W: AP	Estimate of 98 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	1998	98	98	1		99	99			5352	5352	99	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	1999	98	98	1		99	99			5495	5495	99	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2000	99	99	1		100	100			5550	5550	100	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 100.    Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2001	99	99	1		100	100			5419	5419	100	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 100.    Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2002	99	99	1		100	100			5314	5314	100	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 100.   High levels of coverage are supported by a survey of 511 children 25-30 months of age, which shows coverage of 100 percent.  Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2003	99	99	1		100	100			5248	5248	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2004	99	99	1		100	100			5386	5386	100	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 100.    Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2005	99	99	1		100	100			5295	5295	100	gov		RMF:	DTP1 coverage estimated based on DTP3 coverage of 100.    Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2006	99	99	1		100	100			5424	5424	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2007	99	99	1		100	100			5392	5392	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2008	99	99	1		100	100			5483	5483	100	gov		C:	Reported data calibrated to 1997 levels.  Nationally reported data are based on the 2007-2008 vaccination coverage survey. High levels of coverage are supported by a survey of 562 children 25-30 months of age, which shows coverage of 99.5 percent.  Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2009	99	99	1		100	100			5562	5562	100	gov		C:	Reported data calibrated to 1997 levels.  Nationally reported data are based on the 2007-2008 vaccination coverage survey.  Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2010	99	99	1		100	100			5755	5755	100	gov		C:	Reported data calibrated to 1997 levels.  High levels of coverage supported by a survey of 614 children aged 25-30 m which shows coverage of 100 percent.  Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2011	99	99	1		100	100			5546	5546	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2012	99	99	1		100	100			5904	5904	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2013	99	99	1		100	100			5993	5993	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2014	99	99	1		100	100			5960	5960	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2015	99	99	1		100	100			5992	5992	100	gov		C:	Reported data calibrated to 1997 levels.  High levels of coverage supported by a survey of 472 children aged 25-30 m which shows coverage of 100 percent.  Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2016	99	99	1		100	100			5966	5966	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2017	99	99	1		100	100			6068	6068	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2018	99	99	1		100	100			6160	6160	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2019	99	99	1						6167	6167	100	interpolated		C:	Reported data calibrated to 1997 levels.   GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2020	99	99	1		100	100			6469	6469	100	gov		C:	Reported data calibrated to 1997 levels.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2021	99	99	1		100	100			6589	6589	100	gov		C:	Reported data calibrated to 1997 levels.  Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp1	2022	99		1						6675	6675	100	extrapolated		C:	Reported data calibrated to 1997 levels.   GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	1997	98	98	2		98	98			5451	5451	98	gov		R: AP	Legacy estimate.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	1998	98	98	2		98	98			5352	5352	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	1999	98	98	2		98	98			5495	5495	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2000	99	99	2		100	100			5550	5550	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2001	99	99	2		100	100			5419	5419	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2002	99	99	2		100	100			5314	5314	100	gov		R:	Estimate informed by reported data.  High levels of coverage are supported by a survey of 511 children 25-30 months of age, which shows coverage of 99.6 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2003	98	98	2		98	98			5248	5248	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2004	99	99	2		100	100			5386	5386	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2005	99	99	2		100	100			5295	5295	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2006	99	99	2		99	99			5424	5424	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2007	99	99	2		99	99			5392	5392	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2008	99	99	2		99	99			5483	5483	99	gov		R:	Estimate informed by reported data.  Nationally reported data are based on the 2007-2008 vaccination coverage survey. High levels of coverage are supported by a survey of 562 children 25-30 months of age, which shows coverage of 99.1 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2009	99	99	2		99	99			5562	5562	99	gov		R:	Estimate informed by reported data.  Nationally reported data are based on the 2007-2008 vaccination coverage survey.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2010	99	99	2		99	99			5755	5755	99	gov		R:	Estimate informed by reported data.  High levels of coverage supported by a survey of 614 children aged 25-30 m which shows coverage of 99 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2011	99	99	2		99	99			5546	5546	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2012	99	99	2		99	99			5904	5904	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2013	99	99	2		99	99			5993	5993	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2014	99	99	2		99	99			5960	5960	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2015	99	99	2		99	99			5992	5992	99	gov		R:	Estimate informed by reported data.  High levels of coverage supported by a survey of 472 children aged 25-30 m which shows coverage of 99 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2016	99	99	2		99	99			5966	5966	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2017	99	99	2		99	99			6068	6068	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2018	99	99	2		99	99			6160	6160	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2019	99	99	1						6167	6167	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2020	99	99	2		99	99			6469	6469	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2021	99	99	2		99	99			6589	6589	99	gov		R:	Estimate informed by reported data.  Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	dtp3	2022	99		1						6675	6675	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	1997	49	49	2		49	49			5451	5451	49	gov		R: AP	Legacy estimate.  HepB reporting started in 1997.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	1998	58	58	1						5352	5352	58	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	1999	67	67	1						5495	5495	67	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2000	77	77	1						5550	5550	77	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2001	86	86	1						5419	5419	86	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2002	95	95	2		95	95			5314	5314	95	gov		R:	Estimate informed by reported data.  High levels of coverage are supported by a survey of 511 children 25-30 months of age, which shows coverage of 94.5 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2003	95	95	2		49	49			5248	5248	95	interpolated		R:	Estimate informed by interpolation between reported data.  Reported data excluded due to decline in reported coverage from 95 percent to 49 percent with increase to 95 percent.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2004	94	94	1		95	95			5386	5386	95	gov		W:	 Estimate based on card only survey results.   Estimate challenged by: R-	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2005	95	95	2		95	95			5295	5295	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2006	95	95	2		95	95			5424	5424	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2007	87	87	2		87	87			5392	5392	87	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2008	94	94	2		94	94			5483	5483	94	gov		R:	Estimate informed by reported data.  Nationally reported data are based on the 2007-2008 vaccination coverage survey. High levels of coverage are supported by a survey of 562 children 25-30 months of age, which shows coverage of 94.5 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2009	95	95	2		95	95			5562	5562	95	gov		R:	Estimate informed by reported data.  Nationally reported data are based on the 2007-2008 vaccination coverage survey.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2010	94	94	2		94	94			5755	5755	94	gov		R:	Estimate informed by reported data.  High levels of coverage supported by a survey of 614 children aged 25-30 m which shows coverage of 94 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2011	95	95	2		95	95			5546	5546	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2012	94	94	2		94	94			5904	5904	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2013	94	94	2		94	94			5993	5993	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2014	94	94	2		94	94			5960	5960	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2015	94	94	2		94	94			5992	5992	94	gov		R:	Estimate informed by reported data.  High levels of coverage supported by a survey of 472 children aged 25-30 m which shows coverage of 99 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2016	94	94	2		94	94			5966	5966	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2017	94	94	2		94	94			6068	6068	94	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2018	96	96	2		96	96			6160	6160	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2019	96	96	1						6167	6167	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2020	96	96	2		96	96			6469	6469	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2021	96	96	2		96	96			6589	6589	96	gov		R:	Estimate informed by reported data.  Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hepb3	2022	96		1						6675	6675	96	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	1997	86	86	2	86		86			5451	5451	86	admin		R: AP	Legacy estimate.  Hib vaccine introduced in 1994. Reporting started in 1997.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	1998	88	88	1						5352	5352	88	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	1999	91	91	1						5495	5495	91	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2000	93	93	1						5550	5550	93	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2001	96	96	1						5419	5419	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2002	98	98	2		98	98			5314	5314	98	gov		R:	Estimate informed by reported data.  High levels of coverage are supported by a survey of 511 children 25-30 months of age, which shows coverage of 98.3 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2003	98	98	2		98	98			5248	5248	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2004	98	98	2		98	98			5386	5386	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2005	98	98	2		98	98			5295	5295	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2006	98	98	2		98	98			5424	5424	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2007	99	99	2		99	99			5392	5392	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2008	99	99	2		99	99			5483	5483	99	gov		R:	Estimate informed by reported data.  Nationally reported data are based on the 2007-2008 vaccination coverage survey. High levels of coverage are supported by a survey of 562 children 25-30 months of age, which shows coverage of 98.5 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2009	99	99	2		99	99			5562	5562	99	gov		R:	Estimate informed by reported data.  Nationally reported data are based on the 2007-2008 vaccination coverage survey.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2010	99	99	2		99	99			5755	5755	99	gov		R:	Estimate informed by reported data.  High levels of coverage supported by a survey of 614 children aged 25-30 m which shows coverage of 99 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2011	99	99	2		99	99			5546	5546	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2012	99	99	2		99	99			5904	5904	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2013	99	99	2		99	99			5993	5993	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2014	99	99	2		99	99			5960	5960	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2015	99	99	2		99	99			5992	5992	99	gov		R:	Estimate informed by reported data.  High levels of coverage supported by a survey of 472 children aged 25-30 m which shows coverage of 98 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2016	99	99	2		99	99			5966	5966	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2017	99	99	2		99	99			6068	6068	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2018	99	99	2		99	99			6160	6160	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2019	99	99	1						6167	6167	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2020	99	99	2		99	99			6469	6469	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2021	99	99	2		99	99			6589	6589	99	gov		R:	Estimate informed by reported data.  Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	hib3	2022	99		1						6675	6675	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	ipv1	2015	99	99	2		100	100			5992	5992	100	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	ipv1	2016	99	99	2		100	100			5966	5966	100	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	ipv1	2017	99	99	2		100	100			6068	6068	100	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	ipv1	2018	99	99	2		100	100			6160	6160	100	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	ipv1	2019	99	99	1						6167	6167	100	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	ipv1	2020	99	99	2		100	100			6469	6469	100	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	ipv1	2021	99	99	2		100	100			6589	6589	100	gov		R:	Estimate informed by reported data.   Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	ipv1	2022	99		1						6675	6675	100	extrapolated		R:	Estimate informed by extrapolation from reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	1997	91	91	2		91	91			5451	5451	91	gov		R: AP	Legacy estimate.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	1998	92	92	1						5352	5352	92	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	1999	92	92	1						5495	5495	92	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2000	93	93	1						5550	5550	93	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2001	94	94	1						5419	5419	94	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2002	94	94	1						5314	5314	94	interpolated		R:	Estimate informed by interpolation between reported data.   High levels of coverage are supported by a survey of 511 children 25-30 months of age, which shows coverage of 95.3 percent.  GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2003	95	95	2		95	95			5248	5248	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2004	95	95	2		95	95			5386	5386	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2005	95	95	2		95	95			5295	5295	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2006	95	95	2		95	95			5424	5424	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2007	96	96	2		96	96			5392	5392	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2008	96	96	2		96	96			5483	5483	96	gov		R:	Estimate informed by reported data.  Nationally reported data are based on the 2007-2008 vaccination coverage survey. High levels of coverage are supported by a survey of 562 children 25-30 months of age, which shows coverage of 96.2 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2009	96	96	2		96	96			5562	5562	96	gov		R:	Estimate informed by reported data.  Nationally reported data are based on the 2007-2008 vaccination coverage survey.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2010	96	96	2		96	96			5755	5755	96	gov		R:	Estimate informed by reported data.  High levels of coverage supported by a survey of 614 children aged 25-30 m which shows coverage of 99 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2011	96	96	2		96	96			5546	5546	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2012	99	99	2		99	99			5904	5904	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2013	99	99	2		99	99			5993	5993	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2014	99	99	2		99	99			5960	5960	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2015	99	99	2		99	99			5992	5992	99	gov		R:	Estimate informed by reported data.  High levels of coverage supported by a survey of 472 children aged 25-30 m which shows coverage of 99 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2016	99	99	2		99	99			5966	5966	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2017	99	99	2		99	99			6068	6068	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2018	99	99	2		99	99			6160	6160	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2019	99	99	1						6167	6167	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2020	99	99	2		99	99			6469	6469	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2021	99	99	2		99	99			6589	6589	99	gov		R:	Estimate informed by reported data.  Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv1	2022	99		1						6675	6675	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2012	86	86	2		86	86			5904	5904	86	gov		R:	Estimate informed by reported data.   Vaccine introduced in 1994 and reporting began in 2012.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2013	86	86	2		86	86			5993	5993	86	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2014	86	86	2		86	86			5960	5960	86	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2015	86	86	2		86	86			5992	5992	86	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2016	86	86	2		86	86			5966	5966	86	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2017	86	86	2		86	86			6068	6068	86	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2018	90	90	2		90	90			6160	6160	90	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2019	90	90	1						6167	6167	90	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2020	90	90	2		90	90			6469	6469	90	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2021	90	90	2		90	90			6589	6589	90	gov		R:	Estimate informed by reported data.   Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	mcv2	2022	90		1						6675	6675	90	extrapolated		R:	Estimate informed by extrapolation from reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2005	86	86	2		86	86			5295	5295	86	gov		R:	Estimate informed by reported data.   Vaccine introduced in 2005.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2006	86	86	2		86	86			5424	5424	86	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2007	86	86	2		86	86			5392	5392	86	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2008	86	86	2		86	86			5483	5483	86	gov		R:	Estimate informed by reported data.   Nationally reported data are based on the 2007-2008 vaccination coverage survey. Pneumococcal conjugate vaccine introduced in 2005 reporting started in 2008. High levels of coverage are supported by a survey of 562 children 25-30 months of age, which shows coverage of 85.6 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2009	86	86	2		86	86			5562	5562	86	gov		R:	Estimate informed by reported data.   Nationally reported data are based on the 2007-2008 vaccination coverage survey.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2010	86	86	2		86	86			5755	5755	86	gov		R:	Estimate informed by reported data.   High levels of coverage supported by a survey of 614 children aged 25-30 m which shows coverage of 95 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2011	86	86	2		86	86			5546	5546	86	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2012	95	95	2		95	95			5904	5904	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2013	95	95	2		95	95			5993	5993	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2014	95	95	2		95	95			5960	5960	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2015	95	95	2		95	95			5992	5992	95	gov		R:	Estimate informed by reported data.   High levels of coverage supported by a survey of 472 children aged 25-30 m which shows coverage of 96 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2016	95	95	2		95	95			5966	5966	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2017	95	95	2		95	95			6068	6068	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2018	96	96	2		96	96			6160	6160	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2019	96	96	1						6167	6167	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2020	96	96	2		96	96			6469	6469	96	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2021	96	96	2		96	96			6589	6589	96	gov		R:	Estimate informed by reported data.   Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pcv3	2022	96		1						6675	6675	96	extrapolated		R:	Estimate informed by extrapolation from reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	1997	98	98	2		98	98			5451	5451	98	gov		R: AP	Legacy estimate.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	1998	98	98	1						5352	5352	98	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	1999	99	99	1						5495	5495	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2000	99	99	1						5550	5550	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2001	99	99	1						5419	5419	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2002	99	99	1						5314	5314	100	interpolated		R:	Estimate informed by interpolation between reported data.   High levels of coverage are supported by a survey of 511 children 25-30 months of age, which shows coverage of 99.6 percent.  GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2003	99	99	2		100	100			5248	5248	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2004	99	99	2		100	100			5386	5386	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2005	99	99	2		100	100			5295	5295	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2006	99	99	2		100	100			5424	5424	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2007	96	96	2		96	96			5392	5392	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2008	96	96	2		96	96			5483	5483	96	gov		R:	Estimate informed by reported data.  Nationally reported data are based on the 2007-2008 vaccination coverage survey. High levels of coverage are supported by a survey of 562 children 25-30 months of age, which shows coverage of 96.4 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2009	96	96	2		96	96			5562	5562	96	gov		R:	Estimate informed by reported data.  Nationally reported data are based on the 2007-2008 vaccination coverage survey.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2010	96	96	2		96	96			5755	5755	96	gov		R:	Estimate informed by reported data.  High levels of coverage supported by a survey of 614 children aged 25-30 m which shows coverage of 100 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2011	96	96	2		96	96			5546	5546	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2012	99	99	2		100	100			5904	5904	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2013	99	99	2		100	100			5993	5993	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2014	99	99	2		100	100			5960	5960	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2015	99	99	2		100	100			5992	5992	100	gov		R:	Estimate informed by reported data.  High levels of coverage supported by a survey of 472 children aged 25-30 m which shows coverage of 99 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2016	99	99	2		100	100			5966	5966	100	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2017	99	99	2		99	99			6068	6068	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2018	99	99	2		99	99			6160	6160	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2019	99	99	1						6167	6167	99	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2020	99	99	2		99	99			6469	6469	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2021	99	99	2		99	99			6589	6589	99	gov		R:	Estimate informed by reported data.  Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	pol3	2022	99		1						6675	6675	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	1997	91	91	2						5451	5451				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	1998	92	92	1						5352	5352				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	1999	92	92	1						5495	5495				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2000	93	93	1						5550	5550				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2001	94	94	1						5419	5419				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2002	94	94	1						5314	5314				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2003	95	95	2						5248	5248				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2004	95	95	2						5386	5386				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2005	95	95	2						5295	5295				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2006	95	95	2						5424	5424				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2007	96	96	2						5392	5392				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2008	96	96	2						5483	5483				R:	Estimate based on estimated MCV1.   Nationally reported data are based on the 2007-2008 vaccination coverage survey.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2009	96	96	2						5562	5562				R:	Estimate based on estimated MCV1.   Nationally reported data are based on the 2007-2008 vaccination coverage survey.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2010	96	96	2						5755	5755				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2011	96	96	2						5546	5546				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2012	99	99	2						5904	5904				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2013	99	99	2						5993	5993				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2014	99	99	2						5960	5960				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2015	99	99	2						5992	5992				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2016	99	99	2						5966	5966				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2017	99	99	2						6068	6068				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2018	99	99	2						6160	6160				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2019	99	99	1						6167	6167				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2020	99	99	2						6469	6469				R:	Estimate based on estimated MCV1.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2021	99	99	2						6589	6589				R:	Estimate based on estimated MCV1.   Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rcv1	2022	99		1						6675	6675				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2009	86	86	2		86	86			5562	5562	86	gov		R:	Estimate informed by reported data.   Nationally reported data are based on the 2007-2008 vaccination coverage survey.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2010	87	87	1						5755	5755	87	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2011	88	88	1						5546	5546	88	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2012	89	89	2		89	89			5904	5904	89	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2013	89	89	2		89	89			5993	5993	89	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2014	89	89	2		89	89			5960	5960	89	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2015	89	89	2		89	89			5992	5992	89	gov		R:	Estimate informed by reported data.   High levels of coverage supported by a survey of 472 children aged 25-30 m which shows coverage of 89 percent.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2016	89	89	2		89	89			5966	5966	89	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2017	89	89	2		89	89			6068	6068	89	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2018	89	89	2		89	89			6160	6160	89	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2019	89	89	1						6167	6167	89	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2020	89	89	2		89	89			6469	6469	89	gov		R:	Estimate informed by reported data.    GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2021	89	89	2		89	89			6589	6589	89	gov		R:	Estimate informed by reported data.   Official estimates are derived from the latest vaccination coverage survey of children aged 25-30 months.  GoC=R+	
+Luxembourg	Wed Sep 06 18:55:29 2023	lux	rotac	2022	89		1						6675	6675	89	extrapolated		R:	Estimate informed by extrapolation from reported data.    GoC=No accepted empirical data	

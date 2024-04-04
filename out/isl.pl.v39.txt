@@ -1,0 +1,196 @@
+Country	ProductionDate	ISOCountryCode	Vaccine	Year	WUENIC	WUENICPreviousRevision	GradeOfConfidence	AdministrativeCoverage	GovernmentEstimate	ReportedCoverage	ChildrenVaccinated	ChildrenInTarget	BirthsUNPD	SurvivingInfantsUNPD	ReportedTimeSeries	ReportedTimeSeriesSource	SurveyInformation	Rule	Comment	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	1997	99	99	1						4164	4164	99	extrapolated		R: AP	Legacy estimate.   GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	1998	99	99	1						4166	4166	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	1999	99	99	1						4103	4103	99	extrapolated		R:	Estimate based on extrapolation from data reported by national government.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2000	99	99	2		99	99		4100	4280	4280	99	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2001	95	95	2		95	95			4094	4094	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2002	96	96	1						4067	4067	96	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2003	97	97	2	97	97	97	3970	4100	4161	4161	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2004	99	99	2	99	99	99	4066	4100	4238	4238	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2005	95	95	2	95	95	95	4275	4500	4249	4249	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2006	97	97	2	97	97	97	4000	4125	4378	4378	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2007	97	97	2	97		97	4423	4560	4495	4495	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2008	99	99	1	94		94	3419	3645	4797	4797	94	admin		RMF:	DTP1 coverage estimated based on DTP3 coverage of 98.    Estimate challenged by: D-R-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2009	99	99	2	99	99	99	4828	4835	5061	5061	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2010	98	98	2		98	98		4907	4921	4921	98	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2011	99	99	2	100	99	99	4882	4898	4530	4530	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2012	97	97	2	97	97	97	4361	4501	4537	4537	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2013	97	97	2	97	97	97	4356	4502	4324	4324	97	gov		R:	Estimate informed by reported data.  The number of vaccinated children is obtained from the National Vaccination Registry. Previously, the number was estimated from sales figures. Iceland uses the number of vaccinated individuals by birth cohorts currently living in Iceland (both Icelandic citizens and foreigners). Therefore, the reported numerator and coverage represent minimum coverage because it is not certain that all doses administered have been recorded by the system.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2014	96	96	2	96	96	96	4152	4325	4354	4354	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2015	96	96	2	96	96	96	4185	4361	4125	4125	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2016	96	96	2	96	96	96	4019	4168	4012	4012	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2017	97	97	2	97	97	97	3933	4044	4001	4001	97	gov		R:	Estimate informed by reported data.  Programme reports two months vaccine stockout.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2018	97	97	2	97	97	97	3992	4127	4171	4171	97	gov		R:	Estimate informed by reported data.  Reported coverage based on data from the national vaccination registry. Programme reports two months vaccine stockout at the national level.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2019	95	95	2	95	95	95	4135	4362	4402	4402	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2020	96	96	2	96	96	96	4405	4606	4534	4534	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2021	97	97	2	97	97	97	4455	4609	4572	4572	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp1	2022	95		1	95	95	95	4808	5040	4568	4568	95	gov		R:	Estimate informed by reported data.  Although coverage remains stable in recent years, reported number of children vaccinated for most antigens is increasing due in part to improvements in recording doses administered. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	1997	99	99	1		100	100			4164	4164	100	gov		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	1998	99	99	1						4166	4166	99	interpolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	1999	98	98	1						4103	4103	99	interpolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2000	98	98	2		98	98		4100	4280	4280	98	gov		R: AP	 Estimate based on reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2001	92	92	2		92	92			4094	4094	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2002	95	95	1						4067	4067	95	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2003	97	97	2	97	97	97	3970	4100	4161	4161	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2004	99	99	2	99	99	99	4066	4100	4238	4238	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2005	95	95	2	95	95	95	4275	4500	4249	4249	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2006	97	97	2	97	97	97	4000	4125	4378	4378	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2007	97	97	2	97		97	4423	4560	4495	4495	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2008	98	98	1	98		98	8153	8305	4797	4797	98	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2009	96	96	2	96	96	96	4652	4835	5061	5061	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2010	96	96	2		96	96		4907	4921	4921	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2011	95	95	2	95	95	95	4670	4898	4530	4530	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2012	89	89	2	89	89	89	3985	4501	4537	4537	89	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2013	91	91	2	91	91	91	4106	4502	4324	4324	91	gov		R:	Estimate informed by reported data.  The number of vaccinated children is obtained from the National Vaccination Registry. Previously, the number was estimated from sales figures. Iceland uses the number of vaccinated individuals by birth cohorts currently living in Iceland (both Icelandic citizens and foreigners). Therefore, the reported numerator and coverage represent minimum coverage because it is not certain that all doses administered have been recorded by the system.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2014	90	90	2	90	90	90	3892	4325	4354	4354	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2015	92	92	2	92	92	92	4019	4361	4125	4125	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2016	91	91	2	87	91	91	3617	4168	4012	4012	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2017	89	89	2	91	89	89	3765	4141	4001	4001	89	gov		R:	Estimate informed by reported data.  Programme reports two months vaccine stockout.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2018	91	91	2	91	91	91	3739	4127	4171	4171	91	gov		R:	Estimate informed by reported data.  Reported coverage based on data from the national vaccination registry. Programme reports two months vaccine stockout at the national level.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2019	92	92	2	93	92	92	4037	4362	4402	4402	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2020	93	93	2	93	93	93	4300	4606	4534	4534	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2021	92	92	2	92	92	92	4240	4609	4572	4572	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	dtp3	2022	92		2	92	92	92	4645	5040	4568	4568	92	gov		R:	Estimate informed by reported data.  Although coverage remains stable in recent years, reported number of children vaccinated for most antigens is increasing due in part to improvements in recording doses administered. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	1997	99	99	1						4164	4164	98	extrapolated		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	1998	99	99	1						4166	4166	98	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	1999	98	98	1						4103	4103	98	extrapolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2000	98	98	2		98	98		4100	4280	4280	98	gov		R: AP	 Estimate based on reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2001	92	92	2		92	92			4094	4094	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2002	95	95	1						4067	4067	95	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2003	97	97	2	97	97	97			4161	4161	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2004	99	99	2	99	99	99	4066	4100	4238	4238	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2005	95	95	2	95	95	95			4249	4249	95	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2006	97	97	2	97	97	97	4000	4125	4378	4378	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2007	97	97	2	97		97	4423	4560	4495	4495	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2008	98	98	1	98		98	8153	8305	4797	4797	98	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2009	96	96	2	96	96	96	4652	4835	5061	5061	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2010	96	96	2		96	96		4907	4921	4921	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2011	95	95	2	95		95	4670	4898	4530	4530	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2012	89	89	2	89		89	3985	4501	4537	4537	89	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2013	91	91	2	91	91	91	4106	4502	4324	4324	91	gov		R:	Estimate informed by reported data.  The number of vaccinated children is obtained from the National Vaccination Registry. Previously, the number was estimated from sales figures. Iceland uses the number of vaccinated individuals by birth cohorts currently living in Iceland (both Icelandic citizens and foreigners). Therefore, the reported numerator and coverage represent minimum coverage because it is not certain that all doses administered have been recorded by the system.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2014	90	90	2	90	90	90	3893	4325	4354	4354	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2015	92	92	2	92	92	92	4019	4361	4125	4125	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2016	91	91	2	87	91	91	3617	4168	4012	4012	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2017	89	89	2	91	89	89	3765	4141	4001	4001	89	gov		R:	Estimate informed by reported data.  Programme reports two months vaccine stockout.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2018	91	91	2	91	91	91	3739	4127	4171	4171	91	gov		R:	Estimate informed by reported data.  Reported coverage based on data from the national vaccination registry. Programme reports two months vaccine stockout at national level.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2019	93	93	2	93	93	93	4037	4362	4402	4402	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2020	93	93	2	93	93	93	4300	4606	4534	4534	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2021	92	92	2	92	92	92	4240	4609	4572	4572	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	hib3	2022	92		2	92	92	92	4645	5040	4568	4568	92	gov		R:	Estimate informed by reported data.  Although coverage remains stable in recent years, reported number of children vaccinated for most antigens is increasing due in part to improvements in recording doses administered. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	ipv1	2015	96	96	2	96	96	96	4185	4361	4125	4125	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	ipv1	2016	96	96	2	96	96	96	4019	4168	4012	4012	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	ipv1	2017	97	97	2	97	97	97	3933	4044	4001	4001	97	gov		R:	Estimate informed by reported data.   Programme reports two months vaccine stockout.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	ipv1	2018	97	97	2	97	97	97	3992	4127	4171	4171	97	gov		R:	Estimate informed by reported data.   Reported coverage based on data from the national vaccination registry. Programme reports two months vaccine stockout at the national level.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	ipv1	2019	95	95	2	95	95	95			4402	4402	95	gov		R:	Estimate informed by reported data.    GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	ipv1	2020	96	96	2	96	96	96	4405	4606	4534	4534	96	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	ipv1	2021	97	97	2	97	97	97	4455	4609	4572	4572	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	ipv1	2022	95		1	95	95	95	4808	5040	4568	4568	95	gov		R:	Estimate informed by reported data.   Although coverage remains stable in recent years, reported number of children vaccinated for most antigens is increasing due in part to improvements in recording doses administered. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	1997	99	99	1		100	100			4164	4164	100	gov		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	1998	96	96	1						4166	4166	97	interpolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	1999	94	94	1						4103	4103	94	interpolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2000	91	91	2		91	91		4100	4280	4280	91	gov		R: AP	 Estimate based on reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2001	88	88	2		88	88			4094	4094	88	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2002	91	91	1						4067	4067	91	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2003	93	93	2	93	93	93			4161	4161	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2004	93	93	2	93	93	93	3800	4100	4238	4238	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2005	90	90	2		90	90			4249	4249	90	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2006	95	95	2	95	95	95	3920	4125	4378	4378	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2007	95	95	2	95		95	4139	4357	4495	4495	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2008	96	96	1	96		96	5844	6080	4797	4797	96	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2009	92	92	2	92	92	92	4193	4560	5061	5061	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2010	93	93	2		93	93		4728	4921	4921	93	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2011	94	94	2	94	94	94	4600	4880	4530	4530	94	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2012	90	90	1	90	90	90	4876	4361	4537	4537	90	gov		R:	Estimate informed by reported data.   Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2013	91	91	1	91	91	91	4453	4879	4324	4324	91	gov		R:	Estimate informed by reported data.  The number of vaccinated children is obtained from the National Vaccination Registry. Previously, the number was estimated from sales figures. Iceland uses the number of vaccinated individuals by birth cohorts currently living in Iceland (both Icelandic citizens and foreigners). Therefore, the reported numerator and coverage represent minimum coverage because it is not certain that all doses administered have been recorded by the system.  Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2014	90	90	2	90	90	90	4100	4556	4354	4354	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2015	93	93	2	93	93	93	4232	4556	4125	4125	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2016	91	91	2	92	91	91	4036	4382	4012	4012	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2017	92	92	2	92	92	92	3990	4344	4001	4001	92	gov		R:	Estimate informed by reported data.  Programme reports one month vaccine stockout.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2018	93	93	2	93	93	93	3956	4260	4171	4171	93	gov		R:	Estimate informed by reported data.  Reported coverage based on data from the national vaccination registry.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2019	93	93	2	93	93	93	3936	4253	4402	4402	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2020	93	93	2	93	93	93	4089	4402	4534	4534	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2021	92	92	2	92	92	92	4248	4639	4572	4572	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv1	2022	91		2	91	91	91	4286	4687	4568	4568	91	gov		R:	Estimate informed by reported data.  Although coverage remains stable in recent years, reported number of children vaccinated for most antigens is increasing due in part to improvements in recording doses administered. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage. Programme reports a 1.5 month vaccine stockout at the national and subnational levels.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2003	92	92	2	92	92	92	3700	4100	4161	4161	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2004	89	89	2	89	89	89	3600	4100	4238	4238	89	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2005	90	90	2	90	90	90	4050	4500	4249	4249	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2006	93	93	2	93	93	93	3720	4000	4378	4378	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2007	95	95	2	95		95	4322	4549	4495	4495	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2008	94	94	2	94		94			4797	4797	94	admin		R:	Estimate informed by reported administrative data.    GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2009	93	93	2	93	93	93	4207	4524	5061	5061	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2010	92	92	1					4306	4921	4921	92	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2011	90	90	2	90	90	90	3801	4214	4530	4530	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2012	97	97	2	97	97	97	4231	4090	4537	4537	97	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2013	94	94	2	94	94	94	4002	4250	4324	4324	94	gov		R:	Estimate informed by reported data.   The number of vaccinated children is obtained from the National Vaccination Registry. Previously, the number was estimated from sales figures. Iceland uses the number of vaccinated individuals by birth cohorts currently living in Iceland (both Icelandic citizens and foreigners). Therefore, the reported numerator and coverage represent minimum coverage because it is not certain that all doses administered have been recorded by the system.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2014	93	93	2	93	93	93	3908	4202	4354	4354	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2015	94	94	2	94	94	94	3877	4137	4125	4125	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2016	95	95	2	95	95	95	4084	4276	4012	4012	95	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2017	95	95	2	95	95	95	4166	4390	4001	4001	95	gov		R:	Estimate informed by reported data.   Programme reports one month vaccine stockout.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2018	95	95	2	95	95	95	4215	4445	4171	4171	95	gov		R:	Estimate informed by reported data.   Reported coverage based on data from the national vaccination registry.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2019	94	94	2	94	94	94	4426	4731	4402	4402	94	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2020	93	93	2	93	93	93	4647	4989	4534	4534	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2021	10	10	2	10	10	10	536	5223	4572	4572	10	gov		R:	Estimate informed by reported data.   Programme notes that the second dose of measles is administered in schools and was delayed due to the need to accommodate COVID-19 vaccinations for 7th graders as well as a continued COVID-vaccination for grades 1-6 that impacted available staffing to administer MMR vaccine.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	mcv2	2022	80		1	80	80	80	4248	5324	4568	4568	80	gov		R:	Estimate informed by reported data.   Although coverage remains stable in recent years, reported number of children vaccinated for most antigens is increasing due in part to improvements in recording doses administered. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage. Programme reports a 1.5 month vaccine stockout at the national and subnational levels. Resumption of vaccination activities in schools.  Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2012	86	86	1	86	86	86	4501	3834	4537	4537	86	gov		R:	Estimate informed by reported data.    Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2013	88	88	2	88	88	88	3984	4502	4324	4324	88	gov		R:	Estimate informed by reported data.   The number of vaccinated children is obtained from the National Vaccination Registry. Previously, the number was estimated from sales figures. Iceland uses the number of vaccinated individuals by birth cohorts currently living in Iceland (both Icelandic citizens and foreigners). Therefore, the reported numerator and coverage represent minimum coverage because it is not certain that all doses administered have been recorded by the system.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2014	90	90	2	90	90	90	3893	4325	4354	4354	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2015	91	91	2	91	91	91	3965	4361	4125	4125	91	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2016	90	90	2	86	90	90	3601	4168	4012	4012	90	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2017	88	88	2	91	88	88	3765	4141	4001	4001	88	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2018	90	90	2	90	90	90	3725	4127	4171	4171	90	gov		R:	Estimate informed by reported data.   Reported coverage based on data from the national vaccination registry.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2019	92	92	2	92	92	92	4018	4362	4402	4402	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2020	93	93	2	93	93	93	4287	4606	4534	4534	93	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2021	92	92	2	92	92	92	4254	4609	4572	4572	92	gov		R:	Estimate informed by reported data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pcv3	2022	84		2	84	84	84	4254	5040	4568	4568	84	gov		R:	Estimate informed by reported data.   Although coverage remains stable in recent years, reported number of children vaccinated for most antigens is increasing due in part to improvements in recording doses administered. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage. Programme reports a two months vaccine stockout at the national and subnational levels.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	1997	99	99	1		100	100			4164	4164	100	gov		W: AP	Estimate of 99 percent assigned by working group. Legacy estimate.   Estimate challenged by: R-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	1998	99	99	1						4166	4166	99	interpolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	1999	98	98	1						4103	4103	99	interpolated		C:	Reported data calibrated to 1997 and 2000 levels.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2000	98	98	2		98	98		4100	4280	4280	98	gov		R: AP	 Estimate based on reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2001	92	92	2		92	92			4094	4094	92	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2002	95	95	1						4067	4067	95	interpolated		R:	Estimate informed by interpolation between reported data.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2003	97	97	2	97	97	97			4161	4161	97	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2004	99	99	2	99	99	99	4066	4100	4238	4238	99	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2005	95	95	2	95	95	95	4275	4500	4249	4249	95	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2006	97	97	2	97	97	97	4000		4378	4378	97	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2007	97	97	2	97		97	4423		4495	4495	97	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2008	98	98	1	98		98	8153	8305	4797	4797	98	admin		R:	Estimate informed by reported administrative data.    Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2009	96	96	2	96	96	96	4652	4835	5061	5061	96	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2010	96	96	2		96	96		4907	4921	4921	96	gov		R:	Estimate informed by reported data.   GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2011	95	95	2	95		95	4670	4898	4530	4530	95	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2012	89	89	2	89		89	3985	4501	4537	4537	89	admin		R:	Estimate informed by reported administrative data.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2013	91	91	2	91	91	91	4106	4502	4324	4324	91	gov		R:	Estimate informed by reported data.  The number of vaccinated children is obtained from the National Vaccination Registry. Previously, the number was estimated from sales figures. Iceland uses the number of vaccinated individuals by birth cohorts currently living in Iceland (both Icelandic citizens and foreigners). Therefore, the reported numerator and coverage represent minimum coverage because it is not certain that all doses administered have been recorded by the system.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2014	90	90	2	90	90	90	3893	4325	4354	4354	90	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2015	92	92	2	92	92	92	4019	4361	4125	4125	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2016	91	91	2	87	91	91	3617	4168	4012	4012	91	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2017	89	89	2	91	89	89	3765	4141	4001	4001	89	gov		R:	Estimate informed by reported data.  Programme reports two months vaccine stockout.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2018	91	91	2	91	91	91	3739	4127	4171	4171	91	gov		R:	Estimate informed by reported data.  Reported coverage based on data from the national vaccination registry.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2019	93	93	2	93	93	93	4037	4362	4402	4402	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2020	93	93	2	93	93	93	4300	4606	4534	4534	93	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2021	92	92	2	92	92	92	4240	4609	4572	4572	92	gov		R:	Estimate informed by reported data.   GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	pol3	2022	92		2	92	92	92	4645	5040	4568	4568	92	gov		R:	Estimate informed by reported data.  Although coverage remains stable in recent years, reported number of children vaccinated for most antigens is increasing due in part to improvements in recording doses administered. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	1997	99	99	1						4164	4164				W: AP	Estimate based on estimated MCV1.    Estimate challenged by: R-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	1998	96	96	1						4166	4166				C:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	1999	94	94	1						4103	4103				C:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2000	91	91	2						4280	4280				R: AP	Estimate based on estimated MCV1.    GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2001	88	88	2						4094	4094				R:	Estimate based on estimated MCV1.    GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2002	91	91	1						4067	4067				R:	Estimate based on estimated MCV1.    GoC=No accepted empirical data	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2003	93	93	2						4161	4161				R:	Estimate based on estimated MCV1.    GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2004	93	93	2						4238	4238				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2005	90	90	2						4249	4249				R:	Estimate based on estimated MCV1.    GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2006	95	95	2						4378	4378				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2007	95	95	2						4495	4495				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2008	96	96	1						4797	4797				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2009	92	92	2						5061	5061				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2010	93	93	2						4921	4921				R:	Estimate based on estimated MCV1.    GoC=R+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2011	94	94	2						4530	4530				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2012	90	90	1						4537	4537				R:	Estimate based on estimated MCV1.    Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2013	91	91	1						4324	4324				R:	Estimate based on estimated MCV1.   The number of vaccinated children is obtained from the National Vaccination Registry. Previously, the number was estimated from sales figures. Iceland uses the number of vaccinated individuals by birth cohorts currently living in Iceland (both Icelandic citizens and foreigners). Therefore, the reported numerator and coverage represent minimum coverage because it is not certain that all doses administered have been recorded by the system.  Estimate challenged by: D-	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2014	90	90	2						4354	4354				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2015	93	93	2						4125	4125				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2016	91	91	2				4036	4382	4012	4012				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2017	92	92	2				3990	4344	4001	4001				R:	Estimate based on estimated MCV1.   Programme reports one month vaccine stockout.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2018	93	93	2						4171	4171				R:	Estimate based on estimated MCV1.   Reported coverage based on data from the national vaccination registry.  GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2019	93	93	2						4402	4402				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2020	93	93	2						4534	4534				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2021	92	92	2						4572	4572				R:	Estimate based on estimated MCV1.    GoC=R+ D+	
+Iceland	Wed Sep 06 18:51:32 2023	isl	rcv1	2022	91		2						4568	4568				R:	Estimate based on estimated MCV1.   Although coverage remains stable in recent years, reported number of children vaccinated for most antigens is increasing due in part to improvements in recording doses administered. No nationally representative independent assessment within the last 5 years. WHO and UNICEF recommend a high-quality independent empirical assessment to confirm reported levels of coverage.  GoC=R+ D+	
