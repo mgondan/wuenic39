@@ -1,6 +1,6 @@
 # wuenic39
 
-Assuming that xsb64 is on the PATH,
+Please make sure that both xsb64 and swipl are on the PATH.
 
 For a single country
 ````
